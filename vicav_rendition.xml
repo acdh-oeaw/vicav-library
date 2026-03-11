@@ -48,6 +48,7 @@
             <rendition xml:id="inParentheses" scheme="free">parenthesis before and after the content of this element</rendition>
             
             <rendition xml:id="ellipsisInSquareBrackets" scheme="css">content: "[…]";</rendition>
+            <rendition xml:id="withBowBelow" scheme="free">a bow/arc similar to the character U+23DD BOTTOM PARENTHESIS (but below the baseline) should be rendered below the space between this element and the next one</rendition>
          </tagsDecl>
       </encodingDesc>
    </teiHeader>
