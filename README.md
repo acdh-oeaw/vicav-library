@@ -5,12 +5,15 @@ This repository contains common data that is shared between the VICAV projects
 
 * Bibliography
 * Geo data
+* Rendition instructions
 
 Contents description
 --------------------
 
 Geo data contains place names in different writings and languages used elsewhere in the VICAV projects.  
 One such place is the bibliography where the geo coordinates are added to the Zotero export by looking up the names in Zotero in the geo data file.
+
+In `vicav_rendition.xml` we suggest a rendering for TEI tags used in our data.
 
 Usage
 -----
