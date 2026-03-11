@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add 010_manannot/vicav_biblio_tei_zotero.xml
+          git add vicav_biblio/vicav_biblio_tei_zotero.xml
           git commit -m "TEI bibliography converted from Zotero data" -a
       - name: Push changes back to GitHub
         uses: ad-m/github-push-action@master
