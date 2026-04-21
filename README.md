@@ -33,4 +33,4 @@ After having committed and pushed changes to vicav-library do the following step
 * change to the project data repository
 * `git submodule update --remote`: This fetches the updated version of vicav-library
 * `git add vicav-library`: set the submodule to the latest commit of vicav-library
-* `git commit -m 'updating vicav-library` and `git push` 
+* `git commit -m 'updating vicav-library'` and `git push` 
