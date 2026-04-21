@@ -331,6 +331,16 @@
           <idno type="geoNames">250649</idno>
           <note>This is one of the locations for the Ḥwēṭāt Tribe.</note>
         </place>
+        <place type="geo" xml:id="al_jazira_region">
+          <placeName type="prefLabel">al-Jazira</placeName>
+          <location>
+            <geo decls="#dms">36°30'00"N 40°45'00"E</geo>
+            <geo decls="#dd">36.50000 40.75000</geo>
+            <country key="SY">Syria</country>
+          </location>
+          <idno type="geoNames">174918</idno>
+          <note>Non-administrative cultural-geographic region (Upper Mesopotamia)</note>
+        </place>
         <place type="geo" xml:id="al_mashrafah">
           <placeName type="prefLabel">al-Mashrafah</placeName>
           <!-- Remove after standardization -->
@@ -476,6 +486,13 @@
             <country key="OM">Oman</country>
           </location>
           <idno type="geoNames">289222</idno>
+        </place>
+        <place type="geo" xml:id="al_jasaa">
+          <placeName type="prefLabel">al-Jas'a</placeName>
+          <location>
+            <country key="SY">Syria</country>
+          </location>
+          <note>Village in al-Hasakah Governorate, associated with the Tell Brak countryside / Bir al-Helou al-Wardiya area. No secure GeoNames match identified yet.</note>
         </place>
         <place type="geo" xml:id="al_karak">
           <placeName type="prefLabel">al-Karak</placeName>
@@ -920,6 +937,17 @@
             <country key="IQ">Iraq</country>
           </location>
           <idno type="geoNames">98182</idno>
+        </place>
+        <place type="geo" xml:id="al_buwayr_daraa">
+          <placeName type="prefLabel">Al-Buwayr</placeName>
+          <placeName xml:lang="ar" type="standard">??????</placeName>
+          <location>
+            <geo decls="#dms">32°52'00"N 36°12'00"E</geo>
+            <geo decls="#dd">32.86667 36.20000</geo>
+            <country key="SY">Syria</country>
+          </location>
+          <idno type="geoNames">172408</idno>
+          <note>Village in Daraa Governorate (Izra' District)</note>
         </place>
         <place type="geo" xml:id="al_baha">
           <placeName type="prefLabel">al-Baha</placeName>
