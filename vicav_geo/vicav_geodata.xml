@@ -333,6 +333,7 @@
         </place>
         <place type="geo" xml:id="al_jazira_region">
           <placeName type="prefLabel">al-Jazira</placeName>
+          <placeName type="altLabel">Jazira</placeName>
           <location>
             <geo decls="#dms">36°30'00"N 40°45'00"E</geo>
             <geo decls="#dd">36.50000 40.75000</geo>
@@ -5590,7 +5591,7 @@
         <place type="reg" xml:id="harran_urfa">
           <placeName type="prefLabel">Harran-Urfa Region</placeName>
           <!-- Remove after standardization -->
-          <placeName xml:lang="en">Harran-Urfa</placeName>
+          <placeName type="altLabel">Harran-Urfa</placeName>
           <location>
             <geo decls="#dms">36°51'36"N 39°01'53"E</geo>
             <geo decls="#dd">36.860000 39.031389</geo>
