@@ -20,9 +20,17 @@ Usage
 
 We include this library as a git submodule in other VICAV project data repositories.
 
-A git submodule always references revision identified by its hash. Updates need to be done explicitly by updating such submodules. After having committed and pushed changes to vicav-library do the following steps:
+If you've cloned the project repo but don't have the submodule yet do `git submodule init vicav-library` and `git submodule update vicav-library`
+
+A git submodule always references revision identified by its hash. Updates need to be done explicitly by updating such submodules. 
+When you want to update sth in vicav-library:
+If you're in the project repository where the submodule is included:
+* Enter submodule with `cd vicav-library` then do  `git switch main` and `git pull origin main`  to make sure you're working in the up-to-date main branch.
+* Make edits, commit, and push **inside submodule**
+
+After having committed and pushed changes to vicav-library do the following steps:
 
 * change to the project data repository
 * `git submodule update --remote`: This fetches the updated version of vicav-library
 * `git add vicav-library`: set the submodule to the latest commit of vicav-library
-* `git commit -m 'updating vicav-library' and `git push` 
+* `git commit -m 'updating vicav-library` and `git push` 
