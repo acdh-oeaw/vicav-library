@@ -8,7 +8,7 @@
         <p>unpublished</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-05-12 09:22:46</p>
+        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-06-03 11:08:33</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -1719,9 +1719,9 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
           <ref target="geo:lebanon" type="subject" subtype="geographic">Lebanon</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
         </biblStruct>
-        <biblStruct type="book" xml:id="Diez_Prochazka_2027_6758" corresp="http://zotero.org/groups/2165756/items/PQ9MSXMF" n="Iriarte_Díez2027">
-          <monogr>
-            <title level="m">Bedouin-type Arabic: How the speech of nomadic communities has shaped the history and present of the Arabic language</title>
+        <biblStruct type="journalArticle" xml:id="Diez_Prochazka_2028_6758" corresp="http://zotero.org/groups/2165756/items/PQ9MSXMF" n="Iriarte_Díez2027">
+          <analytic>
+            <title level="a">Bedouin-type Arabic: How the speech of nomadic communities has shaped the history and present of the Arabic language</title>
             <author>
               <forename>Ana</forename>
               <surname>Iriarte Díez</surname>
@@ -1730,8 +1730,11 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
               <forename>Stephan</forename>
               <surname>Procházka</surname>
             </author>
+          </analytic>
+          <monogr>
+            <title level="j">Forthcoming</title>
             <imprint>
-              <date>2027</date>
+              <date>2028</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -3541,6 +3544,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
             </author>
           </analytic>
           <monogr>
+            <title level="j">Forthcoming</title>
             <imprint>
               <date>2027</date>
             </imprint>
@@ -3559,6 +3563,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
             </author>
           </analytic>
           <monogr>
+            <title level="j">Forthcoming</title>
             <imprint>
               <date>2027</date>
             </imprint>
@@ -5110,6 +5115,7 @@ variation based on the speaker’s age,gender and origin. Moreover, comparative 
         <biblStruct type="journalArticle" xml:id="Prochazka_2026_1234" corresp="http://zotero.org/groups/2165756/items/USEURZ4J" n="Procházka">
           <analytic>
             <title level="a">The low vowel insertion rule after gutturals - aka the gahawa-syndrome: Types, synchronic distribution, diachronic developments and the rule's role in Bedouin-type Arabic</title>
+            <idno type="DOI">10.1093/jss/fgaf037</idno>
             <author>
               <forename>Stephan</forename>
               <surname>Procházka</surname>
@@ -5119,6 +5125,8 @@ variation based on the speaker’s age,gender and origin. Moreover, comparative 
             <title level="j">Journal of Semitic Studies</title>
             <imprint>
               <biblScope unit="volume">71</biblScope>
+              <biblScope unit="chapter">1</biblScope>
+              <biblScope unit="page">307-342</biblScope>
               <date>2026</date>
             </imprint>
           </monogr>
@@ -5314,6 +5322,24 @@ variation based on the speaker’s age,gender and origin. Moreover, comparative 
           <ref target="vt:oral_literature" type="subject" subtype="concept">oral literature</ref>
           <ref target="vt:oral_narratives" type="subject" subtype="concept">oral narratives</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Procházka2028" corresp="http://zotero.org/groups/2165756/items/ESWH96UX" n="Procházka2028">
+          <monogr>
+            <title level="m">Minority Bedouin-type Arabic in the Harran–Urfa region (southeastern Turkey). II: Phonology, morphology, syntax</title>
+            <author>
+              <forename>Stephan</forename>
+              <surname>Procházka</surname>
+            </author>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <biblScope unit="volume">Forthcoming</biblScope>
+              <publisher>Open Book Publishers</publisher>
+              <date>2028</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Cambridge Semitic Languages and Cultures</title>
+          </series>
         </biblStruct>
         <biblStruct type="presentation" xml:id="Ritt-Benmimoun_2019_7823" corresp="http://zotero.org/groups/2165756/items/VJ5GPXPJ" n="Ritt-Benmimoun2019b">
           <monogr>
@@ -13212,6 +13238,22 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
         </biblStruct>
+        <biblStruct type="thesis" xml:id="alhamiry_2007_5827" corresp="http://zotero.org/groups/2165756/items/WI3G7LJG" n="AlShammiry2007">
+          <monogr>
+            <title level="m">The clause structure of Turaif Arabic</title>
+            <author>
+              <forename>Khalaf M.</forename>
+              <surname>AlShammiry</surname>
+            </author>
+            <imprint>
+              <pubPlace>Lawrence</pubPlace>
+              <date>2007</date>
+              <note type="thesisType">PhD thesis</note>
+            </imprint>
+          </monogr>
+          <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
+          <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
+        </biblStruct>
         <biblStruct type="book" xml:id="alhawary_2018_5809" corresp="http://zotero.org/groups/2165756/items/6QNLQCG9" n="Alhawary2018">
           <monogr>
             <title level="m">The Routledge handbook of Arabic second language acquisition</title>
@@ -13992,6 +14034,42 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+        </biblStruct>
+        <biblStruct type="thesis" xml:id="alzahrani_2014_2928" corresp="http://zotero.org/groups/2165756/items/RXKTNMWD" n="Alzahrani2014">
+          <monogr>
+            <title level="m">Phonological description of Zahrani dialects</title>
+            <author>
+              <forename>Halima</forename>
+              <surname>Alzahrani</surname>
+            </author>
+            <imprint>
+              <pubPlace>Fullerton</pubPlace>
+              <date>2014</date>
+              <note type="thesisType">MA thesis</note>
+            </imprint>
+          </monogr>
+          <ref target="geo:asir" type="subject" subtype="geographic">'Asir</ref>
+          <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
+          <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
+          <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
+        </biblStruct>
+        <biblStruct type="thesis" xml:id="alzahrani_2015_8272" corresp="http://zotero.org/groups/2165756/items/67CJI6KL" n="Alzahrani2015">
+          <monogr>
+            <title level="m">Topics in the grammar of Zahrani spoken Arabic</title>
+            <author>
+              <forename>Salih Jamaan</forename>
+              <surname>Alzahrani</surname>
+            </author>
+            <imprint>
+              <pubPlace>University of Newcastle</pubPlace>
+              <date>2015</date>
+              <note type="thesisType">PhD thesis</note>
+            </imprint>
+          </monogr>
+          <ref target="geo:asir" type="subject" subtype="geographic">'Asir</ref>
+          <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
+          <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
+          <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
         </biblStruct>
         <biblStruct type="thesis" xml:id="alzoubi_2017_1865" corresp="http://zotero.org/groups/2165756/items/SGNS8AAP" n="Alzoubi2017">
           <monogr>
@@ -21409,29 +21487,6 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="vt:Egypt-Sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
-        </biblStruct>
-        <biblStruct type="book" xml:id="behnstedt_2010_9999" corresp="http://zotero.org/groups/2165756/items/NQJ3F643" n="Behnstedt2010">
-          <monogr>
-            <title level="m">Wortatlas der arabischen Dialekte</title>
-            <idno type="ISBN">978-90-04-21577-1</idno>
-            
-            <author>
-              <forename>Peter</forename>
-              <surname>Behnstedt</surname>
-            </author>
-            <author>
-              <forename>Manfred</forename>
-              <surname>Woidich</surname>
-            </author>
-            <imprint>
-              <biblScope unit="volume">100</biblScope>
-              <publisher>Brill</publisher>
-              <date>2010</date>
-            </imprint><extent>1</extent>
-          </monogr>
-          <series>
-            <title level="s">Handbook of Oriental Studies. Section 1 The Near and Middle East</title>
-          </series>
         </biblStruct>
         <biblStruct type="book" xml:id="behnstedt_2011-2014_3010" corresp="http://zotero.org/groups/2165756/items/CG324JCW" n="Behnstedt2011a">
           <monogr>
@@ -41074,26 +41129,6 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <ref target="geo:malta" type="subject" subtype="geographic">Malta</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
-        </biblStruct>
-        <biblStruct type="book" xml:id="cuvalay-haak_1997_6693" corresp="http://zotero.org/groups/2165756/items/F7S3T2UT" n="Cuvalay-Haak1997">
-          <monogr>
-            <title level="m">The verb in literary and colloquial Arabic</title>
-            <author>
-              <forename>M.</forename>
-              <surname>Cuvalay-Haak</surname>
-            </author>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Mouton de Gruyter</publisher>
-              <date>1997</date>
-            </imprint>
-          </monogr>
-          <note>
-            <p>Accession Number: ICHM211177. Cuvalay-Haak, M. Publication Date: 19970101. Note: Functional Grammar series. Number of Pages: 278. Document Type: Book. Language: English.</p>
-          </note>
-          <note type="tags">
-            <note type="tag">Colloquial Arabic dialects</note>
-          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="cuvalay-haak_2011_3021" corresp="http://zotero.org/groups/2165756/items/JXWYEPS9" n="Cuvalay-Haak2011">
           <monogr>
@@ -65827,6 +65862,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>2009</date>
             </imprint>
           </monogr>
+          <note type="tags">
+            <note type="tag">docbefore2000</note>
+          </note>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
           <ref target="vt:bedouin_dialect" type="subject" subtype="concept">bedouin dialect</ref>
@@ -92379,6 +92417,28 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             <imprint>
               <date>2011</date>
               <note type="url">http://dx-doi-org.uaccess.univie.ac.at/10.1163/1570-6699_eall_EALL_COM_0039</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="naim_2016_2981" corresp="http://zotero.org/groups/2165756/items/9KRT6M93" n="Naïm2016">
+          <analytic>
+            <title level="a">On interaction between external and internal markers in expressing aspect in Arabic dialect varieties</title>
+            <author>
+              <forename>Samia</forename>
+              <surname>Naïm</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Aspectuality and temporality: Descriptive and theoretical issues</title>
+            <editor>
+              <forename>Zlatka</forename>
+              <surname>Guentchéva</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Amsterdam &amp; Philadelphia</pubPlace>
+              <biblScope unit="page">325-373</biblScope>
+              <publisher>John Benjamins</publisher>
+              <date>2016</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -133701,6 +133761,16 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="zoteroItem_CFY3HEWR" corresp="http://zotero.org/groups/2165756/items/CFY3HEWR" n="zoteroItem_CFY3HEWR">
+          <analytic>
+            <title level="a"/>
+          </analytic>
+          <monogr>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
         </biblStruct>
         <biblStruct type="book" xml:id="zoubid_2011_0000" corresp="http://zotero.org/groups/2165756/items/NUV5E9A4" n="Zoubid2011">
           <monogr>
