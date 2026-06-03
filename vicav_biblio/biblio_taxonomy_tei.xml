@@ -1,0 +1,1277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>VICAV bibliography taxonomy</title>
+        <respStmt>
+          <resp>Compiler</resp>
+          <name>Charly Mörth</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher></publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Converted from SKOS at https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/subjects.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="subjects">
+          <category xml:id="vt" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/vt">
+            <catDesc xml:lang="en">General Terms</catDesc>
+          </category>
+          <category xml:id="_afghanistan_uzbekistan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/_afghanistan_uzbekistan_">
+            <catDesc xml:lang="en">// (Afghanistan, Uzbekistan)</catDesc>
+          </category>
+          <category xml:id="_kuwayt_bahrain_qatar_uae_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/_kuwayt_bahrain_qatar_uae_">
+            <catDesc xml:lang="en">// (Kuwayt, Bahrain, Qatar, UAE)</catDesc>
+          </category>
+          <category xml:id="_djibouti_kenia_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/_djibouti_kenia_">
+            <catDesc xml:lang="en">//Djibouti, Kenia ...</catDesc>
+          </category>
+          <category xml:id="_e_g_europe_americas" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/_e_g_europe_americas">
+            <catDesc xml:lang="en">//e.g. Europe, Americas</catDesc>
+          </category>
+          <category xml:id="anthropology" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/anthropology">
+            <catDesc xml:lang="en">anthropology</catDesc>
+          </category>
+          <category xml:id="arabworldgeneral" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/arabworldgeneral">
+            <catDesc xml:lang="en">Arab World general</catDesc>
+          </category>
+          <category xml:id="arabicasaminoritylanguage" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/arabicasaminoritylanguage">
+            <catDesc xml:lang="en">Arabic as a minority language</catDesc>
+          </category>
+          <category xml:id="aramaic" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/aramaic">
+            <catDesc xml:lang="en">Aramaic</catDesc>
+          </category>
+          <category xml:id="babytalk" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/babytalk">
+            <catDesc xml:lang="en">Baby talk</catDesc>
+          </category>
+          <category xml:id="bedouindialect" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/bedouindialect">
+            <catDesc xml:lang="en">bedouin dialect</catDesc>
+          </category>
+          <category xml:id="berberlanguages" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/berberlanguages">
+            <catDesc xml:lang="en">berber languages</catDesc>
+          </category>
+          <category xml:id="broadcasting" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/broadcasting">
+            <catDesc xml:lang="en">broadcasting</catDesc>
+          </category>
+          <category xml:id="centralafrica" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/centralafrica">
+            <catDesc xml:lang="en">Central Africa</catDesc>
+          </category>
+          <category xml:id="centralasia" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/centralasia">
+            <catDesc xml:lang="en">Central Asia</catDesc>
+          </category>
+          <category xml:id="christiandialects" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/christiandialects">
+            <catDesc xml:lang="en">Christian dialects</catDesc>
+          </category>
+          <category xml:id="classical" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/classical">
+            <catDesc xml:lang="en">classical</catDesc>
+          </category>
+          <category xml:id="contactlinguistics" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/contactlinguistics">
+            <catDesc xml:lang="en">contact linguistics</catDesc>
+          </category>
+          <category xml:id="conversation_dialogue" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/conversation_dialogue">
+            <catDesc xml:lang="en">conversation/dialogue</catDesc>
+          </category>
+          <category xml:id="corpora" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/corpora">
+            <catDesc xml:lang="en">corpora</catDesc>
+          </category>
+          <category xml:id="creole" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/creole">
+            <catDesc xml:lang="en">creole</catDesc>
+          </category>
+          <category xml:id="culinary" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/culinary">
+            <catDesc xml:lang="en">culinary</catDesc>
+          </category>
+          <category xml:id="customs_etiquette" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/customs_etiquette">
+            <catDesc xml:lang="en">customs &amp; etiquette</catDesc>
+          </category>
+          <category xml:id="descriptionofdialect" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/descriptionofdialect">
+            <catDesc xml:lang="en">description of dialect</catDesc>
+          </category>
+          <category xml:id="diachronicperspective" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/diachronicperspective">
+            <catDesc xml:lang="en">diachronic perspective</catDesc>
+          </category>
+          <category xml:id="diaspora" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/diaspora">
+            <catDesc xml:lang="en">Diaspora</catDesc>
+          </category>
+          <category xml:id="dictionary" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/dictionary">
+            <catDesc xml:lang="en">dictionary</catDesc>
+          </category>
+          <category xml:id="diglossia" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/diglossia">
+            <catDesc xml:lang="en">diglossia</catDesc>
+          </category>
+          <category xml:id="eastafrica" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/eastafrica">
+            <catDesc xml:lang="en">East Africa</catDesc>
+          </category>
+          <category xml:id="egypt_sudan" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/egypt_sudan">
+            <catDesc xml:lang="en">Egypt-Sudan</catDesc>
+          </category>
+          <category xml:id="ethnicminorities" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ethnicminorities">
+            <catDesc xml:lang="en">ethnic minorities</catDesc>
+          </category>
+          <category xml:id="ethnographicrecord" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ethnographicrecord">
+            <catDesc xml:lang="en">ethnographic record</catDesc>
+          </category>
+          <category xml:id="ethnography" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ethnography">
+            <catDesc xml:lang="en">ethnography</catDesc>
+          </category>
+          <category xml:id="etymology" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/etymology">
+            <catDesc xml:lang="en">etymology</catDesc>
+          </category>
+          <category xml:id="folklore" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/folklore">
+            <catDesc xml:lang="en">folklore</catDesc>
+          </category>
+          <category xml:id="frenchlanguage" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/frenchlanguage">
+            <catDesc xml:lang="en">french language</catDesc>
+          </category>
+          <category xml:id="genderaspects" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/genderaspects">
+            <catDesc xml:lang="en">gender aspects</catDesc>
+          </category>
+          <category xml:id="general_comparativestudy" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/general_comparativestudy">
+            <catDesc xml:lang="en">general/comparative study</catDesc>
+          </category>
+          <category xml:id="glossary" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/glossary">
+            <catDesc xml:lang="en">glossary</catDesc>
+          </category>
+          <category xml:id="grammar" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/grammar">
+            <catDesc xml:lang="en">grammar</catDesc>
+          </category>
+          <category xml:id="iran" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/iran">
+            <catDesc xml:lang="en">Iran</catDesc>
+          </category>
+          <category xml:id="jargon" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/jargon">
+            <catDesc xml:lang="en">jargon</catDesc>
+          </category>
+          <category xml:id="jewishdialects" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/jewishdialects">
+            <catDesc xml:lang="en">Jewish dialects</catDesc>
+          </category>
+          <category xml:id="languageofatribe" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/languageofatribe">
+            <catDesc xml:lang="en">language of a tribe</catDesc>
+          </category>
+          <category xml:id="lexicon" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/lexicon">
+            <catDesc xml:lang="en">lexicon</catDesc>
+          </category>
+          <category xml:id="linguistics_dialectology" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/linguistics_dialectology">
+            <catDesc xml:lang="en">linguistics/dialectology</catDesc>
+          </category>
+          <category xml:id="loanwords" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/loanwords">
+            <catDesc xml:lang="en">loanwords</catDesc>
+          </category>
+          <category xml:id="maghreb" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/maghreb">
+            <catDesc xml:lang="en">Maghreb</catDesc>
+          </category>
+          <category xml:id="manuscripts" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/manuscripts">
+            <catDesc xml:lang="en">manuscripts</catDesc>
+          </category>
+          <category xml:id="mesopotamia" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mesopotamia">
+            <catDesc xml:lang="en">Mesopotamia</catDesc>
+          </category>
+          <category xml:id="minorities" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/minorities">
+            <catDesc xml:lang="en">minorities</catDesc>
+          </category>
+          <category xml:id="morphology" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/morphology">
+            <catDesc xml:lang="en">morphology</catDesc>
+          </category>
+          <category xml:id="music" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/music">
+            <catDesc xml:lang="en">music</catDesc>
+          </category>
+          <category xml:id="newspaper_journalism" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/newspaper_journalism">
+            <catDesc xml:lang="en">newspaper &amp; journalism</catDesc>
+          </category>
+          <category xml:id="oman_yemen" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/oman_yemen">
+            <catDesc xml:lang="en">Oman/Yemen</catDesc>
+          </category>
+          <category xml:id="onomastics" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/onomastics">
+            <catDesc xml:lang="en">onomastics</catDesc>
+          </category>
+          <category xml:id="oralliterature" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/oralliterature">
+            <catDesc xml:lang="en">oral literature</catDesc>
+          </category>
+          <category xml:id="oralnarratives" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/oralnarratives">
+            <catDesc xml:lang="en">oral narratives</catDesc>
+          </category>
+          <category xml:id="oralpoetry" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/oralpoetry">
+            <catDesc xml:lang="en">oral poetry</catDesc>
+          </category>
+          <category xml:id="phonology" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/phonology">
+            <catDesc xml:lang="en">phonology</catDesc>
+          </category>
+          <category xml:id="phraseology" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/phraseology">
+            <catDesc xml:lang="en">phraseology</catDesc>
+          </category>
+          <category xml:id="poetry" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/poetry">
+            <catDesc xml:lang="en">poetry</catDesc>
+          </category>
+          <category xml:id="pragmatics" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/pragmatics">
+            <catDesc xml:lang="en">pragmatics</catDesc>
+          </category>
+          <category xml:id="prosody" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/prosody">
+            <catDesc xml:lang="en">prosody</catDesc>
+          </category>
+          <category xml:id="proverbs" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/proverbs">
+            <catDesc xml:lang="en">proverbs</catDesc>
+          </category>
+          <category xml:id="sedentarydialect" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sedentarydialect">
+            <catDesc xml:lang="en">sedentary dialect</catDesc>
+          </category>
+          <category xml:id="semantics" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/semantics">
+            <catDesc xml:lang="en">semantics</catDesc>
+          </category>
+          <category xml:id="sociolinguistics" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sociolinguistics">
+            <catDesc xml:lang="en">sociolinguistics</catDesc>
+          </category>
+          <category xml:id="songs" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/songs">
+            <catDesc xml:lang="en">songs</catDesc>
+          </category>
+          <category xml:id="southarabia" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/southarabia">
+            <catDesc xml:lang="en">South Arabia</catDesc>
+          </category>
+          <category xml:id="southarabian" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/southarabian">
+            <catDesc xml:lang="en">South Arabian</catDesc>
+          </category>
+          <category xml:id="sudan" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sudan">
+            <catDesc xml:lang="en">Sudan</catDesc>
+          </category>
+          <category xml:id="syntax" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/syntax">
+            <catDesc xml:lang="en">syntax</catDesc>
+          </category>
+          <category xml:id="teachingmaterials" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/teachingmaterials">
+            <catDesc xml:lang="en">teaching materials</catDesc>
+          </category>
+          <category xml:id="textbook" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/textbook">
+            <catDesc xml:lang="en">textbook</catDesc>
+          </category>
+          <category xml:id="toponymy" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/toponymy">
+            <catDesc xml:lang="en">toponymy</catDesc>
+          </category>
+          <category xml:id="transcribedtexts" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/transcribedtexts">
+            <catDesc xml:lang="en">transcribed texts</catDesc>
+          </category>
+          <category xml:id="uae" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/uae">
+            <catDesc xml:lang="en">UAE</catDesc>
+          </category>
+          <category xml:id="urbandialect" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/urbandialect">
+            <catDesc xml:lang="en">urban dialect</catDesc>
+          </category>
+          <category xml:id="reg" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/reg">
+            <catDesc xml:lang="en">Regions</catDesc>
+          </category>
+          <category xml:id="afghanistan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/afghanistan_">
+            <catDesc xml:lang="en">Afghanistan</catDesc>
+          </category>
+          <category xml:id="algeria_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/algeria_">
+            <catDesc xml:lang="en">Algeria</catDesc>
+          </category>
+          <category xml:id="andalusia_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/andalusia_">
+            <catDesc xml:lang="en">Andalusia</catDesc>
+          </category>
+          <category xml:id="arabianpeninsula_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/arabianpeninsula_">
+            <catDesc xml:lang="en">Arabian Peninsula</catDesc>
+          </category>
+          <category xml:id="bahrain_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/bahrain_">
+            <catDesc xml:lang="en">Bahrain</catDesc>
+          </category>
+          <category xml:id="cameroon_northregion_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/cameroon_northregion_">
+            <catDesc xml:lang="en">Cameroon (North Region)</catDesc>
+          </category>
+          <category xml:id="centralafrica_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/centralafrica_">
+            <catDesc xml:lang="en">Central Africa</catDesc>
+          </category>
+          <category xml:id="centralasia_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/centralasia_">
+            <catDesc xml:lang="en">Central Asia</catDesc>
+          </category>
+          <category xml:id="chad_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/chad_">
+            <catDesc xml:lang="en">Chad</catDesc>
+          </category>
+          <category xml:id="cilicia_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/cilicia_">
+            <catDesc xml:lang="en">Cilicia</catDesc>
+          </category>
+          <category xml:id="cyprus" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/cyprus">
+            <catDesc xml:lang="en">Cyprus</catDesc>
+          </category>
+          <category xml:id="cyrenaica_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/cyrenaica_">
+            <catDesc xml:lang="en">Cyrenaica</catDesc>
+          </category>
+          <category xml:id="eastafrica_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/eastafrica_">
+            <catDesc xml:lang="en">East Africa</catDesc>
+          </category>
+          <category xml:id="egypt_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/egypt_">
+            <catDesc xml:lang="en">Egypt</catDesc>
+          </category>
+          <category xml:id="egypt_sudan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/egypt_sudan_">
+            <catDesc xml:lang="en">Egypt-Sudan</catDesc>
+          </category>
+          <category xml:id="gulf_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/gulf_">
+            <catDesc xml:lang="en">Gulf</catDesc>
+          </category>
+          <category xml:id="iran_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/iran_">
+            <catDesc xml:lang="en">Iran</catDesc>
+          </category>
+          <category xml:id="iraq_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/iraq_">
+            <catDesc xml:lang="en">Iraq</catDesc>
+          </category>
+          <category xml:id="israel_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/israel_">
+            <catDesc xml:lang="en">Israel</catDesc>
+          </category>
+          <category xml:id="jordan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/jordan_">
+            <catDesc xml:lang="en">Jordan</catDesc>
+          </category>
+          <category xml:id="kuweit_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/kuweit_">
+            <catDesc xml:lang="en">Kuweit</catDesc>
+          </category>
+          <category xml:id="lebanon_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/lebanon_">
+            <catDesc xml:lang="en">Lebanon</catDesc>
+          </category>
+          <category xml:id="libya_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/libya_">
+            <catDesc xml:lang="en">Libya</catDesc>
+          </category>
+          <category xml:id="malta_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/malta_">
+            <catDesc xml:lang="en">Malta</catDesc>
+          </category>
+          <category xml:id="mauritania_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mauritania_">
+            <catDesc xml:lang="en">Mauritania</catDesc>
+          </category>
+          <category xml:id="mesopotamia_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mesopotamia_">
+            <catDesc xml:lang="en">Mesopotamia</catDesc>
+          </category>
+          <category xml:id="morocco_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/morocco_">
+            <catDesc xml:lang="en">Morocco</catDesc>
+          </category>
+          <category xml:id="nigeria_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/nigeria_">
+            <catDesc xml:lang="en">Nigeria</catDesc>
+          </category>
+          <category xml:id="oman_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/oman_">
+            <catDesc xml:lang="en">Oman</catDesc>
+          </category>
+          <category xml:id="palestine_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/palestine_">
+            <catDesc xml:lang="en">Palestine</catDesc>
+          </category>
+          <category xml:id="qatar_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/qatar_">
+            <catDesc xml:lang="en">Qatar</catDesc>
+          </category>
+          <category xml:id="saudiarabia_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/saudiarabia_">
+            <catDesc xml:lang="en">Saudi Arabia</catDesc>
+          </category>
+          <category xml:id="senegal_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/senegal_">
+            <catDesc xml:lang="en">Senegal</catDesc>
+          </category>
+          <category xml:id="sicily_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sicily_">
+            <catDesc xml:lang="en">Sicily</catDesc>
+          </category>
+          <category xml:id="southsudan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/southsudan_">
+            <catDesc xml:lang="en">South Sudan</catDesc>
+          </category>
+          <category xml:id="spain_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/spain_">
+            <catDesc xml:lang="en">Spain</catDesc>
+          </category>
+          <category xml:id="sudan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sudan_">
+            <catDesc xml:lang="en">Sudan</catDesc>
+          </category>
+          <category xml:id="syria_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/syria_">
+            <catDesc xml:lang="en">Syria</catDesc>
+          </category>
+          <category xml:id="syro_palestine_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/syro_palestine_">
+            <catDesc xml:lang="en">Syro-Palestine</catDesc>
+          </category>
+          <category xml:id="tunisia_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tunisia_">
+            <catDesc xml:lang="en">Tunisia</catDesc>
+          </category>
+          <category xml:id="turkey_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/turkey_">
+            <catDesc xml:lang="en">Turkey</catDesc>
+          </category>
+          <category xml:id="uzbekistan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/uzbekistan_">
+            <catDesc xml:lang="en">Uzbekistan</catDesc>
+          </category>
+          <category xml:id="yemen_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/yemen_">
+            <catDesc xml:lang="en">Yemen</catDesc>
+          </category>
+          <category xml:id="geo" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/geo">
+            <catDesc xml:lang="en">Places</catDesc>
+          </category>
+          <category xml:id="_asir" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/_asir">
+            <catDesc xml:lang="en">'Asir</catDesc>
+          </category>
+          <category xml:id="unitedarabemirates" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/unitedarabemirates">
+            <catDesc xml:lang="en">United Arab Emirates</catDesc>
+          </category>
+          <category xml:id="abudhabi" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/abudhabi">
+            <catDesc xml:lang="en">Abu Dhabi</catDesc>
+          </category>
+          <category xml:id="abushusha_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/abushusha_">
+            <catDesc xml:lang="en">Abu Shusha</catDesc>
+          </category>
+          <category xml:id="abusnan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/abusnan_">
+            <catDesc xml:lang="en">Abu Snan</catDesc>
+          </category>
+          <category xml:id="abéché_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/abéché_">
+            <catDesc xml:lang="en">Abéché</catDesc>
+          </category>
+          <category xml:id="adana_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/adana_">
+            <catDesc xml:lang="en">Adana</catDesc>
+          </category>
+          <category xml:id="aden_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/aden_">
+            <catDesc xml:lang="en">Aden</catDesc>
+          </category>
+          <category xml:id="afak_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/afak_">
+            <catDesc xml:lang="en">Afak</catDesc>
+          </category>
+          <category xml:id="agadir_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/agadir_">
+            <catDesc xml:lang="en">Agadir</catDesc>
+          </category>
+          <category xml:id="ahwaz_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ahwaz_">
+            <catDesc xml:lang="en">Ahwaz</catDesc>
+          </category>
+          <category xml:id="akko_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/akko_">
+            <catDesc xml:lang="en">Akko</catDesc>
+          </category>
+          <category xml:id="albaraddun_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/albaraddun_">
+            <catDesc xml:lang="en">Al Baraddun</catDesc>
+          </category>
+          <category xml:id="alhasa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/alhasa_">
+            <catDesc xml:lang="en">Al Hasa</catDesc>
+          </category>
+          <category xml:id="alhoceima_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/alhoceima_">
+            <catDesc xml:lang="en">Al Hoceima</catDesc>
+          </category>
+          <category xml:id="almashrafah_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/almashrafah_">
+            <catDesc xml:lang="en">Al Mashrafah</catDesc>
+          </category>
+          <category xml:id="al_balqa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/al_balqa_">
+            <catDesc xml:lang="en">al-Balqa</catDesc>
+          </category>
+          <category xml:id="al_karak_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/al_karak_">
+            <catDesc xml:lang="en">Al-Karak</catDesc>
+          </category>
+          <category xml:id="al_khaburah_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/al_khaburah_">
+            <catDesc xml:lang="en">Al-Khaburah</catDesc>
+          </category>
+          <category xml:id="al_khafsah_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/al_khafsah_">
+            <catDesc xml:lang="en">Al-Khafsah</catDesc>
+          </category>
+          <category xml:id="al_qaryatayn_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/al_qaryatayn_">
+            <catDesc xml:lang="en">Al-Qaryatayn</catDesc>
+          </category>
+          <category xml:id="al_qatif_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/al_qatif_">
+            <catDesc xml:lang="en">Al-Qatif</catDesc>
+          </category>
+          <category xml:id="al_ristaq_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/al_ristaq_">
+            <catDesc xml:lang="en">Al-Ristaq</catDesc>
+          </category>
+          <category xml:id="al_salt_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/al_salt_">
+            <catDesc xml:lang="en">Al-Salt</catDesc>
+          </category>
+          <category xml:id="al_shirqat_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/al_shirqat_">
+            <catDesc xml:lang="en">Al-Shirqat</catDesc>
+          </category>
+          <category xml:id="al_sukhna_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/al_sukhna_">
+            <catDesc xml:lang="en">Al-Sukhna</catDesc>
+          </category>
+          <category xml:id="aleppo_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/aleppo_">
+            <catDesc xml:lang="en">Aleppo</catDesc>
+          </category>
+          <category xml:id="alexandria_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/alexandria_">
+            <catDesc xml:lang="en">Alexandria</catDesc>
+          </category>
+          <category xml:id="algier_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/algier_">
+            <catDesc xml:lang="en">Algier</catDesc>
+          </category>
+          <category xml:id="amman_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/amman_">
+            <catDesc xml:lang="en">Amman</catDesc>
+          </category>
+          <category xml:id="amuda_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/amuda_">
+            <catDesc xml:lang="en">Amuda</catDesc>
+          </category>
+          <category xml:id="anjra_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/anjra_">
+            <catDesc xml:lang="en">Anjra</catDesc>
+          </category>
+          <category xml:id="antakya_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/antakya_">
+            <catDesc xml:lang="en">Antakya</catDesc>
+          </category>
+          <category xml:id="anti_lebanonmountains_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/anti_lebanonmountains_">
+            <catDesc xml:lang="en">Anti-Lebanon Mountains</catDesc>
+          </category>
+          <category xml:id="aqrah_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/aqrah_">
+            <catDesc xml:lang="en">Aqrah</catDesc>
+          </category>
+          <category xml:id="arabkhane_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/arabkhane_">
+            <catDesc xml:lang="en">Arabkhane</catDesc>
+          </category>
+          <category xml:id="aruad" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/aruad">
+            <catDesc xml:lang="en">Aruad</catDesc>
+          </category>
+          <category xml:id="arwad_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/arwad_">
+            <catDesc xml:lang="en">Arwad</catDesc>
+          </category>
+          <category xml:id="ashdod_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ashdod_">
+            <catDesc xml:lang="en">Ashdod</catDesc>
+          </category>
+          <category xml:id="atlasmountains" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/atlasmountains">
+            <catDesc xml:lang="en">Atlas Mountains</catDesc>
+          </category>
+          <category xml:id="avdat_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/avdat_">
+            <catDesc xml:lang="en">Avdat</catDesc>
+          </category>
+          <category xml:id="baghdad_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/baghdad_">
+            <catDesc xml:lang="en">Baghdad</catDesc>
+          </category>
+          <category xml:id="bahla_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/bahla_">
+            <catDesc xml:lang="en">Bahla</catDesc>
+          </category>
+          <category xml:id="bahzani_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/bahzani_">
+            <catDesc xml:lang="en">Bahzani</catDesc>
+          </category>
+          <category xml:id="balat_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/balat_">
+            <catDesc xml:lang="en">Balat</catDesc>
+          </category>
+          <category xml:id="balkhregion" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/balkhregion">
+            <catDesc xml:lang="en">Balkh region</catDesc>
+          </category>
+          <category xml:id="baskinta_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/baskinta_">
+            <catDesc xml:lang="en">Baskinta</catDesc>
+          </category>
+          <category xml:id="basra_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/basra_">
+            <catDesc xml:lang="en">Basra</catDesc>
+          </category>
+          <category xml:id="baytlif_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/baytlif_">
+            <catDesc xml:lang="en">Bayt Lif</catDesc>
+          </category>
+          <category xml:id="beirut_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/beirut_">
+            <catDesc xml:lang="en">Beirut</catDesc>
+          </category>
+          <category xml:id="benghazi_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/benghazi_">
+            <catDesc xml:lang="en">Benghazi</catDesc>
+          </category>
+          <category xml:id="benimellal_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/benimellal_">
+            <catDesc xml:lang="en">Beni Mellal</catDesc>
+          </category>
+          <category xml:id="bethlehem_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/bethlehem_">
+            <catDesc xml:lang="en">Bethlehem</catDesc>
+          </category>
+          <category xml:id="biladghamid_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/biladghamid_">
+            <catDesc xml:lang="en">Bilad Ghamid</catDesc>
+          </category>
+          <category xml:id="biralbiarat_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/biralbiarat_">
+            <catDesc xml:lang="en">Bir al Biarat</catDesc>
+          </category>
+          <category xml:id="birzeit_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/birzeit_">
+            <catDesc xml:lang="en">Birzeit</catDesc>
+          </category>
+          <category xml:id="bousaada_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/bousaada_">
+            <catDesc xml:lang="en">Bou Saada</catDesc>
+          </category>
+          <category xml:id="bukhara_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/bukhara_">
+            <catDesc xml:lang="en">Bukhara</catDesc>
+          </category>
+          <category xml:id="cairo_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/cairo_">
+            <catDesc xml:lang="en">Cairo</catDesc>
+          </category>
+          <category xml:id="casablanca_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/casablanca_">
+            <catDesc xml:lang="en">Casablanca</catDesc>
+          </category>
+          <category xml:id="ceuta_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ceuta_">
+            <catDesc xml:lang="en">Ceuta</catDesc>
+          </category>
+          <category xml:id="chanay_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/chanay_">
+            <catDesc xml:lang="en">Chanay</catDesc>
+          </category>
+          <category xml:id="chefchaouen_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/chefchaouen_">
+            <catDesc xml:lang="en">Chefchaouen</catDesc>
+          </category>
+          <category xml:id="cherchell_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/cherchell_">
+            <catDesc xml:lang="en">Cherchell</catDesc>
+          </category>
+          <category xml:id="comoroislands_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/comoroislands_">
+            <catDesc xml:lang="en">Comoro Islands</catDesc>
+          </category>
+          <category xml:id="constantine_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/constantine_">
+            <catDesc xml:lang="en">Constantine</catDesc>
+          </category>
+          <category xml:id="cyprus_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/cyprus_">
+            <catDesc xml:lang="en">Cyprus</catDesc>
+          </category>
+          <category xml:id="dagestan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/dagestan_">
+            <catDesc xml:lang="en">Dagestan</catDesc>
+          </category>
+          <category xml:id="dakhla_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/dakhla_">
+            <catDesc xml:lang="en">Dakhla</catDesc>
+          </category>
+          <category xml:id="damascus_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/damascus_">
+            <catDesc xml:lang="en">Damascus</catDesc>
+          </category>
+          <category xml:id="danagözü_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/danagözü_">
+            <catDesc xml:lang="en">Danagözü</catDesc>
+          </category>
+          <category xml:id="dascht_e_azadegan" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/dascht_e_azadegan">
+            <catDesc xml:lang="en">Dascht-e-Azadegan</catDesc>
+          </category>
+          <category xml:id="debdou_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/debdou_">
+            <catDesc xml:lang="en">Debdou</catDesc>
+          </category>
+          <category xml:id="deirez_zor_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/deirez_zor_">
+            <catDesc xml:lang="en">Deir ez-Zor</catDesc>
+          </category>
+          <category xml:id="dellys_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/dellys_">
+            <catDesc xml:lang="en">Dellys</catDesc>
+          </category>
+          <category xml:id="derek_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/derek_">
+            <catDesc xml:lang="en">Derek</catDesc>
+          </category>
+          <category xml:id="dhahran_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/dhahran_">
+            <catDesc xml:lang="en">Dhahran</catDesc>
+          </category>
+          <category xml:id="dhale_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/dhale_">
+            <catDesc xml:lang="en">Dhale</catDesc>
+          </category>
+          <category xml:id="dhofar_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/dhofar_">
+            <catDesc xml:lang="en">Dhofar</catDesc>
+          </category>
+          <category xml:id="djerba_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/djerba_">
+            <catDesc xml:lang="en">Djerba</catDesc>
+          </category>
+          <category xml:id="doha_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/doha_">
+            <catDesc xml:lang="en">Doha</catDesc>
+          </category>
+          <category xml:id="douz_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/douz_">
+            <catDesc xml:lang="en">Douz</catDesc>
+          </category>
+          <category xml:id="draariver_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/draariver_">
+            <catDesc xml:lang="en">Draa River</catDesc>
+          </category>
+          <category xml:id="draavalley_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/draavalley_">
+            <catDesc xml:lang="en">Draa Valley</catDesc>
+          </category>
+          <category xml:id="dubai_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/dubai_">
+            <catDesc xml:lang="en">Dubai</catDesc>
+          </category>
+          <category xml:id="easternanatoliaregion_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/easternanatoliaregion_">
+            <catDesc xml:lang="en">Eastern Anatolia Region</catDesc>
+          </category>
+          <category xml:id="edirne_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/edirne_">
+            <catDesc xml:lang="en">Edirne</catDesc>
+          </category>
+          <category xml:id="elbalyana_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/elbalyana_">
+            <catDesc xml:lang="en">El Balyana</catDesc>
+          </category>
+          <category xml:id="elhaouz_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/elhaouz_">
+            <catDesc xml:lang="en">El Haouz</catDesc>
+          </category>
+          <category xml:id="eljadida_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/eljadida_">
+            <catDesc xml:lang="en">El Jadida</catDesc>
+          </category>
+          <category xml:id="el_hamma_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/el_hamma_">
+            <catDesc xml:lang="en">El-Hamma</catDesc>
+          </category>
+          <category xml:id="errachidia_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/errachidia_">
+            <catDesc xml:lang="en">Er Rachidia</catDesc>
+          </category>
+          <category xml:id="erbil_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/erbil_">
+            <catDesc xml:lang="en">Erbil</catDesc>
+          </category>
+          <category xml:id="eritrea_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/eritrea_">
+            <catDesc xml:lang="en">Eritrea</catDesc>
+          </category>
+          <category xml:id="errachidia" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/errachidia">
+            <catDesc xml:lang="en">Errachidia</catDesc>
+          </category>
+          <category xml:id="essaouira_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/essaouira_">
+            <catDesc xml:lang="en">Essaouira</catDesc>
+          </category>
+          <category xml:id="faiyum_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/faiyum_">
+            <catDesc xml:lang="en">Faiyum</catDesc>
+          </category>
+          <category xml:id="fessan" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/fessan">
+            <catDesc xml:lang="en">Fessan</catDesc>
+          </category>
+          <category xml:id="fez_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/fez_">
+            <catDesc xml:lang="en">Fez</catDesc>
+          </category>
+          <category xml:id="fezzan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/fezzan_">
+            <catDesc xml:lang="en">Fezzan</catDesc>
+          </category>
+          <category xml:id="gabès_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/gabès_">
+            <catDesc xml:lang="en">Gabès</catDesc>
+          </category>
+          <category xml:id="galilee_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/galilee_">
+            <catDesc xml:lang="en">Galilee</catDesc>
+          </category>
+          <category xml:id="gaza_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/gaza_">
+            <catDesc xml:lang="en">Gaza</catDesc>
+          </category>
+          <category xml:id="gebelaulia_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/gebelaulia_">
+            <catDesc xml:lang="en">Gebel Aulia</catDesc>
+          </category>
+          <category xml:id="ghazaouet_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ghazaouet_">
+            <catDesc xml:lang="en">Ghazaouet</catDesc>
+          </category>
+          <category xml:id="golanheights_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/golanheights_">
+            <catDesc xml:lang="en">Golan Heights</catDesc>
+          </category>
+          <category xml:id="gozo_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/gozo_">
+            <catDesc xml:lang="en">Gozo</catDesc>
+          </category>
+          <category xml:id="granada_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/granada_">
+            <catDesc xml:lang="en">Granada</catDesc>
+          </category>
+          <category xml:id="gzenaya_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/gzenaya_">
+            <catDesc xml:lang="en">Gzenaya</catDesc>
+          </category>
+          <category xml:id="habban_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/habban_">
+            <catDesc xml:lang="en">Habban</catDesc>
+          </category>
+          <category xml:id="hadramaut_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/hadramaut_">
+            <catDesc xml:lang="en">Hadramaut</catDesc>
+          </category>
+          <category xml:id="hadramawt" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/hadramawt">
+            <catDesc xml:lang="en">Hadramawt</catDesc>
+          </category>
+          <category xml:id="haifa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/haifa_">
+            <catDesc xml:lang="en">Haifa</catDesc>
+          </category>
+          <category xml:id="hama_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/hama_">
+            <catDesc xml:lang="en">Hama</catDesc>
+          </category>
+          <category xml:id="harran_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/harran_">
+            <catDesc xml:lang="en">Harran</catDesc>
+          </category>
+          <category xml:id="hasankeyf_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/hasankeyf_">
+            <catDesc xml:lang="en">Hasankeyf</catDesc>
+          </category>
+          <category xml:id="hasköy_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/hasköy_">
+            <catDesc xml:lang="en">Hasköy</catDesc>
+          </category>
+          <category xml:id="hatay_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/hatay_">
+            <catDesc xml:lang="en">Hatay</catDesc>
+          </category>
+          <category xml:id="hebron_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/hebron_">
+            <catDesc xml:lang="en">Hebron</catDesc>
+          </category>
+          <category xml:id="hejaz_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/hejaz_">
+            <catDesc xml:lang="en">Hejaz</catDesc>
+          </category>
+          <category xml:id="hillah_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/hillah_">
+            <catDesc xml:lang="en">Hillah</catDesc>
+          </category>
+          <category xml:id="hit_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/hit_">
+            <catDesc xml:lang="en">Hit</catDesc>
+          </category>
+          <category xml:id="holon_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/holon_">
+            <catDesc xml:lang="en">Holon</catDesc>
+          </category>
+          <category xml:id="ibb_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ibb_">
+            <catDesc xml:lang="en">Ibb</catDesc>
+          </category>
+          <category xml:id="ibri_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ibri_">
+            <catDesc xml:lang="en">Ibri</catDesc>
+          </category>
+          <category xml:id="iksal_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/iksal_">
+            <catDesc xml:lang="en">Iksal</catDesc>
+          </category>
+          <category xml:id="ilbashandi_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ilbashandi_">
+            <catDesc xml:lang="en">ilBashandi</catDesc>
+          </category>
+          <category xml:id="isawiya_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/isawiya_">
+            <catDesc xml:lang="en">Isawiya</catDesc>
+          </category>
+          <category xml:id="iskenderun_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/iskenderun_">
+            <catDesc xml:lang="en">Iskenderun</catDesc>
+          </category>
+          <category xml:id="ismant_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ismant_">
+            <catDesc xml:lang="en">Ismant</catDesc>
+          </category>
+          <category xml:id="i̇dil_āzex_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/i̇dil_āzex_">
+            <catDesc xml:lang="en">İdil (Āzex)</catDesc>
+          </category>
+          <category xml:id="jabalfayfa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/jabalfayfa_">
+            <catDesc xml:lang="en">Jabal Fayfa</catDesc>
+          </category>
+          <category xml:id="jaffa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/jaffa_">
+            <catDesc xml:lang="en">Jaffa</catDesc>
+          </category>
+          <category xml:id="jbala_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/jbala_">
+            <catDesc xml:lang="en">Jbala</catDesc>
+          </category>
+          <category xml:id="jbelrat_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/jbelrat_">
+            <catDesc xml:lang="en">Jbel Rat</catDesc>
+          </category>
+          <category xml:id="jeddah_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/jeddah_">
+            <catDesc xml:lang="en">Jeddah</catDesc>
+          </category>
+          <category xml:id="jerusalem_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/jerusalem_">
+            <catDesc xml:lang="en">Jerusalem</catDesc>
+          </category>
+          <category xml:id="jibla_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/jibla_">
+            <catDesc xml:lang="en">Jibla</catDesc>
+          </category>
+          <category xml:id="jijel_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/jijel_">
+            <catDesc xml:lang="en">Jijel</catDesc>
+          </category>
+          <category xml:id="jnanate_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/jnanate_">
+            <catDesc xml:lang="en">Jnanate</catDesc>
+          </category>
+          <category xml:id="juba_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/juba_">
+            <catDesc xml:lang="en">Juba</catDesc>
+          </category>
+          <category xml:id="kaduqli_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/kaduqli_">
+            <catDesc xml:lang="en">Kaduqli</catDesc>
+          </category>
+          <category xml:id="kafryasif_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/kafryasif_">
+            <catDesc xml:lang="en">Kafr Yasif</catDesc>
+          </category>
+          <category xml:id="kartmin_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/kartmin_">
+            <catDesc xml:lang="en">Kartmin</catDesc>
+          </category>
+          <category xml:id="kenitra_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/kenitra_">
+            <catDesc xml:lang="en">Kenitra</catDesc>
+          </category>
+          <category xml:id="khartoum_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/khartoum_">
+            <catDesc xml:lang="en">Khartoum</catDesc>
+          </category>
+          <category xml:id="khirbetselm_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/khirbetselm_">
+            <catDesc xml:lang="en">Khirbet Selm</catDesc>
+          </category>
+          <category xml:id="khorasan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/khorasan_">
+            <catDesc xml:lang="en">Khorasan</catDesc>
+          </category>
+          <category xml:id="khorramshahr_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/khorramshahr_">
+            <catDesc xml:lang="en">Khorramshahr</catDesc>
+          </category>
+          <category xml:id="khuzestan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/khuzestan_">
+            <catDesc xml:lang="en">Khuzestan</catDesc>
+          </category>
+          <category xml:id="kibera_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/kibera_">
+            <catDesc xml:lang="en">Kibera</catDesc>
+          </category>
+          <category xml:id="kirkuk_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/kirkuk_">
+            <catDesc xml:lang="en">Kirkuk</catDesc>
+          </category>
+          <category xml:id="korba_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/korba_">
+            <catDesc xml:lang="en">Korba</catDesc>
+          </category>
+          <category xml:id="kormakitis_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/kormakitis_">
+            <catDesc xml:lang="en">Kormakitis</catDesc>
+          </category>
+          <category xml:id="ksarel_kebir_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ksarel_kebir_">
+            <catDesc xml:lang="en">Ksar el-Kebir</catDesc>
+          </category>
+          <category xml:id="kueiris_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/kueiris_">
+            <catDesc xml:lang="en">Kueiris</catDesc>
+          </category>
+          <category xml:id="larache_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/larache_">
+            <catDesc xml:lang="en">Larache</catDesc>
+          </category>
+          <category xml:id="lod_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/lod_">
+            <catDesc xml:lang="en">Lod</catDesc>
+          </category>
+          <category xml:id="madaba_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/madaba_">
+            <catDesc xml:lang="en">Madaba</catDesc>
+          </category>
+          <category xml:id="mahalatqaraqush_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mahalatqaraqush_">
+            <catDesc xml:lang="en">Mahalat Qaraqush</catDesc>
+          </category>
+          <category xml:id="mahdia_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mahdia_">
+            <catDesc xml:lang="en">Mahdia</catDesc>
+          </category>
+          <category xml:id="maiduguri_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/maiduguri_">
+            <catDesc xml:lang="en">Maiduguri</catDesc>
+          </category>
+          <category xml:id="majdalal_shams_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/majdalal_shams_">
+            <catDesc xml:lang="en">Majdal al-Shams</catDesc>
+          </category>
+          <category xml:id="manakhah_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/manakhah_">
+            <catDesc xml:lang="en">Manakhah</catDesc>
+          </category>
+          <category xml:id="mardin_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mardin_">
+            <catDesc xml:lang="en">Mardin</catDesc>
+          </category>
+          <category xml:id="marrakesh_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/marrakesh_">
+            <catDesc xml:lang="en">Marrakesh</catDesc>
+          </category>
+          <category xml:id="masmouda_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/masmouda_">
+            <catDesc xml:lang="en">Masmouda</catDesc>
+          </category>
+          <category xml:id="massawa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/massawa_">
+            <catDesc xml:lang="en">Massawa</catDesc>
+          </category>
+          <category xml:id="mazouna_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mazouna_">
+            <catDesc xml:lang="en">Mazouna</catDesc>
+          </category>
+          <category xml:id="maždal_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/maždal_">
+            <catDesc xml:lang="en">Maždal</catDesc>
+          </category>
+          <category xml:id="mecca_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mecca_">
+            <catDesc xml:lang="en">Mecca</catDesc>
+          </category>
+          <category xml:id="mehdia_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mehdia_">
+            <catDesc xml:lang="en">Mehdia</catDesc>
+          </category>
+          <category xml:id="meknes_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/meknes_">
+            <catDesc xml:lang="en">Meknes</catDesc>
+          </category>
+          <category xml:id="mersin_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mersin_">
+            <catDesc xml:lang="en">Mersin</catDesc>
+          </category>
+          <category xml:id="mila_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mila_">
+            <catDesc xml:lang="en">Mila</catDesc>
+          </category>
+          <category xml:id="mostaganem_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mostaganem_">
+            <catDesc xml:lang="en">Mostaganem</catDesc>
+          </category>
+          <category xml:id="mosul_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mosul_">
+            <catDesc xml:lang="en">Mosul</catDesc>
+          </category>
+          <category xml:id="mountcarmel_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/mountcarmel_">
+            <catDesc xml:lang="en">Mount Carmel</catDesc>
+          </category>
+          <category xml:id="muharraq_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/muharraq_">
+            <catDesc xml:lang="en">Muharraq</catDesc>
+          </category>
+          <category xml:id="muhradah_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/muhradah_">
+            <catDesc xml:lang="en">Muhradah</catDesc>
+          </category>
+          <category xml:id="médéa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/médéa_">
+            <catDesc xml:lang="en">Médéa</catDesc>
+          </category>
+          <category xml:id="nabeul_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/nabeul_">
+            <catDesc xml:lang="en">Nabeul</catDesc>
+          </category>
+          <category xml:id="nabk_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/nabk_">
+            <catDesc xml:lang="en">Nabk</catDesc>
+          </category>
+          <category xml:id="nahrjaghjagh_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/nahrjaghjagh_">
+            <catDesc xml:lang="en">Nahr Jaghjagh</catDesc>
+          </category>
+          <category xml:id="najd_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/najd_">
+            <catDesc xml:lang="en">Najd</catDesc>
+          </category>
+          <category xml:id="negev_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/negev_">
+            <catDesc xml:lang="en">Negev</catDesc>
+          </category>
+          <category xml:id="nusaybin_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/nusaybin_">
+            <catDesc xml:lang="en">Nusaybin</catDesc>
+          </category>
+          <category xml:id="omdurman_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/omdurman_">
+            <catDesc xml:lang="en">Omdurman</catDesc>
+          </category>
+          <category xml:id="oran_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/oran_">
+            <catDesc xml:lang="en">Oran</catDesc>
+          </category>
+          <category xml:id="ouaday_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ouaday_">
+            <catDesc xml:lang="en">Ouaday</catDesc>
+          </category>
+          <category xml:id="ouazzane_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ouazzane_">
+            <catDesc xml:lang="en">Ouazzane</catDesc>
+          </category>
+          <category xml:id="oueddrâa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/oueddrâa_">
+            <catDesc xml:lang="en">Oued Drâa</catDesc>
+          </category>
+          <category xml:id="oujda_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/oujda_">
+            <catDesc xml:lang="en">Oujda</catDesc>
+          </category>
+          <category xml:id="outatelhaj_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/outatelhaj_">
+            <catDesc xml:lang="en">Outat El Haj</catDesc>
+          </category>
+          <category xml:id="palmyra_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/palmyra_">
+            <catDesc xml:lang="en">Palmyra</catDesc>
+          </category>
+          <category xml:id="peqiin_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/peqiin_">
+            <catDesc xml:lang="en">Peqiin</catDesc>
+          </category>
+          <category xml:id="petra_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/petra_">
+            <catDesc xml:lang="en">Petra</catDesc>
+          </category>
+          <category xml:id="portsaid_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/portsaid_">
+            <catDesc xml:lang="en">Port Said</catDesc>
+          </category>
+          <category xml:id="qalamun_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/qalamun_">
+            <catDesc xml:lang="en">Qalamun</catDesc>
+          </category>
+          <category xml:id="qamishli_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/qamishli_">
+            <catDesc xml:lang="en">Qamishli</catDesc>
+          </category>
+          <category xml:id="qashqadaryoriver_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/qashqadaryoriver_">
+            <catDesc xml:lang="en">Qashqadaryo River</catDesc>
+          </category>
+          <category xml:id="qift_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/qift_">
+            <catDesc xml:lang="en">Qift</catDesc>
+          </category>
+          <category xml:id="rabat_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/rabat_">
+            <catDesc xml:lang="en">Rabat</catDesc>
+          </category>
+          <category xml:id="rabia_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/rabia_">
+            <catDesc xml:lang="en">Rabia</catDesc>
+          </category>
+          <category xml:id="rahat_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/rahat_">
+            <catDesc xml:lang="en">Rahat</catDesc>
+          </category>
+          <category xml:id="rahayta_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/rahayta_">
+            <catDesc xml:lang="en">Rahayta</catDesc>
+          </category>
+          <category xml:id="ramallah_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ramallah_">
+            <catDesc xml:lang="en">Ramallah</catDesc>
+          </category>
+          <category xml:id="ramla_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ramla_">
+            <catDesc xml:lang="en">Ramla</catDesc>
+          </category>
+          <category xml:id="rasbanas_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/rasbanas_">
+            <catDesc xml:lang="en">Ras Banas</catDesc>
+          </category>
+          <category xml:id="rhafsay_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/rhafsay_">
+            <catDesc xml:lang="en">Rhafsay</catDesc>
+          </category>
+          <category xml:id="safed_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/safed_">
+            <catDesc xml:lang="en">Safed</catDesc>
+          </category>
+          <category xml:id="safi_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/safi_">
+            <catDesc xml:lang="en">Safi</catDesc>
+          </category>
+          <category xml:id="safut_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/safut_">
+            <catDesc xml:lang="en">Safut</catDesc>
+          </category>
+          <category xml:id="saida_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/saida_">
+            <catDesc xml:lang="en">Saida</catDesc>
+          </category>
+          <category xml:id="sale_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sale_">
+            <catDesc xml:lang="en">Sale</catDesc>
+          </category>
+          <category xml:id="samandağ_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/samandağ_">
+            <catDesc xml:lang="en">Samandağ</catDesc>
+          </category>
+          <category xml:id="samha_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/samha_">
+            <catDesc xml:lang="en">Samha</catDesc>
+          </category>
+          <category xml:id="sanaa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sanaa_">
+            <catDesc xml:lang="en">Sanaa</catDesc>
+          </category>
+          <category xml:id="saoura" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/saoura">
+            <catDesc xml:lang="en">Saoura</catDesc>
+          </category>
+          <category xml:id="sason_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sason_">
+            <catDesc xml:lang="en">Sason</catDesc>
+          </category>
+          <category xml:id="sayda_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sayda_">
+            <catDesc xml:lang="en">Sayda</catDesc>
+          </category>
+          <category xml:id="sebta_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sebta_">
+            <catDesc xml:lang="en">Sebta</catDesc>
+          </category>
+          <category xml:id="sefrou_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sefrou_">
+            <catDesc xml:lang="en">Sefrou</catDesc>
+          </category>
+          <category xml:id="sevilla_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sevilla_">
+            <catDesc xml:lang="en">Sevilla</catDesc>
+          </category>
+          <category xml:id="sfax_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sfax_">
+            <catDesc xml:lang="en">Sfax</catDesc>
+          </category>
+          <category xml:id="shammar_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/shammar_">
+            <catDesc xml:lang="en">Shammar</catDesc>
+          </category>
+          <category xml:id="sicily" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sicily">
+            <catDesc xml:lang="en">Sicily</catDesc>
+          </category>
+          <category xml:id="sidiaïssa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sidiaïssa_">
+            <catDesc xml:lang="en">Sidi Aïssa</catDesc>
+          </category>
+          <category xml:id="sidibelabbès_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sidibelabbès_">
+            <catDesc xml:lang="en">Sidi Bel Abbès</catDesc>
+          </category>
+          <category xml:id="siirt_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/siirt_">
+            <catDesc xml:lang="en">Siirt</catDesc>
+          </category>
+          <category xml:id="sinai_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sinai_">
+            <catDesc xml:lang="en">Sinai</catDesc>
+          </category>
+          <category xml:id="singapore_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/singapore_">
+            <catDesc xml:lang="en">Singapore</catDesc>
+          </category>
+          <category xml:id="siverek_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/siverek_">
+            <catDesc xml:lang="en">Siverek</catDesc>
+          </category>
+          <category xml:id="siwa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/siwa_">
+            <catDesc xml:lang="en">Siwa</catDesc>
+          </category>
+          <category xml:id="skoura_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/skoura_">
+            <catDesc xml:lang="en">Skoura</catDesc>
+          </category>
+          <category xml:id="souss_massa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/souss_massa_">
+            <catDesc xml:lang="en">Souss-Massa</catDesc>
+          </category>
+          <category xml:id="sousse_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/sousse_">
+            <catDesc xml:lang="en">Sousse</catDesc>
+          </category>
+          <category xml:id="tabelbala_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tabelbala_">
+            <catDesc xml:lang="en">Tabelbala</catDesc>
+          </category>
+          <category xml:id="tadla_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tadla_">
+            <catDesc xml:lang="en">Tadla</catDesc>
+          </category>
+          <category xml:id="tafilalet_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tafilalet_">
+            <catDesc xml:lang="en">Tafilalet</catDesc>
+          </category>
+          <category xml:id="taiz_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/taiz_">
+            <catDesc xml:lang="en">Taiz</catDesc>
+          </category>
+          <category xml:id="takrouna_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/takrouna_">
+            <catDesc xml:lang="en">Takrouna</catDesc>
+          </category>
+          <category xml:id="tan_tan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tan_tan_">
+            <catDesc xml:lang="en">Tan-Tan</catDesc>
+          </category>
+          <category xml:id="tanger_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tanger_">
+            <catDesc xml:lang="en">Tanger</catDesc>
+          </category>
+          <category xml:id="tataouine_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tataouine_">
+            <catDesc xml:lang="en">Tataouine</catDesc>
+          </category>
+          <category xml:id="taza_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/taza_">
+            <catDesc xml:lang="en">Taza</catDesc>
+          </category>
+          <category xml:id="telaviv_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/telaviv_">
+            <catDesc xml:lang="en">Tel Aviv</catDesc>
+          </category>
+          <category xml:id="temara_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/temara_">
+            <catDesc xml:lang="en">Temara</catDesc>
+          </category>
+          <category xml:id="thessaloniki_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/thessaloniki_">
+            <catDesc xml:lang="en">Thessaloniki</catDesc>
+          </category>
+          <category xml:id="tiberias_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tiberias_">
+            <catDesc xml:lang="en">Tiberias</catDesc>
+          </category>
+          <category xml:id="tihama" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tihama">
+            <catDesc xml:lang="en">Tihama</catDesc>
+          </category>
+          <category xml:id="tihamatalyaman_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tihamatalyaman_">
+            <catDesc xml:lang="en">Tihamat al Yaman</catDesc>
+          </category>
+          <category xml:id="tihāmah" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tihāmah">
+            <catDesc xml:lang="en">Tihāmah</catDesc>
+          </category>
+          <category xml:id="tikrit_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tikrit_">
+            <catDesc xml:lang="en">Tikrit</catDesc>
+          </category>
+          <category xml:id="tillo_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tillo_">
+            <catDesc xml:lang="en">Tillo</catDesc>
+          </category>
+          <category xml:id="tiznit_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tiznit_">
+            <catDesc xml:lang="en">Tiznit</catDesc>
+          </category>
+          <category xml:id="tlemcen_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tlemcen_">
+            <catDesc xml:lang="en">Tlemcen</catDesc>
+          </category>
+          <category xml:id="toledo_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/toledo_">
+            <catDesc xml:lang="en">Toledo</catDesc>
+          </category>
+          <category xml:id="tozeur_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tozeur_">
+            <catDesc xml:lang="en">Tozeur</catDesc>
+          </category>
+          <category xml:id="tripoli_lebanon_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tripoli_lebanon_">
+            <catDesc xml:lang="en">Tripoli (Lebanon)</catDesc>
+          </category>
+          <category xml:id="tripoli_libya_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tripoli_libya_">
+            <catDesc xml:lang="en">Tripoli (Libya)</catDesc>
+          </category>
+          <category xml:id="tripolitania" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tripolitania">
+            <catDesc xml:lang="en">Tripolitania</catDesc>
+          </category>
+          <category xml:id="tunis_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tunis_">
+            <catDesc xml:lang="en">Tunis</catDesc>
+          </category>
+          <category xml:id="ténès_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ténès_">
+            <catDesc xml:lang="en">Ténès</catDesc>
+          </category>
+          <category xml:id="tétouan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/tétouan_">
+            <catDesc xml:lang="en">Tétouan</catDesc>
+          </category>
+          <category xml:id="uganda" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/uganda">
+            <catDesc xml:lang="en">Uganda</catDesc>
+          </category>
+          <category xml:id="unitedarabemirates_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/unitedarabemirates_">
+            <catDesc xml:lang="en">United Arab Emirates</catDesc>
+          </category>
+          <category xml:id="upperegypt_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/upperegypt_">
+            <catDesc xml:lang="en">Upper Egypt</catDesc>
+          </category>
+          <category xml:id="valencia_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/valencia_">
+            <catDesc xml:lang="en">Valencia</catDesc>
+          </category>
+          <category xml:id="wadikhalid_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/wadikhalid_">
+            <catDesc xml:lang="en">Wadi Khalid</catDesc>
+          </category>
+          <category xml:id="yafa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/yafa_">
+            <catDesc xml:lang="en">Yafa</catDesc>
+          </category>
+          <category xml:id="yangon_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/yangon_">
+            <catDesc xml:lang="en">Yangon</catDesc>
+          </category>
+          <category xml:id="zaafrane_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/zaafrane_">
+            <catDesc xml:lang="en">Zaafrane</catDesc>
+          </category>
+          <category xml:id="zabid_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/zabid_">
+            <catDesc xml:lang="en">Zabid</catDesc>
+          </category>
+          <category xml:id="zair" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/zair">
+            <catDesc xml:lang="en">Zair</catDesc>
+          </category>
+          <category xml:id="zakarīya_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/zakarīya_">
+            <catDesc xml:lang="en">Zakarīya</catDesc>
+          </category>
+          <category xml:id="zeitoun_keserwan_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/zeitoun_keserwan_">
+            <catDesc xml:lang="en">Zeitoun, Keserwan</catDesc>
+          </category>
+          <category xml:id="zgharta_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/zgharta_">
+            <catDesc xml:lang="en">Zgharta</catDesc>
+          </category>
+          <category xml:id="çukurova_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/çukurova_">
+            <catDesc xml:lang="en">Çukurova</catDesc>
+          </category>
+          <category xml:id="şanlıurfa_" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/şanlıurfa_">
+            <catDesc xml:lang="en">Şanlıurfa</catDesc>
+          </category>
+          <category xml:id="ii" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/ii">
+            <catDesc xml:lang="en">Keywords</catDesc>
+          </category>
+          <category xml:id="arabiclanguage" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/arabiclanguage">
+            <catDesc xml:lang="en">Arabic language</catDesc>
+          </category>
+          <category xml:id="colloquialarabicdialectsegypt" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/colloquialarabicdialectsegypt">
+            <catDesc xml:lang="en">Colloquial Arabic dialects Egypt</catDesc>
+          </category>
+          <category xml:id="colloquialarabicdialectsnorthafrica_spain" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/colloquialarabicdialectsnorthafrica_spain">
+            <catDesc xml:lang="en">Colloquial Arabic dialects North Africa &amp; Spain</catDesc>
+          </category>
+          <category xml:id="colloquialarabicdialectspalestine" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/colloquialarabicdialectspalestine">
+            <catDesc xml:lang="en">Colloquial Arabic dialects Palestine</catDesc>
+          </category>
+          <category xml:id="non_classical" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/non_classical">
+            <catDesc xml:lang="en">non-classical</catDesc>
+          </category>
+          <category xml:id="youssoufamineelalamy" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/youssoufamineelalamy">
+            <catDesc xml:lang="en">Youssouf Amine ELALAMY</catDesc>
+          </category>
+          <category xml:id="colloquial_general" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/colloquial_general">
+            <catDesc xml:lang="en">colloquial - general</catDesc>
+          </category>
+          <category xml:id="colloquial_mauritanian" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/colloquial_mauritanian">
+            <catDesc xml:lang="en">colloquial - Mauritanian</catDesc>
+          </category>
+          <category xml:id="colloquial_moroccan" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/colloquial_moroccan">
+            <catDesc xml:lang="en">colloquial - Moroccan</catDesc>
+          </category>
+          <category xml:id="non_classical_colloquialarabicdialects" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/non_classical_colloquialarabicdialects">
+            <catDesc xml:lang="en">non-classical: Colloquial Arabic dialects</catDesc>
+          </category>
+          <category xml:id="non_classical_colloquialarabicdialectsnorthafrica_spain" corresp="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/non_classical_colloquialarabicdialectsnorthafrica_spain">
+            <catDesc xml:lang="en">non-classical: Colloquial Arabic dialects North Africa &amp; Spain</catDesc>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body><p></p></body>
+  </text>
+</TEI>
