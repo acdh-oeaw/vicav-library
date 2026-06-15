@@ -106,18 +106,6 @@
                     </location>
                     <idno type="geoNames">110690</idno>
                 </place>
-                <place type="geo" xml:id="zahran">
-                    <placeName type="prefLabel">Zahran</placeName>
-                    <placeName xml:lang="ar-Latn" type="standard">Zahrān</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">Zahran</placeName>
-                    <placeName xml:lang="ar" type="standard">زهران</placeName>
-                    <location>
-                        <geo decls="#dms">19°43′00″N 41°21′00″E</geo>
-                        <geo decls="#dd">19.71667 41.35</geo>
-                        <country key="SA">Saudi Arabia</country>
-                    </location>
-                    <idno type="geoNames">100384</idno>
-                </place>
                 <place type="geo" xml:id="abu_shusha">
                     <placeName type="prefLabel">Abu Shusha</placeName>
                     <placeName xml:lang="ar" type="standard">أبو شوشة</placeName>
