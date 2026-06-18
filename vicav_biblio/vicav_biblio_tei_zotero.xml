@@ -8,7 +8,7 @@
         <p>unpublished</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-06-05 09:39:46</p>
+        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-06-18 11:44:49</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -3848,7 +3848,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
           </note>
         </biblStruct>
         <biblStruct type="book" xml:id="Landberg_1942_9528" corresp="http://zotero.org/groups/2165756/items/FR9VJRU5" n="Landberg1942">
@@ -4072,6 +4072,9 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
+          </note>
         </biblStruct>
         <biblStruct type="thesis" xml:id="Lewis_1960_3847" corresp="http://zotero.org/groups/2165756/items/QQFZ6WNB" n="Lewis1960">
           <monogr>
@@ -6877,6 +6880,9 @@ Keywords: Dialect levelling, Tunisian Arabic dialects, Bedouin-type dialects</no
           <ref target="geo:irbid_reg" type="subject" subtype="geographic">Irbid</ref>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="vt:toponymy" type="subject" subtype="concept">toponymy</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notAfter-iso="2009-12-31">before2010</date>
+          </note>
         </biblStruct>
         <biblStruct type="thesis" xml:id="abbassi_1977_3265" corresp="http://zotero.org/groups/2165756/items/G2LKPSQZ" n="Abbassi1977">
           <monogr>
@@ -10832,6 +10838,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="aguadé_1994_1897" corresp="http://zotero.org/groups/2165756/items/MNPJ82MR" n="Aguadé1994b">
           <analytic>
@@ -10979,6 +10988,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:Maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="aguadé_2003_4996" corresp="http://zotero.org/groups/2165756/items/HGX6PY2S" n="Aguadé2003b">
           <analytic>
@@ -11018,6 +11030,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="aguadé_2013_4881" corresp="http://zotero.org/groups/2165756/items/ZND2BDA9" n="Aguadé2013">
           <analytic>
@@ -11057,6 +11072,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <note type="tags">
             <note type="tag">Dialectology</note>
             <note type="tag">Semitic languages</note>
+          </note>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
           </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="aguadé_2018_1092" corresp="http://zotero.org/groups/2165756/items/3KPE4TCP" n="Aguadé2018">
@@ -12140,7 +12158,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
+            <date type="dataCollection" cert="low" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
           </note>
         </biblStruct>
         <biblStruct type="book" xml:id="al-sharkawi_2010_3003" corresp="http://zotero.org/groups/2165756/items/TU565C75" n="al-Sharkawi2010">
@@ -12280,6 +12298,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <note type="thesisType">Master thesis</note>
             </imprint>
           </monogr>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="alTawil_2021_1750" corresp="http://zotero.org/groups/2165756/items/B6UV4FVI" n="Al_Tawil2021">
           <analytic>
@@ -13014,6 +13035,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="albirni_2017_5196" corresp="http://zotero.org/groups/2165756/items/4WFB4USL" n="Albirni2017">
           <analytic>
@@ -13880,6 +13904,20 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             <note type="tag">sociolinguistics</note>
           </note>
         </biblStruct>
+        <biblStruct type="thesis" xml:id="alruwaili_2018_9384" corresp="http://zotero.org/groups/2165756/items/3K8NF8A9" n="Alruwaili2018a">
+          <monogr>
+            <title level="m">Negation in Turaif Arabic: Not the Last Word</title>
+            <author>
+              <forename>Shatha</forename>
+              <surname>Alruwaili</surname>
+            </author>
+            <imprint>
+              <pubPlace>Colchester</pubPlace>
+              <date>2018</date>
+              <note type="thesisType">PhD thesis</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="thesis" xml:id="alruweili_2018_2938" corresp="http://zotero.org/groups/2165756/items/JWY8TQRV" n="Alruwaili2018b">
           <monogr>
             <title level="m">Negation in Turaif Arabic: Not the last word</title>
@@ -13944,6 +13982,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:najd" type="subject" subtype="geographic">Najd</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="alshammari_2021_9688" corresp="http://zotero.org/groups/2165756/items/LMULDMWI" n="Alshammari2021">
           <analytic>
@@ -13966,6 +14007,20 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
+        </biblStruct>
+        <biblStruct type="thesis" xml:id="alshammiry_2007_7737" corresp="http://zotero.org/groups/2165756/items/PJ3CM8LQ" n="AlShammiry2007b">
+          <monogr>
+            <title level="m">The clause structure of Turaif Arabic</title>
+            <author>
+              <forename>Khalaf</forename>
+              <surname>AlShammiry</surname>
+            </author>
+            <imprint>
+              <pubPlace>Newcastle upon Tyne</pubPlace>
+              <date>2007</date>
+              <note type="thesisType">PhD Thesis</note>
+            </imprint>
+          </monogr>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="alshammiry_2016-01-31_5630" corresp="http://zotero.org/groups/2165756/items/TZZA47FM" n="AlShammiry2016">
           <analytic>
@@ -15843,6 +15898,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:malta" type="subject" subtype="geographic">Malta</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="aquilina_1994_9901" corresp="http://zotero.org/groups/2165756/items/TW69RJHM" n="Aquilina1994">
           <monogr>
@@ -19549,6 +19607,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1920-01-01" notAfter-iso="1929-12-31">1920s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="basilico_1998_0000" corresp="http://zotero.org/groups/2165756/items/DR2MC9TR" n="Basilico1998">
           <analytic>
@@ -20648,6 +20709,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="behnstedt_1987_0003" corresp="http://zotero.org/groups/2165756/items/GGZCF2LI" n="Behnstedt1987b">
           <monogr>
@@ -20719,6 +20783,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:ethnic_minorities" type="subject" subtype="concept">ethnic minorities</ref>
           <ref target="vt:ethnographic_record" type="subject" subtype="concept">ethnographic record</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="behnstedt_1989_1440" corresp="http://zotero.org/groups/2165756/items/Z2EHJRRA" n="Behnstedt1989b">
           <analytic>
@@ -20815,6 +20882,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="behnstedt_1992_0000" corresp="http://zotero.org/groups/2165756/items/LGITZJAB" n="Behnstedt1992b">
           <analytic>
@@ -20837,6 +20907,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <ref target="vt:sedentary_dialect" type="subject" subtype="concept">sedentary dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="behnstedt_1992_0002" corresp="http://zotero.org/groups/2165756/items/NCVZIBS6" n="Behnstedt1992c">
           <analytic>
@@ -21411,6 +21484,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="behnstedt_2003_3343" corresp="http://zotero.org/groups/2165756/items/TRP4DMDS" n="Behnstedt2003a">
           <analytic>
@@ -21559,6 +21635,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:Maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="behnstedt_2005_0001" corresp="http://zotero.org/groups/2165756/items/C9UHVYLL" n="Behnstedt2005d">
           <analytic>
@@ -26576,7 +26655,7 @@ El estudio analiza once variantes morfológicas y morfosintácticas extraídas d
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
           </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="bettega_2020_8976" corresp="http://zotero.org/groups/2165756/items/G68XAWU7" n="Lucas2020l">
@@ -27442,6 +27521,9 @@ Kervan. International Journal of African and Asian Studies, V. 26 N. 1 (2022): K
           <ref target="geo:eastern_anatolia_region" type="subject" subtype="geographic">Eastern Anatolia Region</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="bituna_peitrareanu_sitaru_2025_1818" corresp="http://zotero.org/groups/2165756/items/XJ5KKYTQ" n="Bițună2025b">
           <monogr>
@@ -29504,7 +29586,7 @@ North Africa and classify them according to their origin (the denotative meaning
             <note type="tag">prj:TUNOCENT</note>
           </note>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1930-01-01" notAfter-iso="1939-12-31">1930s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="1930-01-01" notAfter-iso="1939-12-31">1930s</date>
           </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="borsley_1995_0000" corresp="http://zotero.org/groups/2165756/items/MLAB3HB7" n="Borsley1995">
@@ -33110,6 +33192,9 @@ North Africa and classify them according to their origin (the denotative meaning
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:grammar" type="subject" subtype="concept">grammar</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1930-01-01" notAfter-iso="1939-12-31">1930s</date>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="cantineau_1934_7540" corresp="http://zotero.org/groups/2165756/items/BQ82V9MN" n="Cantineau1934b">
           <monogr>
@@ -33132,6 +33217,9 @@ North Africa and classify them according to their origin (the denotative meaning
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
           <ref target="vt:sedentary_dialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1930-01-01" notAfter-iso="1939-12-31">1930s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="cantineau_1936_8064" corresp="http://zotero.org/groups/2165756/items/453BSU8F" n="Cantineau1936b">
           <analytic>
@@ -33383,7 +33471,7 @@ North Africa and classify them according to their origin (the denotative meaning
             <note type="tag">prj:TUNOCENT</note>
           </note>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1940-01-01" notAfter-iso="1949-12-31">1940s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="1940-01-01" notAfter-iso="1949-12-31">1940s</date>
           </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="cantineau_1956_0000" corresp="http://zotero.org/groups/2165756/items/MZI8DJ3B" n="Cantineau1956b">
@@ -33409,6 +33497,9 @@ North Africa and classify them according to their origin (the denotative meaning
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="1940-01-01" notAfter-iso="1949-12-31">1940s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="cantineau_1956_0001" corresp="http://zotero.org/groups/2165756/items/BDAZ542L" n="Cantineau1956a">
           <analytic>
@@ -38245,7 +38336,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1950-01-01" notAfter-iso="1959-12-31">1950s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="1950-01-01" notAfter-iso="1959-12-31">1950s</date>
           </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="cohen_1964_1771" corresp="http://zotero.org/groups/2165756/items/PV4ZU6UQ" n="Cohen1964b">
@@ -41107,6 +41198,32 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
         </biblStruct>
+        <biblStruct type="bookSection" xml:id="corriente_2011_8273" corresp="http://zotero.org/groups/2165756/items/I9JLGZSZ" n="Corriente2011">
+          <analytic>
+            <title level="a">The emergence of Western Arabic: A likely consequence of creolization</title>
+            <author>
+              <forename>Federico</forename>
+              <surname>Corriente</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Modern trends in Arabic dialectology</title>
+            <editor>
+              <forename>Mohamed</forename>
+              <surname>Embarki</surname>
+            </editor>
+            <editor>
+              <forename>Moha</forename>
+              <surname>Ennaji</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Trenton</pubPlace>
+              <biblScope unit="page">39-46</biblScope>
+              <publisher>Red Sea Press</publisher>
+              <date>2011</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="corriente_2013_3020" corresp="http://zotero.org/groups/2165756/items/3XAXYZYM" n="Corriente2013">
           <monogr>
             <title level="m">A descriptive and comparative grammar of Andalusi Arabic</title>
@@ -42838,6 +42955,9 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="1940-01-01" notAfter-iso="1949-12-31">1940s</date>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="deAlcala_1883_1636" corresp="http://zotero.org/groups/2165756/items/DY7HI2JZ" n="de_Alcala1883">
           <monogr>
@@ -43755,6 +43875,9 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1950-01-01" notAfter-iso="1959-12-31">1950s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="despois_1950_9244" corresp="http://zotero.org/groups/2165756/items/WQUK27N6" n="Despois1950">
           <analytic>
@@ -48366,6 +48489,9 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notAfter-iso="1799-12-31">before1800</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="fakhri_1984_0000" corresp="http://zotero.org/groups/2165756/items/M9JWH27R" n="Fakhri1984">
           <analytic>
@@ -51242,6 +51368,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             </editor>
             <imprint>
               <pubPlace>Aix-en-Provence</pubPlace>
+              <biblScope unit="page">82-89</biblScope>
               <publisher>IREMAM</publisher>
               <date>2019</date>
               <note type="url">http://books.openedition.org/ iremam/3878</note>
@@ -51256,6 +51383,15 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <note type="tags">
             <note type="tag">Linguistics</note>
+          </note>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+          </note>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
           </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="francisco_2021_1992" corresp="http://zotero.org/groups/2165756/items/5NHRL8ZW" n="Francisco2021">
@@ -55123,6 +55259,9 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:contact_linguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:literature" type="subject" subtype="concept">literature</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="grigore_2019_1529" corresp="http://zotero.org/groups/2165756/items/P54BBL54" n="Grigore2019b">
           <analytic>
@@ -55200,7 +55339,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
           </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="grigore_2021_2192" corresp="http://zotero.org/groups/2165756/items/KGGY5IXC" n="Grigore_George2021">
@@ -55320,6 +55459,9 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="grigore_ferrando_2003_0000" corresp="http://zotero.org/groups/2165756/items/VCGA9JAU" n="Grigore2003">
           <analytic>
@@ -55382,7 +55524,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
           </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="grigore_prochazka_2008_0000" corresp="http://zotero.org/groups/2165756/items/5T9DJGTF" n="Grigore2008b">
@@ -61053,6 +61195,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>2003</date>
             </imprint>
           </monogr>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="heath_2007_4211" corresp="http://zotero.org/groups/2165756/items/S674Q5NY" n="Heath2007">
           <analytic>
@@ -61182,6 +61327,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="vt:South_Arabian" type="subject" subtype="concept">South Arabian</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1900-01-01" notAfter-iso="1909-12-31">1900s</date>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="heine_1982_0000" corresp="http://zotero.org/groups/2165756/items/MD7TKKVC" n="Heine1982">
           <monogr>
@@ -61844,6 +61992,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="herin_2006_0000" corresp="http://zotero.org/groups/2165756/items/4TVMQ2WN" n="Herin2006">
           <analytic>
@@ -65815,6 +65966,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="vt:Iran" type="subject" subtype="concept">Iran</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="ingham_1976_9342" corresp="http://zotero.org/groups/2165756/items/77DEYMVK" n="Ingham1976">
           <analytic>
@@ -65842,6 +65996,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="ingham_1979_0000" corresp="http://zotero.org/groups/2165756/items/L74MXE7L" n="Ingham1979">
           <analytic>
@@ -66133,6 +66290,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="ingham_1993_6912" corresp="http://zotero.org/groups/2165756/items/W578SK43" n="Ingham1993">
           <analytic>
@@ -66207,6 +66367,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:ethnic_minorities" type="subject" subtype="concept">ethnic minorities</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="ingham_1994_3172" corresp="http://zotero.org/groups/2165756/items/Q2A2B8WX" n="Ingham1994a">
           <analytic>
@@ -66236,6 +66399,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="vt:contact_linguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:ethnic_minorities" type="subject" subtype="concept">ethnic minorities</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="ingham_1994_6860" corresp="http://zotero.org/groups/2165756/items/6774CSF7" n="Ingham1994f">
           <analytic>
@@ -66850,7 +67016,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="vt:sedentary_dialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
           </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="ionete_grigore_2016_0000" corresp="http://zotero.org/groups/2165756/items/GMFWD6EJ" n="Ionete2016">
@@ -68696,6 +68862,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
           <ref target="vt:sedentary_dialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1960-01-01" notAfter-iso="1969-12-31">1960s</date>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="jastrow_1978_und_1981_0002" corresp="http://zotero.org/groups/2165756/items/9FAVX7LN" n="Jastrow1981">
           <monogr>
@@ -68720,6 +68889,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
           <ref target="vt:sedentary_dialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1960-01-01" notAfter-iso="1969-12-31">1960s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="jastrow_1979_0000" corresp="http://zotero.org/groups/2165756/items/HZEEXD7N" n="Jastrow1979">
           <analytic>
@@ -68817,6 +68989,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="jastrow_1980_7454" corresp="http://zotero.org/groups/2165756/items/6DVHBJQY" n="Jastrow1980c">
           <analytic>
@@ -68951,6 +69126,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="jastrow_1984_0239" corresp="http://zotero.org/groups/2165756/items/SALLAMPX" n="Jastrow1984b">
           <analytic>
@@ -69307,6 +69485,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="vt:Mesopotamia" type="subject" subtype="concept">Mesopotamia</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:ethnic_minorities" type="subject" subtype="concept">ethnic minorities</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1960-01-01" notAfter-iso="1969-12-31">1960s</date>
+          </note>
         </biblStruct>
         <biblStruct type="encyclopediaArticle" xml:id="jastrow_1996_9837" corresp="http://zotero.org/groups/2165756/items/MXXS3INE" n="Jastrow1996b">
           <analytic>
@@ -72031,6 +72212,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1840-01-01" notAfter-iso="1849-12-31">1840s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="kallas_ferrando_2003_0000" corresp="http://zotero.org/groups/2165756/items/BPFKVFM7" n="Kallas2003">
           <analytic>
@@ -76818,6 +77002,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="lahdo_2000_0000" corresp="http://zotero.org/groups/2165756/items/URW6JSAW" n="Lahdo2000">
           <analytic>
@@ -76839,6 +77026,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="lahdo_2002_0000" corresp="http://zotero.org/groups/2165756/items/8JC6WQRL" n="Lahdo2002">
           <analytic>
@@ -77534,6 +77724,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>1981</date>
             </imprint>
           </monogr>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="lancioni_1989_0000" corresp="http://zotero.org/groups/2165756/items/CJT7P7Q2" n="Lancioni1989">
           <analytic>
@@ -78351,6 +78544,9 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="vt:ethnic_minorities" type="subject" subtype="concept">ethnic minorities</ref>
           <ref target="vt:ethnography" type="subject" subtype="concept">ethnography</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="1840-01-01" notAfter-iso="1849-12-31">1840s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="lazaraton_2003_3782" corresp="http://zotero.org/groups/2165756/items/2F8ZWHRW" n="Lazaraton2003">
           <analytic>
@@ -78816,6 +79012,9 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+          </note>
         </biblStruct>
         <biblStruct type="thesis" xml:id="leitner_2020_5243" corresp="http://zotero.org/groups/2165756/items/CX5B75P4" n="Leitner2020a">
           <monogr>
@@ -81563,6 +81762,9 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:khuzestan" type="subject" subtype="geographic">Khuzestan</ref>
           <ref target="vt:Mesopotamia" type="subject" subtype="concept">Mesopotamia</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="1900-01-01" notAfter-iso="1909-12-31">1900s</date>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="loubignac_1952_3814" corresp="http://zotero.org/groups/2165756/items/F5JBJNYA" n="Loubignac1952">
           <monogr>
@@ -83679,6 +83881,9 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="mairi_1983_0000" corresp="http://zotero.org/groups/2165756/items/5IF3JY5L" n="Maïri1983">
           <analytic>
@@ -85191,6 +85396,9 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>2019</date>
             </imprint>
           </monogr>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="marjani_2020_9713" corresp="http://zotero.org/groups/2165756/items/9KV8ZDXM" n="Marjani2020">
           <analytic>
@@ -86222,6 +86430,9 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="vt:contact_linguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:loanwords" type="subject" subtype="concept">loanwords</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="matras_2020_3091" corresp="http://zotero.org/groups/2165756/items/55YQXQ4F" n="Lucas2020f">
           <analytic>
@@ -86601,7 +86812,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
             </imprint>
           </monogr>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1950-01-01" notAfter-iso="1959-12-31">1950s</date>
+            <date type="dataCollection" cert="low" notBefore-iso="1950-01-01" notAfter-iso="1959-12-31">1950s</date>
           </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="mccarthy_1980_0000" corresp="http://zotero.org/groups/2165756/items/ZGMUN2RS" n="McCarthy1980">
@@ -86701,7 +86912,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1950-01-01" notAfter-iso="1959-12-31">1950s</date>
+            <date type="dataCollection" cert="low" notBefore-iso="1950-01-01" notAfter-iso="1959-12-31">1950s</date>
           </note>
         </biblStruct>
         <biblStruct type="book" xml:id="mcguirk_1986_6713" corresp="http://zotero.org/groups/2165756/items/GQ8QDC4Q" n="McGuirk1986">
@@ -88299,6 +88510,9 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="messaoudi_2004_3864" corresp="http://zotero.org/groups/2165756/items/C45ZTKNN" n="Messaoudi2004">
           <analytic>
@@ -91542,6 +91756,9 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:chefchaouen" type="subject" subtype="geographic">Chefchaouen</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="moscoso_garcia_2002_0000" corresp="http://zotero.org/groups/2165756/items/KH7BVJDM" n="Moscoso_García2002a">
           <analytic>
@@ -93273,6 +93490,19 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="thesis" xml:id="nadwi_1968_1881" corresp="http://zotero.org/groups/2165756/items/7SNGBVYT" n="Nadwi1968">
+          <monogr>
+            <title level="m">A study of the arabic dialects of the belad ghamid and zahran region of saudi arabia on the basis of original field recording and an examination of the relationship to the neighbouring regions</title>
+            <author>
+              <forename>Abdullah Abbas</forename>
+              <surname>Nadwi</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leeds</pubPlace>
+              <date>1968</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="nadwi_1973_0000" corresp="http://zotero.org/groups/2165756/items/CPL5C4HC" n="Nadwi1973">
           <analytic>
             <title level="a">Notes on the Arabic dialects of the Bilād Ghāmid and Zahrān region of Saudi Arabia</title>
@@ -94600,6 +94830,9 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:aleppo" type="subject" subtype="geographic">Aleppo</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="nevo_1999_2848" corresp="http://zotero.org/groups/2165756/items/2RYKHEN3" n="Nevo1999">
           <analytic>
@@ -98715,6 +98948,9 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="vt:bedouin_dialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:language_of_a_tribe" type="subject" subtype="concept">language of a tribe</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="palva_2005_0000" corresp="http://zotero.org/groups/2165756/items/B3DRH2EU" n="Palva2005">
           <analytic>
@@ -98851,7 +99087,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1950-01-01" notAfter-iso="1959-12-31">1950s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="1950-01-01" notAfter-iso="1959-12-31">1950s</date>
           </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="palva_caubet_1994_0000" corresp="http://zotero.org/groups/2165756/items/KHBUFV6X" n="Palva1994">
@@ -100466,7 +100702,6 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             </author>
             <imprint>
               <pubPlace>Leiden</pubPlace>
-              <biblScope unit="volume">1</biblScope>
               <publisher>Brill</publisher>
               <date>1990</date>
             </imprint><extent>2</extent>
@@ -100479,16 +100714,15 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
         </biblStruct>
         <biblStruct type="book" xml:id="piamenta_1990_3703" corresp="http://zotero.org/groups/2165756/items/2S7J7WEB" n="Piamenta1990b">
           <monogr>
-            <title level="m">Dictionary of post-classical Yemeni Arabic : 1 : A - Š</title>
-            <idno type="ISBN">978-90-04-09294-5 978-90-04-09261-7 978-90-04-09293-8</idno>
+            <title level="m">Dictionary of post-classical Yemeni Arabic: 1: A - Š</title>
             <idno type="callNumber">PJ6877 .P53 1990</idno>
             <author>
-              <forename>M.</forename>
+              <forename>Moshe</forename>
               <surname>Piamenta</surname>
             </author>
             <imprint>
-              <pubPlace>Leiden ; New York</pubPlace>
-              <publisher>E.J. Brill</publisher>
+              <pubPlace>Leiden &amp; New York</pubPlace>
+              <publisher>Brill</publisher>
               <date>1990</date>
             </imprint>
           </monogr>
@@ -100526,16 +100760,15 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
         </biblStruct>
         <biblStruct type="book" xml:id="piamenta_1991_8667" corresp="http://zotero.org/groups/2165756/items/39EICFCK" n="Piamenta1991a">
           <monogr>
-            <title level="m">Dictionary of post-classical Yemeni Arabic : 2 : Ṣ - Y</title>
-            <idno type="ISBN">978-90-04-09294-5 978-90-04-09261-7 978-90-04-09293-8</idno>
+            <title level="m">Dictionary of post-classical Yemeni Arabic: 2: Ṣ - Y</title>
             <idno type="callNumber">PJ6877 .P53 1990</idno>
             <author>
-              <forename>M.</forename>
+              <forename>Moshe</forename>
               <surname>Piamenta</surname>
             </author>
             <imprint>
-              <pubPlace>Leiden ; New York</pubPlace>
-              <publisher>E.J. Brill</publisher>
+              <pubPlace>Leiden &amp; New York</pubPlace>
+              <publisher>Brill</publisher>
               <date>1991</date>
             </imprint>
           </monogr>
@@ -101513,6 +101746,9 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:muharraq" type="subject" subtype="geographic">Muharraq</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="prochazka_1987_0000" corresp="http://zotero.org/groups/2165756/items/Z8LBDP35" n="Prochazka1987">
           <analytic>
@@ -101877,6 +102113,9 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="geo:cukurova" type="subject" subtype="geographic">Çukurova</ref>
           <ref target="vt:bedouin_dialect" type="subject" subtype="concept">bedouin dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="prochazka_2009_3256" corresp="http://zotero.org/groups/2165756/items/I749Z3SH" n="Procházka2009c">
           <analytic>
@@ -101964,6 +102203,9 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:bedouin_dialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="prochazka_2012_3252" corresp="http://zotero.org/groups/2165756/items/Y97L2RCG" n="Procházka2012a">
           <analytic>
@@ -102402,6 +102644,9 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:bedouin_dialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="prochazka_ferrando_2003_0001" corresp="http://zotero.org/groups/2165756/items/XSU2EIDE" n="Procházka2003">
           <analytic>
@@ -102435,7 +102680,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="vt:bedouin_dialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
           </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="prochazka_haak_2004_0000" corresp="http://zotero.org/groups/2165756/items/BDNP8Z5I" n="Al-Wer2004">
@@ -102502,6 +102747,9 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:bedouin_dialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="prochazka_mifsud_2000_0000" corresp="http://zotero.org/groups/2165756/items/RNYIYEZK" n="Procházka2000b">
           <analytic>
@@ -102901,7 +103149,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="vt:sedentary_dialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
           </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="procházka_2019_6726" corresp="http://zotero.org/groups/2165756/items/A76UHMF9" n="Procházka2019a">
@@ -102930,7 +103178,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:tunisia" type="subject" subtype="geographic">Tunisia</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
           </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="procházka_2020_0753" corresp="http://zotero.org/groups/2165756/items/8S6CKNYY" n="Lucas2020t">
@@ -105640,7 +105888,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             <note type="tag">Nefzaoua</note>
           </note>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
           </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="ritt-benmimoun_2021_2993" corresp="http://zotero.org/groups/2165756/items/9C39H9AK" n="Ritt-Benmimoun2021">
@@ -105865,7 +106113,7 @@ Keywords: Interrogatives in Arabic, Tunisian dialects, Bedouin-type dialects, li
             </imprint>
           </monogr>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
           </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="ritt_benmimoun_2006_2010_0000" corresp="http://zotero.org/groups/2165756/items/JVCB7FSG" n="Ritt-Benmimoun2006">
@@ -106026,7 +106274,7 @@ Keywords: Interrogatives in Arabic, Tunisian dialects, Bedouin-type dialects, li
             <note type="tag">prj:TUNOCENT</note>
           </note>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="2000-01-01" notAfter-iso="2009-12-31">2000s</date>
           </note>
         </biblStruct>
         <biblStruct type="book" xml:id="ritt_benmimoun_2014_0000" corresp="http://zotero.org/groups/2165756/items/MFW5U4WU" n="Ritt-Benmimoun2014c">
@@ -111943,7 +112191,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
           </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="saqqaf_2005_3862" corresp="http://zotero.org/groups/2165756/items/43B3AIAT" n="Al-Saqqaf2005">
@@ -111967,7 +112215,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:yemen" type="subject" subtype="geographic">Yemen</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
           </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="saqqaf_2006_3427" corresp="http://zotero.org/groups/2165756/items/LWW9IDWF" n="Al-Saqqaf2006a">
@@ -111993,7 +112241,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
           <ref target="vt:loanwords" type="subject" subtype="concept">loanwords</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
+            <date type="dataCollection" cert="low" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
           </note>
         </biblStruct>
         <biblStruct type="encyclopediaArticle" xml:id="saqqaf_2008_2519" corresp="http://zotero.org/groups/2165756/items/4WU4EVID" n="Al-Saqqaf2008">
@@ -112023,7 +112271,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:yemen" type="subject" subtype="geographic">Yemen</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
           </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="saqui_grand_henry_2003_0000" corresp="http://zotero.org/groups/2165756/items/VQ3TDEL2" n="Saqui2003">
@@ -116778,6 +117026,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="skik_1969_2886" corresp="http://zotero.org/groups/2165756/items/9K294XHN" n="Skik1969">
           <analytic>
@@ -118406,6 +118657,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="stevens_1987_0000" corresp="http://zotero.org/groups/2165756/items/FT4LZN7P" n="Stevens1987">
           <monogr>
@@ -121104,7 +121358,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="vt:glossary" type="subject" subtype="concept">glossary</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
           </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="talay_2006_0000" corresp="http://zotero.org/groups/2165756/items/RN4KXIM9" n="Talay2006">
@@ -121638,7 +121892,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <note type="tag">prj:TUNOCENT</note>
           </note>
           <note type="dataCollection">
-            <date type="dataCollection" cert="unknown" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
+            <date type="dataCollection" cert="low" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
           </note>
         </biblStruct>
         <biblStruct type="book" xml:id="talmoudi_1984_0001" corresp="http://zotero.org/groups/2165756/items/9GKUCV9M" n="Talmoudi1984a">
@@ -122980,6 +123234,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="torreblanca_1993_0000" corresp="http://zotero.org/groups/2165756/items/WDTAFSLT" n="Torreblanca1993">
           <analytic>
@@ -125713,6 +125970,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:masmouda" type="subject" subtype="geographic">Masmouda</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="vicente_2003_0001" corresp="http://zotero.org/groups/2165756/items/7775GXBJ" n="Vicente2003a">
           <analytic>
@@ -129959,7 +130219,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <note type="dataCollection">
-            <date type="dataCollection" cert="low" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
           </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="wittrich_2002_3126" corresp="http://zotero.org/groups/2165756/items/DQR94F7H" n="Wittrich2002">
@@ -129994,6 +130254,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="vt:oral_poetry" type="subject" subtype="concept">oral poetry</ref>
           <ref target="vt:poetry" type="subject" subtype="concept">poetry</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="thesis" xml:id="woidich_1968_0000" corresp="http://zotero.org/groups/2165756/items/XBK482T5" n="Woidich1968">
           <monogr>
@@ -132111,6 +132374,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="vt:diachronic_perspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notAfter-iso="2009-12-31">before2010</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="youssef_2015_3163" corresp="http://zotero.org/groups/2165756/items/ABI563XF" n="Youssef2015">
           <analytic>
@@ -132132,6 +132398,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notAfter-iso="2009-12-31">before2010</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="youssef_2020_0796" corresp="http://zotero.org/groups/2165756/items/I23G826D" n="Youssef2020">
           <analytic>
@@ -132297,6 +132566,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notAfter-iso="2009-12-31">before2010</date>
+          </note>
         </biblStruct>
         <biblStruct type="thesis" xml:id="youssefi_1982_4548" corresp="http://zotero.org/groups/2165756/items/7HRFIAGF" n="Youssefi1982">
           <monogr>
@@ -135236,11 +135508,27 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
+        <biblStruct type="thesis" xml:id="zoteroItem_3B9KJP5K" corresp="http://zotero.org/groups/2165756/items/3B9KJP5K" n="zoteroItem_3B9KJP5K">
+          <monogr>
+            <title/>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="zoteroItem_CFY3HEWR" corresp="http://zotero.org/groups/2165756/items/CFY3HEWR" n="zoteroItem_CFY3HEWR">
           <analytic>
             <title level="a"/>
           </analytic>
           <monogr>
+            <imprint>
+              <date/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="thesis" xml:id="zoteroItem_KNTI4NPI" corresp="http://zotero.org/groups/2165756/items/KNTI4NPI" n="zoteroItem_KNTI4NPI">
+          <monogr>
+            <title/>
             <imprint>
               <date/>
             </imprint>
