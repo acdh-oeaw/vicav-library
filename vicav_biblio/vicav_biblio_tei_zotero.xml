@@ -8,7 +8,7 @@
         <p>unpublished</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-06-18 11:44:49</p>
+        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-06-20 18:03:00</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -16092,6 +16092,27 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
         </biblStruct>
+        <biblStruct type="journalArticle" xml:id="arndt_2025_8261" corresp="http://zotero.org/groups/2165756/items/JNAD4GFB" n="Arndt2025">
+          <analytic>
+            <title level="a">Das Präfix da- im arabischen Dialekt von Aleppo: Ein Text im Muslimisch-Aleppinischen</title>
+            <author>
+              <forename>Dennis</forename>
+              <surname>Arndt</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Zeitschrift für Arabische Linguistik</title>
+            <imprint>
+              <biblScope unit="volume">79</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">75-93</biblScope>
+              <date>2025</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:aleppo" type="subject" subtype="geographic">Aleppo</ref>
+          <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
+          <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="arnold_0000" corresp="http://zotero.org/groups/2165756/items/NPJ679RJ" n="Arnold2015a">
           <analytic>
             <title level="a">Living together with the Jews: A Palestinian Arabic text from Jaffa</title>
@@ -19389,6 +19410,35 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="barmoshe_2024_2826" corresp="http://zotero.org/groups/2165756/items/WQHRJC3V" n="Bar-Moshe2024b">
+          <analytic>
+            <title level="a">Diversity explained - Why do qəltu dialects present three different forms for the long persons in the prefix-conjugation?</title>
+            <author>
+              <forename>Assaf</forename>
+              <surname>Bar-Moshe</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Current research in Semitic studies: Proceedings of the Semitic Studies Section at the 34th DOT at Freie Universität Berlin</title>
+            <editor>
+              <forename>Simona</forename>
+              <surname>Olivieri</surname>
+            </editor>
+            <editor>
+              <forename>Shabo</forename>
+              <surname>Talay</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <biblScope unit="page">217-233</biblScope>
+              <publisher>Harrassowitz</publisher>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
+          <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
+          <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="barmoshe_2024_3991" corresp="http://zotero.org/groups/2165756/items/GZ4XVR2A" n="Bar-Moshe2024">
           <analytic>
@@ -31019,6 +31069,36 @@ North Africa and classify them according to their origin (the denotative meaning
           <note type="dataCollection">
             <date type="dataCollection" cert="high" notBefore-iso="2020-01-01" notAfter-iso="2029-12-31">2020s</date>
           </note>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="bozkurt_2024_8638" corresp="http://zotero.org/groups/2165756/items/F8CPJXDP" n="Bozkurt2024b">
+          <analytic>
+            <title level="a">Der persische Einfluss im Wortschatz des Khorasan-Arabischen</title>
+            <author>
+              <forename>Volkan</forename>
+              <surname>Bozkurt</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Current research in Semitic studies: Proceedings of the Semitic Studies Section at the 34th DOT at Freie Universität Berlin</title>
+            <editor>
+              <forename>Simona</forename>
+              <surname>Olivieri</surname>
+            </editor>
+            <editor>
+              <forename>Shabo</forename>
+              <surname>Talay</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <biblScope unit="page">235-247</biblScope>
+              <publisher>Harrassowitz</publisher>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:khorasan" type="subject" subtype="geographic">Khorasan</ref>
+          <ref target="geo:central_asia" type="subject" subtype="geographic">Central Asia</ref>
+          <ref target="geo:iran" type="subject" subtype="geographic">Iran</ref>
+          <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="bozkurt_2025_1736" corresp="http://zotero.org/groups/2165756/items/AAI7J9JQ" n="Bozkurt2025">
           <analytic>
@@ -50222,6 +50302,35 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
           </note>
         </biblStruct>
+        <biblStruct type="bookSection" xml:id="fink_2024_8622" corresp="http://zotero.org/groups/2165756/items/DKSWVSDH" n="Fink2024">
+          <analytic>
+            <title level="a">Spuren des Armenischen im Lexikon der arabischen Dialekte der Osttürkei</title>
+            <author>
+              <forename>Andreas</forename>
+              <surname>Fink</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Current research in Semitic studies: Proceedings of the Semitic Studies Section at the 34th DOT at Freie Universität Berlin</title>
+            <editor>
+              <forename>Simona</forename>
+              <surname>Olivieri</surname>
+            </editor>
+            <editor>
+              <forename>Shabo</forename>
+              <surname>Talay</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <biblScope unit="page">249-281</biblScope>
+              <publisher>Harrassowitz</publisher>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
+          <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
+          <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="firanescu_2020_1443" corresp="http://zotero.org/groups/2165756/items/Y4D4EC7N" n="Firanescu2020">
           <analytic>
             <title level="a">Barki (b-)yəmšī l-ḥāl! A complex modal (with bouletic component) in colloquial Arabic from Syria</title>
@@ -51490,6 +51599,35 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>2024</date>
             </imprint>
           </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="franciso_2024_8262" corresp="http://zotero.org/groups/2165756/items/U7F2KEW4" n="Francisco2024b">
+          <analytic>
+            <title level="a">Old vernacular features of Moroccan Arabic under the light of their Portugese translation (16th century)</title>
+            <author>
+              <forename>Felipe Benjamin</forename>
+              <surname>Francisco</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Current research in Semitic studies: Proceedings of the Semitic Studies Section at the 34th DOT at Freie Universität Berlin</title>
+            <editor>
+              <forename>Simona</forename>
+              <surname>Olivieri</surname>
+            </editor>
+            <editor>
+              <forename>Shabo</forename>
+              <surname>Talay</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <biblScope unit="page">283-296</biblScope>
+              <publisher>Harrassowitz</publisher>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
+          <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
+          <ref target="vt:diachronic_perspective" type="subject" subtype="concept">diachronic perspective</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="frayha_1973_0765" corresp="http://zotero.org/groups/2165756/items/FS6NMI52" n="Frayha1973b">
           <monogr>
@@ -115770,6 +115908,36 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="bookSection" xml:id="sigourou_2024_8255" corresp="http://zotero.org/groups/2165756/items/7WGSDJUC" n="Sigourou2024b">
+          <analytic>
+            <title level="a">The š negator and the negative particle lā in Bedouin dialects of Jordan</title>
+            <author>
+              <forename>Angeliki</forename>
+              <surname>Sigourou</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Current research in Semitic studies: Proceedings of the Semitic Studies Section at the 34th DOT at Freie Universität Berlin</title>
+            <editor>
+              <forename>Simona</forename>
+              <surname>Olivieri</surname>
+            </editor>
+            <editor>
+              <forename>Shabo</forename>
+              <surname>Talay</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <biblScope unit="page">297-317</biblScope>
+              <publisher>Harrassowitz</publisher>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
+          <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
+          <ref target="vt:bedouin_dialect" type="subject" subtype="concept">bedouin dialect</ref>
+          <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="simeone-senelle_2011_0001" corresp="http://zotero.org/groups/2165756/items/S85U9QI7" n="Simeone-Senelle2011">
           <analytic>
             <title level="a">Modern South Arabian</title>
@@ -121504,6 +121672,35 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="vt:diachronic_perspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="talay_2024_8542" corresp="http://zotero.org/groups/2165756/items/7K4EHI62" n="Talay2024">
+          <analytic>
+            <title level="a">Der arabische Dialekt von Sine (Osttürkei): Grammatikalische Anmerkungen mit zwei Textproben</title>
+            <author>
+              <forename>Shabo</forename>
+              <surname>Talay</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Current research in Semitic studies: Proceedings of the Semitic Studies Section at the 34th DOT at Freie Universität Berlin</title>
+            <editor>
+              <forename>Simona</forename>
+              <surname>Olivieri</surname>
+            </editor>
+            <editor>
+              <forename>Shabo</forename>
+              <surname>Talay</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <biblScope unit="page">319-338</biblScope>
+              <publisher>Harrassowitz</publisher>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
+          <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
+          <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="talay_ferrando_2003_0000" corresp="http://zotero.org/groups/2165756/items/VGUF3NR3" n="Talay2003a">
           <analytic>
@@ -131259,6 +131456,26 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <biblScope unit="page">3-22</biblScope>
               <publisher>Heidelberg University Publishing</publisher>
               <date>2022</date>
+            </imprint>
+          </monogr>
+          <ref target="vt:comparative_studies" type="subject" subtype="concept">comparative studies</ref>
+          <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="woidich_2025_9572" corresp="http://zotero.org/groups/2165756/items/MSA7F29T" n="Woidich2025">
+          <analytic>
+            <title level="a">Lexikalische Kreativität in den arabischen Dialekten: Volksetymologie. Beispiele aus dem "Wortatlas der arabischen Dialekte" (WAD)</title>
+            <author>
+              <forename>Manfred</forename>
+              <surname>Woidich</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Zeitschrift für Arabische Linguistik</title>
+            <imprint>
+              <biblScope unit="volume">79</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">5-39</biblScope>
+              <date>2025</date>
             </imprint>
           </monogr>
           <ref target="vt:comparative_studies" type="subject" subtype="concept">comparative studies</ref>
