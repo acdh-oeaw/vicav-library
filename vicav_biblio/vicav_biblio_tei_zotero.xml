@@ -8,7 +8,7 @@
         <p>unpublished</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-06-20 18:03:00</p>
+        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-06-30 15:41:33</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -2107,6 +2107,35 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:semantics" type="subject" subtype="concept">semantics</ref>
         </biblStruct>
+        <biblStruct type="journalArticle" xml:id="El_Zarka2024" corresp="http://zotero.org/groups/2165756/items/2JVQLFDT" n="El_Zarka2024">
+          <analytic>
+            <title level="a">An attempt at categorizing clitics in an Arabic variety</title>
+            <idno type="DOI">doi.org/10.1163/18776930-01602003</idno>
+            <author>
+              <forename>Dina</forename>
+              <surname>El Zarka</surname>
+            </author>
+            <author>
+              <forename>Sandra</forename>
+              <surname>Ziagos</surname>
+            </author>
+            <author>
+              <forename>Bettina</forename>
+              <surname>Leitner</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Brill's Journal of Afroasiatic Languages and Linguistics</title>
+            <imprint>
+              <biblScope unit="volume">16</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">273-310</biblScope>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:iran" type="subject" subtype="geographic">Iran</ref>
+          <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
+        </biblStruct>
         <biblStruct type="book" xml:id="Elimam_2003_8364" corresp="http://zotero.org/groups/2165756/items/38CV4YU4" n="Elimam2003">
           <monogr>
             <title level="m">Le Maghribi alias "ed-darija" (La langue consensuelle du Maghreb)</title>
@@ -3599,6 +3628,78 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
             <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
           </note>
         </biblStruct>
+        <biblStruct type="presentation" xml:id="Iriarte_2023_1029" corresp="http://zotero.org/groups/2165756/items/NM8GQB4L" n="Iriarte_Díez2023">
+          <monogr>
+            <meeting>
+              <name>ALiF (Arabic Linguistics Forum) Conference</name>
+              <date>08.-10.11.2023</date>
+              <placeName>York</placeName>
+            </meeting>
+            <title level="m">Theoretical and methodological considerations for the sociolinguistic analysis of superdiverse speech communities: The case of Arab il-Maslax in Karantina (Beirut)</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Ana</forename>
+                <surname>Iriarte Díez</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>York</pubPlace>
+              <date>2023</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Iriarte_2024_5647" corresp="http://zotero.org/groups/2165756/items/AEMICRR3" n="Iriarte_Díez2024b">
+          <monogr>
+            <meeting>
+              <name>15th Conference of the International Association of Arabic Dialectology (AIDA)</name>
+              <date>22.05.2024</date>
+              <placeName>L’Università ta’ Malta, Valletta</placeName>
+            </meeting>
+            <title level="m">A Sociolinguistic study of the Arabic spoken by ʕArab il-Maslax in Karantina (Beirut)</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Ana</forename>
+                <surname>Iriarte Díez</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>L’Università ta’ Malta, Valletta</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Iriarte_2025_0987" corresp="http://zotero.org/groups/2165756/items/5TJSAFL2" n="Iriarte_Díez2025ab">
+          <monogr>
+            <meeting>
+              <name>Arabic sociolinguistics and dialectology: Taking stock</name>
+              <date>10.-11.07.2025</date>
+              <placeName>University of Bayreuth</placeName>
+            </meeting>
+            <title level="m">The Role of Migration and Displacement in the Life Course of an Arabic Variety: A Linguistic and Ideological Analysis of Variation in the Dialect of Arab al-Maslakh in Beirut (Karantina).</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Ana</forename>
+                <surname>Iriarte Díez</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>University of Bayreuth</pubPlace>
+              <date>2025</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="Iriarte_Prochazka_2027_0987" corresp="http://zotero.org/groups/2165756/items/2MCI2LLZ" n="Iriarte_Díez2027b">
           <analytic>
             <title level="a">Distribution and history of the affrication of *q and *k in Arabic dialects: Remnants of spoken Old Arabic or innovation of Bedouin-type dialects?</title>
@@ -3773,6 +3874,55 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
           </monogr>
           <note type="abstract">In this article we look at how two different standards for lexical resources, TEI and OntoLex, deal with corpus citations in lexicons. We will focus on how corpus citations in retrodigitised dictionaries can be modelled using each of the two standards since this provides us with a suitably challenging use case. After looking at the structure of an example entry from a legacy dictionary, we examine the two approaches offered by the two different standards by outlining an encoding for the example entry using both of them (note that this article features the first extended discussion of how the Frequency Attestation and Corpus (FrAC) module of OntoLex deals with citations). After comparing the two approaches and looking at the advantages and disadvantages of both, we argue for a combination of both. In the last part of the article we discuss different ways of doing this, giving our preference for a strategy which makes use of RDFa.</note>
         </biblStruct>
+        <biblStruct type="presentation" xml:id="Laaber_2022_4567" corresp="http://zotero.org/groups/2165756/items/FGFRZ2A4" n="Laaber2022">
+          <monogr>
+            <meeting>
+              <name>Linguistics Conference Prague</name>
+              <date>01.10.2022</date>
+              <placeName>Charles University, Prague</placeName>
+            </meeting>
+            <title level="m">Theoretical and Methodological Considerations for the Study of “Language Attitudes” by the example of Bedouin Arabic Dialects</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Claudia</forename>
+                <surname>Laaber</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Charles University, Prague</pubPlace>
+              <date>2022</date>
+              <note type="url">https://ucris.univie.ac.at/portal/de/activities/theoretical-and-methodological-considerations-for-the-study-of-language-attitudes-by-the-example-of-bedouin-arabic-dialects(cdb1bd1e-d104-4cde-b9aa-e2e8fc2f955c).html</note>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Laaber_2024_8374" corresp="http://zotero.org/groups/2165756/items/6XN376AN" n="Laaber2024">
+          <monogr>
+            <meeting>
+              <name>15th Conference of the International Association of Arabic Dialectology (AIDA)</name>
+              <date>22.05.2024</date>
+              <placeName>L’Università ta’ Malta, Valletta</placeName>
+            </meeting>
+            <title level="m">Bedouins in Beirut: Language ideologies among the ʕArab ilMaslax community</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Claudia</forename>
+                <surname>Laaber</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>L’Università ta’ Malta, Valletta</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="Laaber_2025_7569" corresp="http://zotero.org/groups/2165756/items/R4XVXYNX" n="Laaber2025">
           <analytic>
             <title level="a">Language ideologies and Bedouinity: Bedouin Arabic as an identity marker among the Bdul community in Southern Jordan</title>
@@ -3798,9 +3948,9 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
               <date>2025</date>
             </imprint>
           </monogr>
-          <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="Labidi_2017_5668" corresp="http://zotero.org/groups/2165756/items/UPYF36SW" n="Labidi2017">
           <analytic>
@@ -5128,6 +5278,30 @@ variation based on the speaker’s age,gender and origin. Moreover, comparative 
             </imprint>
           </monogr>
         </biblStruct>
+        <biblStruct type="presentation" xml:id="Prochazka_2022_0987" corresp="http://zotero.org/groups/2165756/items/SECC88YG" n="Procházka2022a">
+          <monogr>
+            <meeting>
+              <name>14th Conference of Association Internationale de Dialectologie Arabe (AIDA)</name>
+              <date>30.06.2022</date>
+              <placeName>Granada</placeName>
+            </meeting>
+            <title level="m">How solid is the linguistic basis for the “Bedouin-Sedentary split” used in the classification of Arabic dialects?</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Stephan</forename>
+                <surname>Procházka</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Granada</pubPlace>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="Prochazka_2022_2927" corresp="http://zotero.org/groups/2165756/items/2ZYNZ9PF" n="Procházka2022b">
           <analytic>
             <title level="a">The Arabic dialects of the Jezreel Plain and the Hula Valley (Galilee): Grammatical notes, remarks on linguistic contact, and texts</title>
@@ -5148,6 +5322,78 @@ variation based on the speaker’s age,gender and origin. Moreover, comparative 
           <ref target="geo:galilee" type="subject" subtype="geographic">Galilee</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:palestine" type="subject" subtype="geographic">Palestine</ref>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Prochazka_2023_3847" corresp="http://zotero.org/groups/2165756/items/WDRMH639" n="Procházka2023b">
+          <monogr>
+            <meeting>
+              <name>ALiF (Arabic Linguistics Forum) Conference</name>
+              <date>08.-10.11.2023</date>
+              <placeName>York</placeName>
+            </meeting>
+            <title level="m">The low vowel insertion rule after gutturals aka gahawa-syndrome: Geographical distribution and diachronic development</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Stephan</forename>
+                <surname>Procházka</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>York</pubPlace>
+              <date>2023</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Prochazka_2024_5160" corresp="http://zotero.org/groups/2165756/items/AY4Y9TGM" n="Procházka2024a">
+          <monogr>
+            <meeting>
+              <name>15th Conference of the International Association of Arabic Dialectology (AIDA)</name>
+              <date>22.05.2024</date>
+              <placeName>L’Università ta’ Malta, Valletta</placeName>
+            </meeting>
+            <title level="m">The raising of medial short /*a/ to /i/: Types, distribution and implications for the classification of Arabic dialects</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Stephan</forename>
+                <surname>Procházka</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>L’Università ta’ Malta, Valletta</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Prochazka_2024_9876" corresp="http://zotero.org/groups/2165756/items/E4N7BK7Z" n="Procházka2024b">
+          <monogr>
+            <meeting>
+              <name/>
+              <date>07.06.2024</date>
+              <placeName>INALCO, Paris</placeName>
+            </meeting>
+            <title level="m">Functions and frequency of the adnominal linker /-in/ aka dialectal tanwīn</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Stephan</forename>
+                <surname>Procházka</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>INALCO, Paris</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="dataset" xml:id="Prochazka_2025_1234" corresp="http://zotero.org/groups/2165756/items/ITRWL9TA" n="Procházka2025">
           <monogr>
@@ -5202,6 +5448,30 @@ variation based on the speaker’s age,gender and origin. Moreover, comparative 
               <date>2025</date>
             </imprint>
           </monogr>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Prochazka_2025_9876" corresp="http://zotero.org/groups/2165756/items/7NV7GJ7C" n="Procházka2025b">
+          <monogr>
+            <meeting>
+              <name>Arabic sociolinguistics and dialectology: Taking stock.</name>
+              <date>10.-11.07.2025</date>
+              <placeName>University of Bayreuth</placeName>
+            </meeting>
+            <title level="m">The emergence of the šāwi and (rural) gilit dialect areas in the light of historical sociolinguistics.</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Stephan</forename>
+                <surname>Procházka</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>University of Bayreuth</pubPlace>
+              <date>2025</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="Prochazka_2026_1234" corresp="http://zotero.org/groups/2165756/items/USEURZ4J" n="Procházka">
           <analytic>
@@ -6397,6 +6667,205 @@ Keywords: Dialect levelling, Tunisian Arabic dialects, Bedouin-type dialects</no
           <ref target="vt:oral_narratives" type="subject" subtype="concept">oral narratives</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
+        <biblStruct type="presentation" xml:id="Torzullo_2022_0293" corresp="http://zotero.org/groups/2165756/items/6L5RAVTW" n="Torzullo2022d">
+          <monogr>
+            <meeting>
+              <name/>
+              <date>15.03.2022</date>
+              <placeName>Università degli Studi di Torino, Torino</placeName>
+            </meeting>
+            <title level="m">Nuove prospettive sui dialetti beduini della Giordania</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Antonella</forename>
+                <surname>Torzullo</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Università degli Studi di Torino, Torino</pubPlace>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Torzullo_2022_1234" corresp="http://zotero.org/groups/2165756/items/6YTF4TKZ" n="Torzullo2022a">
+          <monogr>
+            <meeting>
+              <name/>
+              <date>05.07.2022</date>
+              <placeName>University of Malaga</placeName>
+            </meeting>
+            <title level="m">Introducción a los dialectos beduinos de Jordania.</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Antonella</forename>
+                <surname>Torzullo</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>University of Malaga</pubPlace>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Torzullo_2022_4567" corresp="http://zotero.org/groups/2165756/items/WNNDTQND" n="Torzullo2022bb">
+          <monogr>
+            <meeting>
+              <name>14th Conference of Association Internationale de Dialectologie Arabe (AIDA)</name>
+              <date>01.07.2022</date>
+              <placeName>Granada, Spain</placeName>
+            </meeting>
+            <title level="m">Recent developments in the phonology and morphology of the Arabic Dialect of the Bani Saxar Tribe</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Antonella</forename>
+                <surname>Torzullo</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Granada, Spain</pubPlace>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Torzullo_2023_5647" corresp="http://zotero.org/groups/2165756/items/E6HGQXIC" n="Torzullo2023">
+          <monogr>
+            <meeting>
+              <name>ALiF (Arabic Linguistics Forum) Conference</name>
+              <date>08.-10.11.2023</date>
+              <placeName>York</placeName>
+            </meeting>
+            <title level="m">Patterns of Verbal Morphological Change in Bedouin Arabic Dialect: A Case Study of the Bani Ṣaxar Dialect in Jordan</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Antonella</forename>
+                <surname>Torzullo</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>York</pubPlace>
+              <date>2023</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Torzullo_2024_2345" corresp="http://zotero.org/groups/2165756/items/BGCNSYYV" n="Torzullo2024a">
+          <monogr>
+            <meeting>
+              <name/>
+              <date>18.04.2024</date>
+              <placeName>University of Granada</placeName>
+            </meeting>
+            <title level="m">Introducción a la dialectologia árabe: Enfoques sobre dialectos beduinos en Jordania</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Antonella</forename>
+                <surname>Torzullo</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>University of Granada</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Torzullo_2024_2910" corresp="http://zotero.org/groups/2165756/items/IF3YHU87" n="Torzullo2024c">
+          <monogr>
+            <meeting>
+              <name>15th Conference of the International Association of Arabic Dialectology (AIDA)</name>
+              <date>22.05.2024</date>
+              <placeName>L’Università ta’ Malta, Valletta</placeName>
+            </meeting>
+            <title level="m">Echoes of the desert: delving into the lexicon of a Bedouin Tribe in Jordan</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Antonella</forename>
+                <surname>Torzullo</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>L’Università ta’ Malta, Valletta</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Torzullo_2024_6745" corresp="http://zotero.org/groups/2165756/items/3HEC3WCT" n="Torzullo2024b">
+          <monogr>
+            <meeting>
+              <name/>
+              <date>19.04.2024</date>
+              <placeName>University of Granada</placeName>
+            </meeting>
+            <title level="m">Dos casos de estudio en el terreno de la dialectología: Bani ʕAbbād y Bani Ṣaxar</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Antonella</forename>
+                <surname>Torzullo</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>University of Granada</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Torzullo_Altawil_2022_1234" corresp="http://zotero.org/groups/2165756/items/59FDMVGN" n="Torzullo2022c">
+          <monogr>
+            <meeting>
+              <name/>
+              <date>23.05.2022</date>
+              <placeName>Yarmouk University, Irbid</placeName>
+            </meeting>
+            <title level="m">دراسات عن اللهجات البدوية في محافظتي عمان والمفرق</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Antonella</forename>
+                <surname>Torzullo</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Miriam</forename>
+                <surname>Al Tawil</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Yarmouk University, Irbid</pubPlace>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="Traugott_1986_6272" corresp="http://zotero.org/groups/2165756/items/4HQUE4RA" n="Traugott1986">
           <analytic>
             <title level="a">From Polysemy to Internal Semantic Reconstruction</title>
@@ -6608,6 +7077,126 @@ Keywords: Dialect levelling, Tunisian Arabic dialects, Bedouin-type dialects</no
           </monogr>
           <note type="tags">
             <note type="tag">prs:TUNOCENT</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Zarb_2023_8765" corresp="http://zotero.org/groups/2165756/items/K58Y6LZG" n="Zarb2023b">
+          <monogr>
+            <meeting>
+              <name>47. Österreichische Linguistiktagung</name>
+              <date>7.-8.12.2023</date>
+              <placeName>Graz</placeName>
+            </meeting>
+            <title level="m">Affricative Tendencies in etymological *q and *k in the dialect(s) of the Rašāyda (Saudi Arabia and Kuwait)</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Maria Rebecca</forename>
+                <surname>Zarb</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Graz</pubPlace>
+              <date>2023</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Zarb_2024_2398" corresp="http://zotero.org/groups/2165756/items/Q29MIQWM" n="Zarb2024a">
+          <monogr>
+            <meeting>
+              <name>15th Conference of the International Association of Arabic Dialectology (AIDA)</name>
+              <date>22.05.2024</date>
+              <placeName>L’Università ta’ Malta, Valletta</placeName>
+            </meeting>
+            <title level="m">Common genealogy and linguistic unity? The case of the Rašāyda tribe in Saudi Arabia and Kuwait</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Maria Rebecca</forename>
+                <surname>Zarb</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>L’Università ta’ Malta, Valletta</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Zarb_2024_4321" corresp="http://zotero.org/groups/2165756/items/QN88H7Y4" n="Zarb2024b">
+          <monogr>
+            <meeting>
+              <name>48. Österreichische Linguistiktagung</name>
+              <date>16.-19.12.2024</date>
+              <placeName>Innsbruck</placeName>
+            </meeting>
+            <title level="m">Intra-Tribal Dialectal Preservation and Loss as Social Markers: The case of the Rashayda Tribe.</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Maria Rebecca</forename>
+                <surname>Zarb</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Innsbruck</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Zarb_2024_6789" corresp="http://zotero.org/groups/2165756/items/AYCPRNYW" n="Zarb2024c">
+          <monogr>
+            <meeting>
+              <name>Symposium on Interdisciplinary Perspectives on the “tribe” in the WANA Region</name>
+              <date>2.-3.10.2024</date>
+              <placeName>Vienna</placeName>
+            </meeting>
+            <title level="m">Exploring the Nexus of Language and Migration: Insights from the Rašāyida Tribe</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Maria Rebecca</forename>
+                <surname>Zarb</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Vienna</pubPlace>
+              <date>2024</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="Zarb_2025_7654" corresp="http://zotero.org/groups/2165756/items/JW6H52WV" n="Zarb2025a">
+          <monogr>
+            <meeting>
+              <name/>
+              <date>15.04.2025</date>
+              <placeName>University of Turin</placeName>
+            </meeting>
+            <title level="m">Defining Bedouin Arabic. Fieldwork insights from the Rašāyida Tribe of Saudi Arabia.</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Maria Rebecca</forename>
+                <surname>Zarb</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>University of Turin</pubPlace>
+              <date>2025</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
           </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="Zarb_2026_3827" corresp="http://zotero.org/groups/2165756/items/Q9JHBZ8P" n="Zarb2026">
@@ -44758,9 +45347,10 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>2025</date>
             </imprint>
           </monogr>
-          <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="djebli_1988_5598" corresp="http://zotero.org/groups/2165756/items/YQADTD7Y" n="Djebli1988">
           <monogr>
@@ -48022,6 +48612,9 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>2025</date>
             </imprint>
           </monogr>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="thesis" xml:id="ennaji_1980_4495" corresp="http://zotero.org/groups/2165756/items/8745D6YL" n="Ennaji1980">
           <monogr>
@@ -67396,6 +67989,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>2025</date>
             </imprint>
           </monogr>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="iriarte_2025_2919" corresp="http://zotero.org/groups/2165756/items/S5YRAGGW" n="Iriarte_Díez2025d">
           <analytic>
@@ -67413,6 +68009,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>2025</date>
             </imprint>
           </monogr>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="iriarte_diez_2021_0001" corresp="http://zotero.org/groups/2165756/items/HSJH5FDE" n="Iriarte_Díez2021a">
           <monogr>
@@ -67527,6 +68126,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
             <title level="s">Wiener Zeitschrift für die Kunde des Morgenlandes. Special Issue</title>
             <biblScope unit="volume">115</biblScope>
           </series>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="iriarte_prochazka_2025_1001" corresp="http://zotero.org/groups/2165756/items/59GLNGSA" n="Iriarte_Díez2025b">
           <analytic>
@@ -67548,6 +68150,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>2025</date>
             </imprint>
           </monogr>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="iriyani_1996_9516" corresp="http://zotero.org/groups/2165756/items/7V8HHJ8S" n="al-ʔIriyānī1996">
           <monogr>
@@ -75795,6 +76400,9 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="koerber_2019_3904" corresp="http://zotero.org/groups/2165756/items/B4XHYYDR" n="Koerber2019">
           <analytic>
@@ -84710,6 +85318,9 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           </monogr>
           <ref target="vt:bedouin_dialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:comparative_studies" type="subject" subtype="concept">comparative studies</ref>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="manfredi_caubet_2014_0000" corresp="http://zotero.org/groups/2165756/items/2GPPE9QR" n="Manfredi2014a">
           <analytic>
@@ -102608,6 +103219,33 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="vt:bedouin_dialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:comparative_studies" type="subject" subtype="concept">comparative studies</ref>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
+        </biblStruct>
+        <biblStruct type="presentation" xml:id="prochazka_2025_6758" corresp="http://zotero.org/groups/2165756/items/LXNEV2WK" n="Procházka2022bb">
+          <monogr>
+            <meeting>
+              <name/>
+              <date>03.03.2022</date>
+              <placeName>Institut National des Langues et Civilisations Orientales (INALCO), Paris</placeName>
+            </meeting>
+            <title level="m">How useful is the dichotomy “Bedouin versus Sedentary” for Arabic dialectology?</title>
+            <respStmt>
+              <resp>presenter</resp>
+              <persName>
+                <forename>Stephan</forename>
+                <surname>Procházka</surname>
+              </persName>
+            </respStmt>
+            <imprint>
+              <pubPlace>Institut National des Langues et Civilisations Orientales (INALCO), Paris</pubPlace>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+          <note type="tags">
+            <note type="tag">prs:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="prochazka_2025_9238" corresp="http://zotero.org/groups/2165756/items/ZQHJXZR6" n="Procházka2025b">
           <analytic>
@@ -119393,6 +120031,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>2025</date>
             </imprint>
           </monogr>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="stokes_2020_0505" corresp="http://zotero.org/groups/2165756/items/X6JFWN8F" n="Stokes2020">
           <analytic>
@@ -123575,6 +124216,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>2022</date>
             </imprint>
           </monogr>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="torzullo_2022_1999" corresp="http://zotero.org/groups/2165756/items/AEUGUJ8K" n="Torzullo2022">
           <analytic>
@@ -123601,6 +124245,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <note type="tag">Arabic linguistics</note>
             <note type="tag">Jordanian Arabic</note>
             <note type="tag">dialect classification</note>
+            <note type="tag">out:WIBARAB</note>
             <note type="tag">spoken Arabic varieties</note>
           </note>
           <note type="dataCollection">
@@ -123637,6 +124282,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>2024</date>
             </imprint>
           </monogr>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
           <note type="dataCollection">
             <date type="dataCollection" cert="high" notBefore-iso="2020-01-01" notAfter-iso="2029-12-31">2020s</date>
           </note>
@@ -123668,6 +124316,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="tosco_1984_0000" corresp="http://zotero.org/groups/2165756/items/XS5SKR6D" n="Tosco1984">
           <analytic>
@@ -134463,6 +135114,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>2025</date>
             </imprint>
           </monogr>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="zavadovskij_1962_4104" corresp="http://zotero.org/groups/2165756/items/24BI7TGE" n="Zavadovski1962">
           <monogr>
