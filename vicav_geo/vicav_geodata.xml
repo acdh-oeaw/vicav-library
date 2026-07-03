@@ -48,6 +48,509 @@
     <text>
         <body>
             <listPlace>
+                
+                
+    <place type="geo" xml:id="bilgili">
+        <placeName type="prefLabel">Bilgili</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Abu Rǧūm</placeName>
+        <location>
+            <geo decls="#dms">36°45'05"N 39°19'09"E</geo>
+            <geo decls="#dd">36.75126 39.31904</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">7544045</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="zenginova">
+        <placeName type="prefLabel">Zenginova</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Abu Zalle</placeName>
+        <location>
+            <geo decls="#dms">36°41'04"N 39°09'56"E</geo>
+            <geo decls="#dd">36.68444 39.16556</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">439067</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="akdiken">
+        <placeName type="prefLabel">Akdiken</placeName>
+        <placeName xml:lang="ar-Latn" type="local">aḏ̣-Ḏ̣abiʕ</placeName>
+        <location>
+            <geo decls="#dms">36°43'30"N 39°18'31"E</geo>
+            <geo decls="#dd">36.725 39.30861</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">439098</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="pekmezli">
+        <placeName type="prefLabel">Pekmezli</placeName>
+        <placeName xml:lang="ar-Latn" type="local">ad-Dibis</placeName>
+        <location>
+            <geo decls="#dms">36°45'13"N 39°27'00"E</geo>
+            <geo decls="#dd">36.75361 39.45</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">439101</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="kepezli">
+        <placeName type="prefLabel">Kepezli</placeName>
+        <placeName xml:lang="ar-Latn" type="local">al-Baṭṭ</placeName>
+        <location>
+            <geo decls="#dms">36°40'44"N 39°15'12"E</geo>
+            <geo decls="#dd">36.67889 39.25333</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">439093</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="acikuyu">
+        <placeName type="prefLabel">Acıkuyu</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Albu Xamīs</placeName>
+        <location>
+            <geo decls="#dms">36°44'04"N 39°06'49"E</geo>
+            <geo decls="#dd">36.73444 39.11361</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">439053</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="yagmuralan">
+        <placeName type="prefLabel">Yağmuralan</placeName>
+        <placeName xml:lang="ar-Latn" type="local">al-Čäbiš</placeName>
+        <location>
+            <geo decls="#dms">36°44'49"N 38°41'01"E</geo>
+            <geo decls="#dd">36.74694 38.68361</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">297957</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="akcakoy">
+        <placeName type="prefLabel">Akçaköy</placeName>
+        <placeName xml:lang="ar-Latn" type="local">al-Fēwanṭa</placeName>
+        <location>
+            <geo decls="#dms">36°41'46"N 39°21'10"E</geo>
+            <geo decls="#dd">36.69613 39.35275</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">7544042</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="ikizce">
+        <placeName type="prefLabel">İkizce</placeName>
+        <placeName xml:lang="ar-Latn" type="local">al-Kizze</placeName>
+        <location>
+            <geo decls="#dms">36°46'09"N 38°58'53"E</geo>
+            <geo decls="#dd">36.76903 38.98126</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">311604</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+   
+    <place type="geo" xml:id="golbasi">
+        <placeName type="prefLabel">Gölbasi</placeName>
+        <placeName xml:lang="ar-Latn" type="local">al-Wasta</placeName>
+        <location>
+            <geo decls="#dms">36°45'54"N 39°29'15"E</geo>
+            <geo decls="#dd">36.76509 39.48749</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">10973672</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="buyuktokac">
+        <placeName type="prefLabel">Büyük Tokac</placeName>
+        <placeName xml:lang="ar-Latn" type="local">al-Xafi</placeName>
+        <location>
+            <geo decls="#dms">36°45'10"N 39°29'47"E</geo>
+            <geo decls="#dd">36.75278 39.4963</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">439102</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="bakacak">
+        <placeName type="prefLabel">Bakacak</placeName>
+        <placeName xml:lang="ar-Latn" type="local">al-Xafiyye</placeName>
+        <placeName xml:lang="ar-Latn" type="local">al-ǧawwāniyye</placeName>
+        <placeName xml:lang="ar-Latn" type="local">al-fōgāniyye</placeName>
+        <location>
+            <geo decls="#dms">36°43'45"N 38°50'44"E</geo>
+            <geo decls="#dd">36.72923 38.84564</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">11237338</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+       
+    <place type="geo" xml:id="buyuktas">
+        <placeName type="prefLabel">Büyüktaş</placeName>
+        <placeName xml:lang="ar-Latn" type="local">al-ʕInibe</placeName>
+        <location>
+            <geo decls="#dms">36°43'58"N 39°20'38"E</geo>
+            <geo decls="#dd">36.73278 39.34389</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">317169</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+   
+    <place type="geo" xml:id="narliova">
+        <placeName type="prefLabel">Narlıova</placeName>
+        <placeName xml:lang="ar-Latn" type="local">aṭ-Ṭāše</placeName>
+        <location>
+            <geo decls="#dms">36°44'27"N 39°29'17"E</geo>
+            <geo decls="#dd">36.74083 39.4880</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">439103</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="budakli">
+        <placeName type="prefLabel">Budaklı</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Bədaklīy</placeName>
+        <location>
+            <geo decls="#dms">36°45'29"N 38°43'25"E</geo>
+            <geo decls="#dd">36.75806 38.72361</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">320507</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="aslanli">
+        <placeName type="prefLabel">Aslanlı</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Bērdalān</placeName>
+        <location>
+            <geo decls="#dms">36°43'29"N 39°15'02"E</geo>
+            <geo decls="#dd">36.72478 39.25063</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">7544079</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="taylica">
+        <placeName type="prefLabel">Taylıca</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Bīr al-Amīr</placeName>
+        <location>
+            <geo decls="#dms">36°44'15"N 39°15'05"E</geo>
+            <geo decls="#dd">36.73759 39.25142</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">7544080</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="arslankuyusu">
+        <placeName type="prefLabel">Arslankuyusu</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Bīr as-Sabiʕ</placeName>
+        <location>
+            <geo decls="#dms">36°45'38"N 39°7'28"E</geo>
+            <geo decls="#dd">36.76071 39.12454</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">439054</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="ekinyazi">
+        <placeName type="prefLabel">Ekinyazı</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Bīr Dalaf</placeName>
+        <location>
+            <geo decls="#dms">36°43'45"N 39°08'29"E</geo>
+            <geo decls="#dd">36.72917 39.14139</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">315833</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="damlali">
+        <placeName type="prefLabel">Damlalı</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Bīr Drēǧ</placeName>
+        <location>
+            <geo decls="#dms">36°47'06"N 38°47'41"E</geo>
+            <geo decls="#dd">36.7851 38.79475</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">317660</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="erecek">
+        <placeName type="prefLabel">Erecek</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Bir Yaʕgūb</placeName>
+        <location>
+            <geo decls="#dms">36°48'40"N 38°43'58"E</geo>
+            <geo decls="#dd">36.8111 38.73277</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">321043</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="incedere">
+        <placeName type="prefLabel">Incedere</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Därfäle</placeName>
+        <location>
+            <geo decls="#dms">36°48'16"N 38°45'13"E</geo>
+            <geo decls="#dd">36.80443 38.75366</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">317030</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="deniz">
+        <placeName type="prefLabel">Deniz</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Dengiz</placeName>
+        <location>
+            <geo decls="#dms">36°52'12"N 38°42'04"E</geo>
+            <geo decls="#dd">36.86989 38.7011</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">317115</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="ayranli">
+        <placeName type="prefLabel">Ayranlı</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Devzer</placeName>
+        <location>
+            <geo decls="#dms">36°52'30"N 38°39'08"E</geo>
+            <geo decls="#dd">36.87501 38.65228</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">316775</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="dibek">
+        <placeName type="prefLabel">Dibek</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Dībāǧ</placeName>
+        <location>
+            <geo decls="#dms">36°55'02"N 38°52'16"E</geo>
+            <geo decls="#dd">36.9171 38.87111</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">436370</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="dorumali">
+        <placeName type="prefLabel">Dorumali</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Dōram ʕAli</placeName>
+        <location>
+            <geo decls="#dms">36°48'18"N 38°51'11"E</geo>
+            <geo decls="#dd">36.805 38.85306</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">316270</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="bolatlar">
+        <placeName type="prefLabel">Bolatlar</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Fišange</placeName>
+        <location>
+            <geo decls="#dms">36°46'03"N 38°56'46"E</geo>
+            <geo decls="#dd">36.76737 38.94622</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">320913</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="guvenc">
+        <placeName type="prefLabel">Güvenç</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Gawri</placeName>
+        <location>
+            <geo decls="#dms">36°43'58"N 38°42'45"E</geo>
+            <geo decls="#dd">36.73278 38.7125</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">314538</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="buyucek">
+        <placeName type="prefLabel">Büyücek</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Gənṭāri</placeName>
+        <location>
+            <geo decls="#dms">36°46'46"N 38°59'31"E</geo>
+            <geo decls="#dd">36.77937 38.99203</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">436430</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="duzce">
+        <placeName type="prefLabel">Düzce</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Ǧiru</placeName>
+        <location>
+            <geo decls="#dms">36°43'12"N 39°11'24"E</geo>
+            <geo decls="#dd">36.72006 39.19008</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">7544082</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="gogec">
+        <placeName type="prefLabel">Gögeç</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Gōgač</placeName>
+        <location>
+            <geo decls="#dms">36°44'31"N 39°13'12"E</geo>
+            <geo decls="#dd">36.74194 39.22</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">314400</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="cevher">
+        <placeName type="prefLabel">Cevher</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Ǧōhar</placeName>
+        <location>
+            <geo decls="#dms">36°42'23"N 39°12'51"E</geo>
+            <geo decls="#dd">36.70628 39.21422</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">10973334</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="yeserti">
+        <placeName type="prefLabel">Yeşerti</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Gubba Xuḏ̣ur</placeName>
+        <location>
+            <geo decls="#dms">36°47'23"N 38°57'24"E</geo>
+            <geo decls="#dd">36.78984 38.95655</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">306024</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="gundas">
+        <placeName type="prefLabel">Gündaş</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Gundāš</placeName>
+        <location>
+            <geo decls="#dms">36°43'58"N 38°48'42"E</geo>
+            <geo decls="#dd">36.73277 38.8116</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">313546</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="haciekber">
+        <placeName type="prefLabel">Hacıekber</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Ḥaǧǧ Akbar</placeName>
+        <location>
+            <geo decls="#dms">36°48'57"N 38°56'48"E</geo>
+            <geo decls="#dd">36.8158 38.94655</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">313087</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="sinirgoren">
+        <placeName type="prefLabel">Sınırgören</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Ḥalāwa</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Umm al-ǧubun</placeName>
+        <location>
+            <geo decls="#dms">36°50'26"N 38°51'01"E</geo>
+            <geo decls="#dd">36.84044 38.85022</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">436381</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+   
+    <place type="geo" xml:id="tatlikuyu">
+        <placeName type="prefLabel">Tatlıkuyu</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Ḥammiš</placeName>
+        <location>
+            <geo decls="#dms">36°43'03"N 38°43'59"E</geo>
+            <geo decls="#dd">36.71758 38.73296</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">11237339</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="ayyildiz">
+        <placeName type="prefLabel">Ayyıldız</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Kanše</placeName>
+        <location>
+            <geo decls="#dms">36°41'59"N 39°11'03"E</geo>
+            <geo decls="#dd">36.69973 39.18423</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">7544081</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="koseoren">
+        <placeName type="prefLabel">Köseören</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Kəswirān</placeName>
+        <location>
+            <geo decls="#dms">36°49'43"N 38°50'36"E</geo>
+            <geo decls="#dd">36.82867 38.84322</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">436378</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="ugurtas">
+        <placeName type="prefLabel">Uğurtaş</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Kubik</placeName>
+        <location>
+            <geo decls="#dms">36°51'46"N 38°38'08"E</geo>
+            <geo decls="#dd">36.86278 38.63556</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">298487</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="cogalan">
+        <placeName type="prefLabel">Çoğalan</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Kulluk</placeName>
+        <location>
+            <geo decls="#dms">36°45'37"N 38°42'12"E</geo>
+            <geo decls="#dd">36.76039 38.70345</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">305756</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+
+                
                 <place type="geo" xml:id="aaouade">
                     <placeName type="prefLabel">Aaouâdé</placeName>
                     <placeName xml:lang="ar" type="standard">عوادي</placeName>
@@ -426,7 +929,6 @@
                     </location>
                     <idno type="geoNames">284915</idno>
                     <note>Location of Rašāyda tribe in the Judean Desert</note>
-                    <note />
                 </place>
                 <place type="geo" xml:id="aleppo">
                     <placeName type="prefLabel">Aleppo</placeName>
@@ -2215,7 +2717,7 @@
                     <location>
                         <geo decls="#dms">35°55′50″N 36°38′02″E</geo>
                         <geo decls="#dd">35.93062 36.63393</geo>
-                        <country key="SY">Syrien</country>
+                        <country key="SY">Syria</country>
                     </location>
                     <idno type="geoNames">169389</idno>
                 </place>
