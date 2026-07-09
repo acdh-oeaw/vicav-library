@@ -2212,8 +2212,8 @@
         <note>SHAWI</note>
     </place>
     <place type="geo" xml:id="malta">
-        <placeName type="prefLabel">Matla</placeName>
-        <placeName xml:lang="ar-Latn" type="local">Matla</placeName>
+        <placeName type="prefLabel">Malta</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Malta</placeName>
         <location>
             <geo decls="#dms">37°02'48"N 39°38'37"E</geo>
             <geo decls="#dd">37.04682 39.64379</geo>
