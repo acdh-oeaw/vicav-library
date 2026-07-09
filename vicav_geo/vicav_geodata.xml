@@ -585,18 +585,6 @@
         <note>District: Akçakale</note>
         <note>SHAWI</note>
     </place>
-    <place type="geo" xml:id="akbilek">
-        <placeName type="prefLabel">Akbilek</placeName>
-        <placeName xml:lang="ar-Latn" type="local">Mqayyre</placeName>
-        <location>
-            <geo decls="#dms">36°47'34"N 38°58'20"E</geo>
-            <geo decls="#dd">36.7927 38.97236</geo>
-            <country key="TR">Turkey</country>
-        </location>
-        <idno type="geoNames">436428</idno>
-        <note>District: Akçakale</note>
-        <note>SHAWI</note>
-    </place>
     <place type="geo" xml:id="guneren">
         <placeName type="prefLabel">Güneren</placeName>
         <placeName xml:lang="ar-Latn" type="local">Mqayyre</placeName>
@@ -613,6 +601,7 @@
         <placeName type="prefLabel">Akbilek</placeName>
         <placeName xml:lang="ar-Latn" type="local">Mqayyrit Bini ʕIǧil</placeName>
         <placeName xml:lang="ar-Latn" type="local">Mqayyrit Ḥubēṭ</placeName>
+        <placeName xml:lang="ar-Latn" type="local">Mqayyre</placeName>
         <location>
             <geo decls="#dms">36°47'34"N 38°58'20"E</geo>
             <geo decls="#dd">36.7927 38.97236</geo>
@@ -622,7 +611,6 @@
         <note>District: Akçakale</note>
         <note>SHAWI</note>
     </place>
-    
     <place type="geo" xml:id="nimet">
         <placeName type="prefLabel">Nimet</placeName>
         <placeName xml:lang="ar-Latn" type="local">Niʕmät</placeName>
@@ -852,18 +840,6 @@
             <country key="TR">Turkey</country>
         </location>
         <idno type="geoNames">317710</idno>
-        <note>District: Akçakale</note>
-        <note>SHAWI</note>
-    </place>
-    <place type="geo" xml:id="kilicli">
-        <placeName type="prefLabel">Kılıçlı</placeName>
-        <placeName xml:lang="ar-Latn" type="local">ʕArīḏ̣a</placeName>
-        <location>
-            <geo decls="#dms">36°44'24"N 39°27'39"E</geo>
-            <geo decls="#dd">36.7402 39.46097</geo>
-            <country key="TR">Turkey</country>
-        </location>
-        <idno type="geoNames">10973673</idno>
         <note>District: Akçakale</note>
         <note>SHAWI</note>
     </place>
@@ -1947,6 +1923,18 @@
     </place>
     <place type="geo" xml:id="kilicli">
         <placeName type="prefLabel">Kılıçlı</placeName>
+        <placeName xml:lang="ar-Latn" type="local">ʕArīḏ̣a</placeName>
+        <location>
+            <geo decls="#dms">36°44'24"N 39°27'39"E</geo>
+            <geo decls="#dd">36.7402 39.46097</geo>
+            <country key="TR">Turkey</country>
+        </location>
+        <idno type="geoNames">10973673</idno>
+        <note>District: Akçakale</note>
+        <note>SHAWI</note>
+    </place>
+    <place type="geo" xml:id="kilicli_2">
+        <placeName type="prefLabel">Kılıçlı</placeName>
         <placeName xml:lang="ar-Latn" type="local">Tall Sēf</placeName>
         <location>
             <geo decls="#dms">36°52'53"N 38°58'43"E</geo>
@@ -2068,6 +2056,7 @@
     <place type="geo" xml:id="siverek">
         <placeName type="prefLabel">Siverek</placeName>
         <placeName xml:lang="ar-Latn" type="local">Swērač</placeName>
+        <placeName xml:lang="ar" type="standard">سيفريك</placeName>
         <location>
             <geo decls="#dms">37°45'18"N 39°19'00"E</geo>
             <geo decls="#dd">37.75503 39.31667</geo>
@@ -2364,8 +2353,8 @@
                 <place type="geo" xml:id="abha">
                     <placeName type="prefLabel">Abha</placeName>
                     <placeName xml:lang="ar-Latn" type="standard">Abhā</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">Abha</placeName>
                     <placeName xml:lang="ar" type="standard">أبها</placeName>
+                    <placeName xml:lang="ar-Latn" type="local">Abha</placeName>
                     <location>
                         <geo decls="#dms">18°12'59"N 42°30'19"E</geo>
                         <geo decls="#dd">18.216389 42.505278</geo>
@@ -2376,8 +2365,8 @@
                 <place type="geo" xml:id="zahran">
                     <placeName type="prefLabel">Zahran</placeName>
                     <placeName xml:lang="ar-Latn" type="standard">Zahrān</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">Zahran</placeName>
                     <placeName xml:lang="ar" type="standard">زهران</placeName>
+                    <placeName xml:lang="ar-Latn" type="local">Zahran</placeName>
                     <location>
                         <geo decls="#dms">19°43′00″N 41°21′00″E</geo>
                         <geo decls="#dd">19.71667 41.35</geo>
@@ -2697,8 +2686,8 @@
                 <place type="geo" xml:id="aleppo">
                     <placeName type="prefLabel">Aleppo</placeName>
                     <placeName xml:lang="ar-Latn" type="standard">Ḥalab</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">Ḥalab, Ḥalab aš-šahbāʔ</placeName>
                     <placeName xml:lang="ar" type="standard">حلب</placeName>
+                    <placeName xml:lang="ar-Latn" type="local">Ḥalab, Ḥalab aš-šahbāʔ</placeName>
                     <location>
                         <geo decls="#dms">36°12'04"N 37°09'40"E</geo>
                         <geo decls="#dd">36.201111 37.161111</geo>
@@ -2934,12 +2923,12 @@
                 </place>
                 <place type="geo" xml:id="al_salt">
                     <placeName type="prefLabel">as-Salt</placeName>
+                    <placeName xml:lang="ar-Latn" type="standard">as-Salṭ</placeName>
+                    <placeName xml:lang="ar" type="standard">السلط</placeName>
+                    <placeName xml:lang="ar-Latn" type="local">əs-Salṭ</placeName>
                     <placeName type="altLabel">Salt</placeName>
                     <!-- Remove after standardization -->
                     <placeName type="altLabel">Al-Salt</placeName>
-                    <placeName xml:lang="ar-Latn" type="standard">as-Salṭ</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">əs-Salṭ</placeName>
-                    <placeName xml:lang="ar" type="standard">السلط</placeName>
                     <location>
                         <geo decls="#dms">32°02'21"N 35°43'38"E</geo>
                         <geo decls="#dd">32.039167 35.727222</geo>
@@ -3400,8 +3389,8 @@
                 <place type="geo" xml:id="bethlehem">
                     <placeName type="prefLabel">Bethlehem</placeName>
                     <placeName xml:lang="ar-Latn" type="standard">bayt laḥm</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">bētlaḥᵊm</placeName>
                     <placeName xml:lang="ar" type="standard">بيت لحم</placeName>
+                    <placeName xml:lang="ar-Latn" type="local">bētlaḥᵊm</placeName>
                     <location>
                         <geo decls="#dms">31°42'18"N 35°12'14"E</geo>
                         <geo decls="#dd">31.705000 35.203889</geo>
@@ -3463,8 +3452,8 @@
                 <place type="geo" xml:id="birzeit">
                     <placeName type="prefLabel">Birzeit</placeName>
                     <placeName xml:lang="ar-Latn" type="standard">Bīr Zayt</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">bīrzēt</placeName>
                     <placeName xml:lang="ar" type="standard">بئر زيت</placeName>
+                    <placeName xml:lang="ar-Latn" type="local">bīrzēt</placeName>
                     <location>
                         <geo decls="#dms">31°58'11"N 35°11'39"E</geo>
                         <geo decls="#dd">31.969722 35.194167</geo>
@@ -4074,8 +4063,8 @@
                 <place type="geo" xml:id="gaza">
                     <placeName type="prefLabel">Gaza</placeName>
                     <placeName xml:lang="ar-Latn" type="standard">Ġazza</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">Ġazze</placeName>
                     <placeName xml:lang="ar" type="standard">غزّة</placeName>
+                    <placeName xml:lang="ar-Latn" type="local">Ġazze</placeName>
                     <location>
                         <geo decls="#dms">31°30'06"N 34°28'00"E</geo>
                         <geo decls="#dd">31.501667 34.466667</geo>
@@ -4639,8 +4628,8 @@
                 <place type="geo" xml:id="jerusalem">
                     <placeName type="prefLabel">Jerusalem</placeName>
                     <placeName xml:lang="ar-Latn" type="standard">Al-Quds</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">il-ʔuds</placeName>
                     <placeName xml:lang="ar" type="standard">القدس</placeName>
+                    <placeName xml:lang="ar-Latn" type="local">il-ʔuds</placeName>
                     <location>
                         <geo decls="#dms">31°46'09"N 35°12'59"E</geo>
                         <geo decls="#dd">31.769167 35.216389</geo>
@@ -5179,8 +5168,8 @@
                 <place type="geo" xml:id="manakhah">
                     <placeName type="prefLabel">Manakhah</placeName>
                     <placeName xml:lang="ar-Latn" type="standard">Manāxa</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">Manāxa</placeName>
                     <placeName xml:lang="ar" type="standard">مناخة</placeName>
+                    <placeName xml:lang="ar-Latn" type="local">Manāxa</placeName>
                     <location>
                         <geo decls="#dms">15°04'27"N 43°44'30"E</geo>
                         <geo decls="#dd">15.074167 43.741667</geo>
@@ -6626,16 +6615,6 @@
                     </location>
                     <idno type="geoNames">6940839</idno>
                 </place>
-                <place type="geo" xml:id="siverek">
-                    <placeName type="prefLabel">Siverek</placeName>
-                    <placeName xml:lang="ar" type="standard">سيفريك</placeName>
-                    <location>
-                        <geo decls="#dms">37°45'18"N 39°19'00"E</geo>
-                        <geo decls="#dd">37.755000 39.316667</geo>
-                        <country key="TR">Turkey</country>
-                    </location>
-                    <idno type="geoNames">300614</idno>
-                </place>
                 <place type="geo" xml:id="siwa">
                     <placeName type="prefLabel">Siwa</placeName>
                     <placeName xml:lang="ar" type="standard">سيوة</placeName>
@@ -7350,8 +7329,8 @@
                 <place type="geo" xml:id="zahle">
                     <placeName type="prefLabel">Zahlé</placeName>
                     <placeName xml:lang="ar-Latn" type="standard">Zaḥla</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">Zaḥle</placeName>
                     <placeName xml:lang="ar" type="standard">زحلة</placeName>
+                    <placeName xml:lang="ar-Latn" type="local">Zaḥle</placeName>
                     <location>
                         <geo decls="#dms">33°50'48″N 35°54'07″E</geo>
                         <geo decls="#dd">33.846667 35.901944</geo>
@@ -7702,8 +7681,8 @@
                 <place type="reg" xml:id="darfur">
                     <placeName type="prefLabel">Darfur</placeName>
                     <placeName xml:lang="ar-Latn" type="standard">Dār Fūr</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">Dār Fōr</placeName>
                     <placeName xml:lang="ar" type="standard">دار فور</placeName>
+                    <placeName xml:lang="ar-Latn" type="local">Dār Fōr</placeName>
                     <location>
                         <geo decls="#dms">13°00'00"N 25°00'00"E</geo>
                         <geo decls="#dd">13.000000 25.000000</geo>
@@ -7855,10 +7834,10 @@
                 </place>
                 <place type="reg" xml:id="hadramaut">
                     <placeName type="prefLabel">Hadramaut</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">Ḥaḍramūt / Murah</placeName>
-                    <placeName type="altLabel">Hadramawt</placeName>
-                    <placeName xml:lang="ar" type="local">حضرموت</placeName>
                     <placeName xml:lang="ar-Latn" type="standard">Ḥaḍramawt</placeName>
+                    <placeName xml:lang="ar-Latn" type="local">Ḥaḍramūt / Murah</placeName>
+                    <placeName xml:lang="ar" type="local">حضرموت</placeName>
+                    <placeName type="altLabel">Hadramawt</placeName>
                     <location>
                         <geo decls="#dms">15°59'36"N 48°50'50"E</geo>
                         <geo decls="#dd">15.993333 48.847222</geo>
@@ -8603,8 +8582,8 @@
                     <placeName type="prefLabel">Zaer</placeName>
                     <placeName type="altLabel">Zaër</placeName>
                     <placeName xml:lang="ar-Latn" type="standard">Zuʕayr</placeName>
-                    <placeName xml:lang="ar-Latn" type="local">Zʕīr</placeName>
                     <placeName xml:lang="ar" type="standard">زعير</placeName>
+                    <placeName xml:lang="ar-Latn" type="local">Zʕīr</placeName>
                     <location>
                         <geo decls="#dms">33°45′00"N  6°20′00"W</geo>
                         <geo decls="#dd">33.75 -6.33333</geo>
