@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>VICAV age groups</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher ref="https://ror.org/03anc3s24">Austrian Academy of Sciences</publisher>
+                <publisher ref="https://ror.org/03prydq77">University of Vienna</publisher>
+                <distributor ref="https://ror.org/028bsh698">Austrian Center for Digital Humanities and Cultural Heritage</distributor>
+                <date>2026</date>
+                <address>
+                    <addrLine>Bäckerstraße 13</addrLine>
+                    <addrLine>1010 Vienna</addrLine>
+                    <addrLine>Austria</addrLine>
+                </address>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="agegroups.vicav">
+                    <category xml:id="agegroups.vicav.10s" n="10s">
+                        <catDesc>participants up to including <num>19</num> at the time of recording</catDesc>
+                    </category>
+                    <category xml:id="agegroups.vicav.20s" n="20s">
+                        <catDesc>participants age <num>20</num> to (including) <num>29</num> at the time of recording</catDesc>
+                    </category>
+                    <category xml:id="agegroups.vicav.30s" n="30s">
+                        <catDesc>participants age <num>30</num> to (including) <num>39</num> at the time of recording</catDesc>
+                    </category>
+                    <category xml:id="agegroups.vicav.40s" n="40s">
+                        <catDesc>participants age <num>40</num> to (including) <num>49</num> at the time of recording</catDesc>
+                    </category>
+                    <category xml:id="agegroups.vicav.50s" n="50s">
+                        <catDesc>participants age <num>50</num> to (including) <num>59</num> at the time of recording</catDesc>
+                    </category>
+                    <category xml:id="agegroups.vicav.60s" n="60s">
+                        <catDesc>participants age <num>60</num> to (including) <num>69</num> at the time of recording</catDesc>
+                    </category>
+                    <category xml:id="agegroups.vicav.70s" n="70s+">
+                        <catDesc>participants age <num>70</num> and older</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>This document contains the default age group values used in VICAV projects.</p>
+        </body>
+    </text>
+</TEI>
