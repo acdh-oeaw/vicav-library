@@ -8,7 +8,7 @@
         <p>unpublished</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-06-30 15:41:33</p>
+        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-07-30 14:49:49</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -1737,7 +1737,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
         </biblStruct>
         <biblStruct type="book" xml:id="Diez_2026_8302" corresp="http://zotero.org/groups/2165756/items/7JB4ZVXN" n="Iriarte_Díez2026">
           <monogr>
-            <title level="m">Transforming Traditions: Dialect Contact and Sociolinguistic Variation in the Arabic of Arab al-Maslakh in the migration hub of Karantina (Beirut)</title>
+            <title level="m">Transforming traditions: Dialect contact and sociolinguistic variation in the Arabic of Arab al-Maslakh in the migration hub of Karantina (Beirut)</title>
             <author>
               <forename>Ana</forename>
               <surname>Iriarte Díez</surname>
@@ -3700,9 +3700,9 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
             <note type="tag">prs:WIBARAB</note>
           </note>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Iriarte_Prochazka_2027_0987" corresp="http://zotero.org/groups/2165756/items/2MCI2LLZ" n="Iriarte_Díez2027b">
+        <biblStruct type="journalArticle" xml:id="Iriarte_Prochazka_2026_1234" corresp="http://zotero.org/groups/2165756/items/FLXH8W2K" n="Iriarte_Díez2027a">
           <analytic>
-            <title level="a">Distribution and history of the affrication of *q and *k in Arabic dialects: Remnants of spoken Old Arabic or innovation of Bedouin-type dialects?</title>
+            <title level="a">The raising of non-final short /*a/ to /i/ and /u/: Types, distribution, and implications for the classification of Arabic dialects</title>
             <author>
               <forename>Ana</forename>
               <surname>Iriarte Díez</surname>
@@ -3713,15 +3713,16 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
             </author>
           </analytic>
           <monogr>
-            <title level="j">Forthcoming</title>
+            <title level="j">Wiener Zeitschrift für die Kunde des Morgenlandes</title>
             <imprint>
-              <date>2027</date>
+              <biblScope unit="volume">117</biblScope>
+              <date>2026</date>
             </imprint>
           </monogr>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Iriarte_Prochazka_2027_1234" corresp="http://zotero.org/groups/2165756/items/FLXH8W2K" n="Iriarte_Díez2027a">
+        <biblStruct type="journalArticle" xml:id="Iriarte_Prochazka_2027_0987" corresp="http://zotero.org/groups/2165756/items/2MCI2LLZ" n="Iriarte_Díez2027b">
           <analytic>
-            <title level="a">The raising of non-final short /*a/ to /i/ and /u/: Types, distribution, and implications for the classification of Arabic dialects</title>
+            <title level="a">Distribution and history of the affrication of *q and *k in Arabic dialects: Remnants of spoken Old Arabic or innovation of Bedouin-type dialects?</title>
             <author>
               <forename>Ana</forename>
               <surname>Iriarte Díez</surname>
@@ -5006,6 +5007,30 @@ variation based on the speaker’s age,gender and origin. Moreover, comparative 
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
+        </biblStruct>
+        <biblStruct type="book" xml:id="NarrogHeine_2021_8260" corresp="http://zotero.org/groups/2165756/items/LMG8SBU6" n="Narrog2021">
+          <monogr>
+            <title level="m">Grammaticalization</title>
+            <idno type="ISBN">978-0-19-874854-0 978-0-19-874785-7</idno>
+            <idno type="callNumber">415</idno>
+            <author>
+              <forename>Heiko</forename>
+              <surname>Narrog</surname>
+            </author>
+            <author>
+              <forename>Bernd</forename>
+              <surname>Heine</surname>
+            </author>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford university press</publisher>
+              <date>2021</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Oxford linguistics</title>
+          </series>
+          <note type="abstract">This textbook introduces and explains the fundamental issues, major research questions, and current approaches in the study of grammaticalization - the development of new grammatical forms from lexical items, and of further grammatical functions from existing grammatical forms. Grammaticalization has been a vibrant research field in recent years, and has proven effective in explaining a wide range of phenomena; it has even been claimed that the only true language universals are diachronic, and are related to cross-linguistic processes of grammaticalization. 0The chapters provide a detailed account of the major issues in the field: foundational questions such as directionality, criteria and parameters of grammaticalization, and phases and cycles; the much-debated issue of the motivations behind grammaticalization, including the role of language contact and typological influences; the advantages and disadvantages of different theoretical approaches; and the relationship between grammaticalization and process such as lexicalization, exaptation, and the development of discourse markers. Each chapter offers guidance on further reading, and concludes with study questions to encourage further discussion; there is also a glossary of key terminology in the field. Thanks to its comprehensive approach, the volume will serve as both a textbook for undergraduate and graduate students and a valuable reference work for researchers in the field</note>
         </biblStruct>
         <biblStruct type="thesis" xml:id="Nortier_1989_3496" corresp="http://zotero.org/groups/2165756/items/LDE43SND" n="Nortier1989">
           <monogr>
@@ -7535,6 +7560,9 @@ Keywords: Dialect levelling, Tunisian Arabic dialects, Bedouin-type dialects</no
           <ref target="geo:najd" type="subject" subtype="geographic">Najd</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notBefore-iso="1960-01-01" notAfter-iso="1969-12-31">1960s</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="abboud_1975_3240" corresp="http://zotero.org/groups/2165756/items/PNX637ZB" n="Abboud1975">
           <analytic>
@@ -9644,6 +9672,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:uzbekistan" type="subject" subtype="geographic">Uzbekistan</ref>
           <ref target="vt:Arabic_as_a_minority_language" type="subject" subtype="concept">Arabic as a minority language</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notAfter-iso="1979-12-31">before1980</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="ackermann_2007_0000" corresp="http://zotero.org/groups/2165756/items/399KEGXP" n="Ackermann2007">
           <analytic>
@@ -9766,6 +9797,27 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:sedentary_dialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="adnanOwens_2025_3722" corresp="http://zotero.org/groups/2165756/items/2QELD83Y" n="Adnan2025">
+          <analytic>
+            <title level="a">Imperfect verbal preﬁxes as discourse markers</title>
+            <author>
+              <forename>Muhadj</forename>
+              <surname>Adnan</surname>
+            </author>
+            <author>
+              <forename>Jonathan</forename>
+              <surname>Owens</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Perspectives on Arabic Linguistics</title>
+            <imprint>
+              <biblScope unit="volume">35</biblScope>
+              <biblScope unit="page">158-179</biblScope>
+              <date>2025</date>
+            </imprint>
+          </monogr>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="afkir_2019_5036" corresp="http://zotero.org/groups/2165756/items/WLEP5DEC" n="Afkir2019">
           <analytic>
@@ -10736,6 +10788,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notBefore-iso="1910-01-01" notAfter-iso="1919-12-31">1910s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="aguade_1999_3283" corresp="http://zotero.org/groups/2165756/items/TZQXHPVW" n="Aguadé1999b">
           <analytic>
@@ -11133,6 +11188,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:sedentary_dialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="aguade_2006_4414" corresp="http://zotero.org/groups/2165756/items/ZHJEST5G" n="Aguadé2006a">
           <analytic>
@@ -11388,6 +11446,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notAfter-iso="2009-12-31">before2010</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="aguadé_1994_0013" corresp="http://zotero.org/groups/2165756/items/6GTI9Y2H" n="Aguadé1994c">
           <analytic>
@@ -11658,9 +11719,10 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2013</date>
             </imprint>
           </monogr>
+          <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
+          <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <note type="tags">
             <note type="tag">Dialectology</note>
-            <note type="tag">Semitic languages</note>
           </note>
           <note type="dataCollection">
             <date type="dataCollection" cert="high" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
@@ -13977,6 +14039,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:grammar" type="subject" subtype="concept">grammar</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="alfaifi_2010_2815" corresp="http://zotero.org/groups/2165756/items/86RT7N5L" n="Alfaifí2010">
           <analytic>
@@ -14716,7 +14781,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </author>
           </analytic>
           <monogr>
-            <title level="m">AIDA Malta: Gathering Arabic Varieties in the Heart of the Mediterranean</title>
+            <title level="m">Rooted in the Mediterranean: Studies in Arabic dialectology - AIDA Malta 2024</title>
             <editor>
               <forename>Ray</forename>
               <surname>Fabri</surname>
@@ -14730,7 +14795,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <surname>Spagnol</surname>
             </editor>
             <imprint>
-              <pubPlace>Malta</pubPlace>
+              <pubPlace>Msida</pubPlace>
+              <biblScope unit="page">33-48</biblScope>
+              <publisher>Malta University Press</publisher>
               <date>2026</date>
             </imprint>
           </monogr>
@@ -31588,25 +31655,6 @@ North Africa and classify them according to their origin (the denotative meaning
           <ref target="vt:semantics" type="subject" subtype="concept">semantics</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
-        <biblStruct type="journalArticle" xml:id="bozkurt" corresp="http://zotero.org/groups/2165756/items/IM4HCZZG" n="Klimiuk2022ab">
-          <analytic>
-            <title level="a">Fishing and Cyclone Cutting: A Text from the Area of Ghasri within the Dialect Continuum of Gozo (Malta)</title>
-            <title type="short">Fishing and Cyclone Cutting</title>
-            <author>
-              <forename>Maciej</forename>
-              <surname>Klimiuk</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Mediterranean language review</title>
-            <idno type="ISSN">0724-7567</idno>
-            <imprint>
-              <biblScope unit="volume">29</biblScope>
-              <biblScope unit="page">19-</biblScope>
-              <date>2022</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="journalArticle" xml:id="bozkurt_2022_8117" corresp="http://zotero.org/groups/2165756/items/3ISZY9W2" n="Bozkurt2022">
           <analytic>
             <title level="a">Research into Khorasan Arabic: A Preliminary Report and Texts from Arabkhane and Khalaf</title>
@@ -44497,6 +44545,9 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notAfter-iso="1959-12-31">before1960</date>
+          </note>
         </biblStruct>
         <biblStruct type="book" xml:id="denz_1971_3180" corresp="http://zotero.org/groups/2165756/items/CRAMF2U4" n="Denz1971">
           <monogr>
@@ -57390,6 +57441,9 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>2003</date>
             </imprint>
           </monogr>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notAfter-iso="1999-12-31">before2000</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="haak_2003_9517" corresp="http://zotero.org/groups/2165756/items/AEVJWPMA" n="Haak2003b">
           <analytic>
@@ -65078,18 +65132,13 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
             <title level="m">Ingham of Arabia: a collection of articles presented as a tribute to the career of Bruce Ingham</title>
             <title type="short">Ingham of Arabia</title>
             <idno type="ISBN">978-90-04-25617-0</idno>
-            <idno type="callNumber">PJ6709 .I54 2013</idno>
+            <editor>
+              <forename>Rudolf</forename>
+              <surname>de Jong</surname>
+            </editor>
             <editor>
               <forename>Clive</forename>
               <surname>Holes</surname>
-            </editor>
-            <editor>
-              <forename>Rudolf de</forename>
-              <surname>Jong</surname>
-            </editor>
-            <editor>
-              <forename>Bruce</forename>
-              <surname>Ingham</surname>
             </editor>
             <imprint>
               <pubPlace>Leiden ; Boston</pubPlace>
@@ -65099,7 +65148,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           </monogr>
           <series>
             <title level="s">Studies in Semitic languages and linguistics</title>
-            <biblScope unit="volume">Volume 69</biblScope>
+            <biblScope unit="volume">69</biblScope>
           </series>
           <note>
             <p>Preface -- Bibliography: Bruce Ingham -- About bedouin tents and other tents, or "tent terminology as an example of semantic shift" / Peter Behnstedt and Manfred Woidich -- Tense and aspect in Semitic: a case study based on the Arabic of the Omani sarqiyya and the Mehri of Dhofar / Domenyk Eades and Janet C.E. Watson -- From phonological variation to grammatical change: depalatalisation of /c/ in Salti / Bruno Herin and Enam Al-Wer -- Representation of women's language in Negev Bedouin men's texts / Roni Henkin -- An Arabic text from 'ur, Oman / Clive Holes -- Grammaticalizations based on the verb kana in Arabic dialects / Otto Jastrow -- Texts in Sinai bedouin dialects / Rudolf de Jong -- Lexical notes on the dialect of Mayadin (Eastern Syria) in the late 1970s, with Jean Cantineau's fieldnotes of 1935 / Jérôme Lentin -- Modern Arabic dialectology: what are kaskasa and kaskasa, really? / Jonathan Owens -- Interesting facts on ancient mounds' three texts in the bedouin Arabic dialect of the Harran-Urfa-Region (Southeastern Turkey) / Stephan Procházka -- Antigemination as morphosemantic integrity in Arabic dialects / Kirsty Rowan</p>
@@ -70929,7 +70978,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="jastrow_2018_6149" corresp="http://zotero.org/groups/2165756/items/DCGXK4V7" n="Jastrow2018">
           <analytic>
-            <title level="a">Rescuing Iraqi Arabic aku and māku from the Hands of the Aramaicists</title>
+            <title level="a">Rescuing Iraqi Arabic aku and māku from the hands of the Aramaicists</title>
             <author>
               <forename>Otto</forename>
               <surname>Jastrow</surname>
@@ -76126,6 +76175,46 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="vt:Maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="klimiuk_2022_0101" corresp="http://zotero.org/groups/2165756/items/IM4HCZZG" n="Klimiuk2022ab">
+          <analytic>
+            <title level="a">Fishing and Cyclone Cutting: A Text from the Area of Ghasri within the Dialect Continuum of Gozo (Malta)</title>
+            <title type="short">Fishing and Cyclone Cutting</title>
+            <author>
+              <forename>Maciej</forename>
+              <surname>Klimiuk</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Mediterranean language review</title>
+            <idno type="ISSN">0724-7567</idno>
+            <imprint>
+              <biblScope unit="volume">29</biblScope>
+              <biblScope unit="page">19-</biblScope>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="klimiuk_2022_1020" corresp="http://zotero.org/groups/2165756/items/UGMVIAEL" n="Klimiuk2022bb">
+          <analytic>
+            <title level="a">Language Questionnaire for Gozo, Malta</title>
+            <idno type="DOI">10.24425/for.2021.142214</idno>
+            <author>
+              <forename>Maciej</forename>
+              <surname>Klimiuk</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Folia Orientalia</title>
+            <idno type="ISSN">0015-5675</idno>
+            <imprint>
+              <biblScope unit="page">111-190</biblScope>
+              <date>2022</date>
+              <note type="accessed">2026-07-16T10:50:25Z</note>
+              <note type="url">https://journals.pan.pl/dlibra/publication/143392/edition/124789/content</note>
+            </imprint>
+          </monogr>
+          <note type="abstract">The questionnaire presented here was designed to collect linguistic data in Gozitan dialects, which are classified as rural dialects of the Maltese language. It consists of three parts: lexical, phonological and morphological. Since a particular feature of the Gozitan dialects are pausal forms involving diphthongisation of etymologically long vowels ( *ī and *ū), attention is directed towards contextual as well as pausal data acquisition. In the morphological part, the issues concerning verbs are mainly expanded, while in the phonological part, those concerning the realisation of vowels. With minor modifications, the questionnaire can also be used to conduct field research on dialects of the island of Malta.</note>
         </biblStruct>
         <biblStruct type="book" xml:id="klimiuk_2022_3729" corresp="http://zotero.org/groups/2165756/items/8F46VZCI" n="Klimiuk2022">
           <monogr>
@@ -87608,6 +87697,32 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
         </biblStruct>
+        <biblStruct type="bookSection" xml:id="mccarthy_1994_4544" corresp="http://zotero.org/groups/2165756/items/MDJ47MTP" n="McCarthy1994">
+          <analytic>
+            <title level="a">The phonetics and phonology of Semitic pharyngeals</title>
+            <author>
+              <forename>John J.</forename>
+              <surname>McCarthy</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Phonological Structure and Phonetic Form</title>
+            <editor>
+              <forename>Patricia A.</forename>
+              <surname>Keating</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <biblScope unit="page">191-233</biblScope>
+              <publisher>Cambridge University Press</publisher>
+              <date>1994</date>
+            </imprint>
+          </monogr>
+          <ref target="vt:Arab_World_general" type="subject" subtype="concept">Arab World general</ref>
+          <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
+          <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
+          <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="mccarthy_2005_0000" corresp="http://zotero.org/groups/2165756/items/5L62PUG9" n="McCarthy2005">
           <analytic>
             <title level="a">The length of stem-final vowels in colloquial Arabic</title>
@@ -87922,7 +88037,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
             </author>
           </analytic>
           <monogr>
-            <title level="j">Beiträge zur Assyrologie und semitischen Sprachwissenschaft</title>
+            <title level="j">Beiträge zur Assyriologie und semitischen Sprachwissenschaft</title>
             <imprint>
               <biblScope unit="volume">5</biblScope>
               <biblScope unit="page">1-203</biblScope>
@@ -99782,7 +99897,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="palva_2008_4673" corresp="http://zotero.org/groups/2165756/items/GA588AQ8" n="Palva2008b">
           <analytic>
-            <title level="a">Sedentary and Bedouin diaelcts in contact: remarks on Karaki and Salṭi</title>
+            <title level="a">Sedentary and Bedouin dialects in contact: remarks on Karaki and Salṭi</title>
             <author>
               <forename>Heikki</forename>
               <surname>Palva</surname>
@@ -104515,6 +104630,9 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:yemen" type="subject" subtype="geographic">Yemen</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notAfter-iso="1989-12-31">before1990</date>
+          </note>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="qafisheh_1994_0000" corresp="http://zotero.org/groups/2165756/items/IKDESBPN" n="Qafisheh1994">
           <analytic>
@@ -111526,6 +111644,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>2017</date>
             </imprint>
           </monogr>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notAfter-iso="2009-12-31">before2010</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="saadi_mokrane_2004_0000" corresp="http://zotero.org/groups/2165756/items/LHBYJT3H" n="Saadi-Mokrane2004">
           <analytic>
@@ -124222,7 +124343,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="torzullo_2022_1999" corresp="http://zotero.org/groups/2165756/items/AEUGUJ8K" n="Torzullo2022">
           <analytic>
-            <title level="a">The Emergence of a Mixed Type Dialect: The Example of the Dialect of the Bani ˁAbbād Tribe (Jordan)</title>
+            <title level="a">The Emergence of a mixed type dialect: The example of the dialect of the Bani ˁAbbād tribe (Jordan)</title>
             <idno type="DOI">10.3390/languages7010009</idno>
             <author>
               <forename>Antonella</forename>
@@ -125836,6 +125957,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <note type="url">https://doi.org/10.1515/9783110496376-002</note>
             </imprint>
           </monogr>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="unknown" notAfter-iso="2009-12-31">before2010</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="vanhove_2020_1158" corresp="http://zotero.org/groups/2165756/items/AQXGA889" n="Lucas2020j">
           <analytic>
@@ -130886,6 +131010,30 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>2020</date>
             </imprint>
           </monogr>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="wilmsen_2022_8299" corresp="http://zotero.org/groups/2165756/items/TJV2P4CA" n="Wilmsen2022">
+          <analytic>
+            <title level="a">The enigma of Mehri and southern peninsular Arabic existential śī and šī</title>
+            <idno type="DOI">10.1093/jss/fgac003</idno>
+            <author>
+              <forename>David</forename>
+              <surname>Wilmsen</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Journal of Semitic Studies</title>
+            <imprint>
+              <biblScope unit="volume">67</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">627-663</biblScope>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
+          <ref target="geo:oman" type="subject" subtype="geographic">Oman</ref>
+          <ref target="geo:yemen" type="subject" subtype="geographic">Yemen</ref>
+          <ref target="vt:historical_dialectology" type="subject" subtype="concept">historical dialectology</ref>
+          <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="wilmsen_2024_6473" corresp="http://zotero.org/groups/2165756/items/PAWCVJX8" n="Wilmsen2024">
           <analytic>
@@ -136379,27 +136527,11 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
-        <biblStruct type="thesis" xml:id="zoteroItem_3B9KJP5K" corresp="http://zotero.org/groups/2165756/items/3B9KJP5K" n="zoteroItem_3B9KJP5K">
-          <monogr>
-            <title/>
-            <imprint>
-              <date/>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="zoteroItem_CFY3HEWR" corresp="http://zotero.org/groups/2165756/items/CFY3HEWR" n="zoteroItem_CFY3HEWR">
+        <biblStruct type="bookSection" xml:id="zoteroItem_44QJJJT9" corresp="http://zotero.org/groups/2165756/items/44QJJJT9" n="zoteroItem_44QJJJT9">
           <analytic>
             <title level="a"/>
           </analytic>
           <monogr>
-            <imprint>
-              <date/>
-            </imprint>
-          </monogr>
-        </biblStruct>
-        <biblStruct type="thesis" xml:id="zoteroItem_KNTI4NPI" corresp="http://zotero.org/groups/2165756/items/KNTI4NPI" n="zoteroItem_KNTI4NPI">
-          <monogr>
-            <title/>
             <imprint>
               <date/>
             </imprint>
