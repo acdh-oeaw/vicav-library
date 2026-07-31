@@ -47,8 +47,14 @@
                     <category xml:id="agegroups.vicav.60s" n="60s">
                         <catDesc>participants age <num>60</num> to (including) <num>69</num> at the time of recording</catDesc>
                     </category>
-                    <category xml:id="agegroups.vicav.70s" n="70s+">
-                        <catDesc>participants age <num>70</num> and older</catDesc>
+                    <category xml:id="agegroups.vicav.70s" n="70s">
+                        <catDesc>participants age <num>70</num> to (including) <num>79</num> at the time of recording</catDesc>
+                    </category>
+                    <category xml:id="agegroups.vicav.80s" n="80s">
+                        <catDesc>participants age <num>80</num> to (including) <num>89</num> at the time of recording</catDesc>
+                    </category>
+                    <category xml:id="agegroups.vicav.90s" n="90s+">
+                        <catDesc>participants age <num>90</num> and older at the time of recording</catDesc>
                     </category>
                 </taxonomy>
             </classDecl>
