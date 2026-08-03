@@ -158,10 +158,10 @@
             <div>
                 <head>Formal Specification</head>
                 <schemaSpec ident="vicav-geodata" start="TEI">
-                    <moduleRef key="tei" />
                     <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt geoDecl listPrefixDef prefixDef sourceDesc encodingDesc revisionDesc change idno" />
+                    <moduleRef key="core" include="p note title author respStmt resp name desc" />
                     <moduleRef key="textstructure" include="TEI text body" />
-                    <moduleRef key="core" include="p note title author respStmt resp name" />
+                    <moduleRef key="tei" />
                     <moduleRef key="namesdates" include="listPlace place placeName location country region geo" />
                     <elementSpec ident="place" mode="change">
                         <content>
