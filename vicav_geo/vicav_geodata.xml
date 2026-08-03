@@ -9768,6 +9768,16 @@
                         <country key="TN">Tunisia</country>
                     </location>
                 </place>
+                <place type="geo" xml:id="wadi_faynan">
+                     <placeName type="prefLabel">Wadi Faynān</placeName>
+                     <placeName xml:lang="ar" type="standard"> وادي فينان</placeName>
+                     <location>
+                         <geo decls="#dms">30°37′26″N 35°25′49″E</geo>
+                         <geo decls="#dd"> 30.62394 35.43028</geo>
+                         <country key="JO">Jordan</country>
+                     </location>
+                     <idno type="geoNames">249493</idno>
+                 </place>
             </listPlace>
         </body>
     </text>
