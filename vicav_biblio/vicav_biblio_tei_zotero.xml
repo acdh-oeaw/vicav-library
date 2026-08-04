@@ -8,12 +8,13 @@
         <p>unpublished</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-07-30 14:49:49</p>
+        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-08-04 09:45:49</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <listPrefixDef>
-        <prefixDef ident="geo" matchPattern="^(.+)$" replacementPattern="../../vicav_geo/vicav_geodata.xml#$1"/>
+        <prefixDef ident="geo" matchPattern="^(.+)$" replacementPattern="../vicav_geo/vicav_geodata.xml#$1"/>
+        <prefixDef ident="vt" matchPattern="^(.+)$" replacementPattern="biblio_taxonomy_tei.xml#$1"/>
       </listPrefixDef>
     </encodingDesc>
   </teiHeader>
@@ -24921,6 +24922,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </editor>
             <imprint>
               <pubPlace>Zaragoza</pubPlace>
+              <biblScope unit="page">291-300</biblScope>
               <publisher>IEIOP</publisher>
               <date>2017</date>
             </imprint>
