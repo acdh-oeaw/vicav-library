@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>VICAV Bibliography TEI customization</title>
+                <principal>
+                    <name type="person" ref="dmp:SP">Stephan Procházka</name>
+                </principal>
+                <author>
+                    <name type="person" ref="dmp:KS">Kinga Sramó</name>
+                    <name type="person">Daniel Schopper</name>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <date>2025</date>
+                <availability>
+                    <licence>CC BY 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is a born digital document.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="#KS" when="2026-08-04">created document</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Documentation</head>
+                <p>                    
+                    This document describes the schema of the VICAV bibliography.
+                </p>
+                </div>
+            <div>
+                <head>Formal Specification</head>
+                <schemaSpec ident="vicav-bibliography" start="TEI">
+                    <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt geoDecl listPrefixDef prefixDef sourceDesc encodingDesc revisionDesc change idno edition extent" />
+                    <moduleRef key="core" include="p note title author respStmt resp name desc editor date biblStruct listBibl monogr imprint analytic ref series publisher pubPlace biblScope meeting" />
+                    <moduleRef key="textstructure" include="TEI text body" />
+                    <moduleRef key="tei" />
+                    <moduleRef key="namesdates" include="persName forename surname placeName"></moduleRef>    
+                    <classRef key="att.global.linking"/>
+                    
+                    <elementSpec ident="biblStruct" mode="change">
+                        <attList>
+                            <attDef ident="type" mode="change" usage="opt">
+                                <valList type="closed" mode="replace">
+                                    <valItem ident="journalArticle"></valItem>
+                                    <valItem ident="encyclopediaArticle"></valItem>
+                                    <valItem ident="book"></valItem>
+                                    <valItem ident="bookSection"></valItem>
+                                    <valItem ident="thesis"></valItem>
+                                    <valItem ident="conferencePaper"></valItem>
+                                    <valItem ident="presentation"></valItem>
+                                    <valItem ident="manuscript"></valItem>
+                                </valList>
+                            </attDef>
+                        </attList>
+                    </elementSpec>
+                    <constraintSpec ident="placeName-ref" scheme="schematron">
+                        <constraint>
+                            <sch:rule xmlns:sch="http://purl.oclc.org/dsdl/schematron" context="tei:ref">
+                                <sch:let name="target" value="@target" />
+                                <sch:let name="prefix" value="substring-before($target, ':')" />
+                                <sch:let name="id" value="substring-after($target, ':')" />
+                                <sch:let name="prefixDef" value="root()//tei:prefixDef[@ident = $prefix]" />
+                                <sch:let name="replacementPattern" value="$prefixDef/@replacementPattern" />
+                                <sch:let name="resolvedTarget" value="replace($replacementPattern, '\$1', $id)" />
+                                <sch:let name="targetExists" value="doc-available(resolve-uri($resolvedTarget, base-uri($target)))" />
+                                <sch:assert test="$targetExists">ref target"<sch:value-of select="$target" />" could not be resolved, no entry with id <sch:value-of select="$id" />"</sch:assert>
+                            </sch:rule>
+                        </constraint>
+                    </constraintSpec>
+                </schemaSpec>
+            </div>
+        </body>
+    </text>
+</TEI>
