@@ -1,1 +1,8 @@
 backup
+**/.env
+/080_scripts_generic/validation/lib
+tmp
+.ipynb_checkpoints
+/080_scripts_generic/vicav_zotero/export_grouplib.json
+/080_scripts_generic/vicav_zotero/fetch_generated_tei_and_process.py
+
