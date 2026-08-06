@@ -181,9 +181,6 @@
                                     <valItem ident="reg">
                                         <desc>Region</desc>
                                     </valItem>
-                                    <valItem ident="diaGroup">
-                                        <desc>Dialect group area</desc>
-                                    </valItem>
                                 </valList>
                             </attDef>
                             <attDef ident="xml:id" mode="change" usage="req" />
