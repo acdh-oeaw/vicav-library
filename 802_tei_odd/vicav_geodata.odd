@@ -204,6 +204,15 @@
                             </attDef>
                         </attList>
                     </elementSpec>
+                    <constraintSpec ident="place-prefLabel-exactly-one" scheme="schematron">
+                        <constraint>
+                            <sch:rule xmlns:sch="http://purl.oclc.org/dsdl/schematron" xmlns:tei="http://www.tei-c.org/ns/1.0" context="tei:place">
+                                <sch:assert test="count(tei:placeName[@type='prefLabel']) = 1">                                        
+                                    Each &lt;place&gt; must contain exactly one &lt;placeName type="prefLabel"&gt;.
+                                </sch:assert>
+                            </sch:rule>
+                        </constraint>
+                    </constraintSpec>
                     <elementSpec ident="location" mode="change">
                         <content>
                             <sequence>
