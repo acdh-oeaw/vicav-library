@@ -8,7 +8,7 @@
         <p>unpublished</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-08-04 09:45:49</p>
+        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-08-12 12:08:12</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -43318,6 +43318,27 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             <title level="s">Studies in Semitic Languages and Linguistics</title>
             <biblScope unit="volume">109</biblScope>
           </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="danna_2025_9272" corresp="http://zotero.org/groups/2165756/items/PS4T2UB7" n="D_Anna2025b">
+          <monogr>
+            <title level="m">Libyan Judeo-Arabic</title>
+            <author>
+              <forename>Luca</forename>
+              <surname>D'Anna</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <publisher>Harrassowitz</publisher>
+              <date>2025</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Semitica Viva</title>
+            <biblScope unit="volume">69</biblScope>
+          </series>
+          <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
+          <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
+          <ref target="vt:Jewish_dialects" type="subject" subtype="concept">Jewish dialects</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="daoud_1999_9684" corresp="http://zotero.org/groups/2165756/items/9MNJK8QV" n="Daoud1999">
           <monogr>
@@ -101195,15 +101216,15 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <monogr>
             <title level="m">Sudanese Colloquial Arabic for Beginners</title>
             <author>
-              <forename>A.</forename>
+              <forename>Andrew</forename>
               <surname>Persson</surname>
             </author>
             <author>
-              <forename>J.</forename>
+              <forename>Janet</forename>
               <surname>Persson</surname>
             </author>
             <imprint>
-              <pubPlace>Horsleys Green:</pubPlace>
+              <pubPlace>Horsleys Green</pubPlace>
               <publisher>Summer Institute of Linguistics</publisher>
               <date>1980</date>
             </imprint>
