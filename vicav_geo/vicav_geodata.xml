@@ -7779,8 +7779,8 @@
                 <place type="reg" xml:id="sannat">
                     <placeName type="prefLabel">Sannat</placeName>
                     <location>
-                        <geo decls="#dms">36°02'58"N 14°15'00"E</geo>
-                        <geo decls="#dd">36.049444 14.250000</geo>
+                        <geo decls="#dms">36°01′28″N 14°14′34″E</geo>
+                        <geo decls="#dd">36.02451 14.24283</geo>
                         <country key="MT">Malta</country>
                     </location>
                     <idno type="geoNames">2563049</idno>
