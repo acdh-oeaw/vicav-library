@@ -8,7 +8,7 @@
         <p>unpublished</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-08-12 12:08:12</p>
+        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-08-19 09:59:54</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -14531,6 +14531,24 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
+        <biblStruct type="journalArticle" xml:id="alrawi_2022_0000" corresp="http://zotero.org/groups/2165756/items/G4F323XN" n="Alrawi2022">
+          <analytic>
+            <title level="a">Discourse Particles in Hijazi Arabic: A Minimalist Approach</title>
+            <author>
+              <forename>Maather</forename>
+              <surname>Alrawi</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">SKASE Journal of Theoretical Linguistics</title>
+            <imprint>
+              <biblScope unit="volume">19</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">18-37</biblScope>
+              <date>2022</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="alresaini_2016_0084" corresp="http://zotero.org/groups/2165756/items/XLCIJGXV" n="Alresaini2016">
           <analytic>
             <title level="a">Acquisition of Modern Standard Arabic by speakers of different Arabic colloquial varieties: resumption in object relative clauses</title>
@@ -21007,6 +21025,33 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
           <ref target="vt:grammar" type="subject" subtype="concept">grammar</ref>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="bazzanella_2006_0300" corresp="http://zotero.org/groups/2165756/items/7CGGDE9S" n="Fischer2006b">
+          <analytic>
+            <title level="a">Discourse markers in Italian: towards a “compositional” meaning</title>
+            <idno type="DOI">10.1163/9780080461588_024</idno>
+            <title type="short">Discourse markers in Italian</title>
+            <author>
+              <forename>Carla</forename>
+              <surname>Bazzanella</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Approaches to Discourse Particles</title>
+            <idno type="ISBN">978-0-08-046158-8 978-0-08-044737-7</idno>
+            <editor>
+              <forename>Kerstin</forename>
+              <surname>Fischer</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Amsterdam</pubPlace>
+              <biblScope unit="page">449-464</biblScope>
+              <publisher>Elsevier</publisher>
+              <date>2006</date>
+              <note type="accessed">2026-08-17T07:16:07Z</note>
+              <note type="url">https://brill.com/view/book/edcoll/9780080461588/B9780080461588_s024.xml</note>
+            </imprint>
+          </monogr>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="bazzi_2024_0291" corresp="http://zotero.org/groups/2165756/items/FFLFN3W2" n="Bazzi2024">
           <analytic>
@@ -31782,6 +31827,37 @@ North Africa and classify them according to their origin (the denotative meaning
               <biblScope unit="page">61-73</biblScope>
               <publisher>Akaki Tsereteli State University</publisher>
               <date>2020</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="bozza_2024_0001" corresp="http://zotero.org/groups/2165756/items/Z3RNYPD5" n="Graf2024">
+          <analytic>
+            <title level="a">Imperatives of visual perception verbs as discourse markers: The case of šūf in Moroccan Arabic</title>
+            <idno type="DOI">10.1515/9783110761139-005</idno>
+            <title type="short">4 Imperatives of visual perception verbs as discourse markers</title>
+            <author>
+              <forename>Cristiana</forename>
+              <surname>Bozza</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Pragmaticalization: Language Change between Text and Grammar</title>
+            <idno type="ISBN">978-3-11-076113-9</idno>
+            <editor>
+              <forename>Elena</forename>
+              <surname>Graf</surname>
+            </editor>
+            <editor>
+              <forename>Ulrich</forename>
+              <surname>Schweier</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Berlin; Boston</pubPlace>
+              <biblScope unit="page">161-184</biblScope>
+              <publisher>De Gruyter</publisher>
+              <date>2024</date>
+              <note type="accessed">2026-08-14T08:47:01Z</note>
+              <note type="url">https://www.degruyter.com/document/doi/10.1515/9783110761139-005/html</note>
             </imprint>
           </monogr>
         </biblStruct>
@@ -57053,6 +57129,29 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="vt:music" type="subject" subtype="concept">music</ref>
           <ref target="vt:songs" type="subject" subtype="concept">songs</ref>
         </biblStruct>
+        <biblStruct type="journalArticle" xml:id="guerrero_2023_3862" corresp="http://zotero.org/groups/2165756/items/ZDJTW8YV" n="Guerrero2023">
+          <analytic>
+            <title level="a">Hacia un estudio diacrónico del árabe marroquí: Acerca de algunos rasgos dialectales en los documentos árabes del siglo XVI conservados en el Arquivo Nacional da Torre do Tombo</title>
+            <idno type="DOI">10.3989/alqantara.2023.016</idno>
+            <title type="short">Hacia un estudio diacrónico del árabe marroquí</title>
+            <author>
+              <forename>Jairo</forename>
+              <surname>Guerrero</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Al-Qanṭara</title>
+            <idno type="ISSN">1988-2955, 0211-3589</idno>
+            <imprint>
+              <biblScope unit="volume">44</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <date>2023</date>
+              <note type="accessed">2026-08-14T09:53:24Z</note>
+              <note type="url">https://al-qantara.revistas.csic.es/index.php/al-qantara/article/view/788</note>
+            </imprint>
+          </monogr>
+          <note type="abstract">El presente artículo se propone hacer un rastreo a través de un corpus epistolar del siglo XVI, con el fin de obtener algunos datos lingüísticos acerca de las variedades árabes que se hablaban en esa época en la parte occidental de Marruecos. Asimismo, este estudio trata de arrojar luz acerca del desarrollo histórico de varios rasgos dialectales, los cuales pueden ayudarnos a comprender mejor la evolución de los dialectos árabes en Marruecos y en el Magreb. Nuestro estudio se basa en el análisis lingüístico de algunas de las cartas luso-marroquíes que se conservan en el Archivo Nacional de la Torre do Tombo (Lisboa).</note>
+        </biblStruct>
         <biblStruct type="bookSection" xml:id="guerrero_2024_2921" corresp="http://zotero.org/groups/2165756/items/MEDMKBVE" n="Guerrero2024b">
           <analytic>
             <title level="a">Le parler de Berkane entre hier et aujourd’hui: variation intergénérationnelle dans une variété de l’Oriental</title>
@@ -68984,6 +69083,36 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="jalagonia_2026_3934" corresp="http://zotero.org/groups/2165756/items/J6783WK6" n="Jalagonia2026">
+          <analytic>
+            <title level="a">Arabic lexicography as a source for Arabic dialectology: Dialectal lexical units in Al-Khalil's Kitāb al-ʕayn</title>
+            <author>
+              <forename>Ledi</forename>
+              <surname>Jalagonia</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Rooted in the Mediterranean: Studies in Arabic dialectology - AIDA Malta 2024</title>
+            <editor>
+              <forename>Ray</forename>
+              <surname>Fabri</surname>
+            </editor>
+            <editor>
+              <forename>Kurstin</forename>
+              <surname>Gatt</surname>
+            </editor>
+            <editor>
+              <forename>Michael</forename>
+              <surname>Spagnol</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Msida</pubPlace>
+              <biblScope unit="page">205-215</biblScope>
+              <publisher>Malta University Press</publisher>
+              <date>2026</date>
+            </imprint>
+          </monogr>
         </biblStruct>
         <biblStruct type="book" xml:id="jalaly_2015_3580" corresp="http://zotero.org/groups/2165756/items/NN7IL2TR" n="Jalaly2015">
           <monogr>
@@ -93488,6 +93617,29 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <note type="abstract">Literaturangaben</note>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="moyse-fauri_2012_0405" corresp="http://zotero.org/groups/2165756/items/ZVU25LW3" n="Moyse-Faurie2012">
+          <analytic>
+            <title level="a">The Concept 'Return' as a Source of Different Developments in Oceanic Languages</title>
+            <idno type="DOI">10.1353/ol.2012.0011</idno>
+            <author>
+              <forename>Claire</forename>
+              <surname>Moyse-Faurie</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Oceanic Linguistics</title>
+            <idno type="ISSN">1527-9421</idno>
+            <imprint>
+              <biblScope unit="volume">51</biblScope>
+              <biblScope unit="issue">1</biblScope>
+              <biblScope unit="page">234-260</biblScope>
+              <date>2012</date>
+              <note type="accessed">2026-08-17T08:44:23Z</note>
+              <note type="url">https://muse.jhu.edu/article/480011</note>
+            </imprint>
+          </monogr>
+          <note type="abstract">Based on earlier work by Frank Lichtenberk and Bernhard Wälchli, where different paths of grammaticalization are identified in a small sample of Oceanic languages (Lichtenberk) and a general sample of 100 languages (Wälchli), taking the verb 'return' as a starting point and leading to targets like reditive directionals ('back'), repetition markers ('again'), prohibitive markers, additive markers ('also', 'too', 'as well'), and reflexive markers, this article aims to make some further contributions to this topic. Looking at a larger set of Oceanic languages, I found several other paths of grammaticalization for 'return'/ 'again'; that is, paths leading to nominal determiners ('another'), to contrastive or emphatic particles ('indeed', 'exactly'), to inclusive adverbial intensifiers ('-self'), to reciprocal markers, to prepositions ('until') or conjunctions ('then'), to exclamative markers, and even to tense-aspect markers. I first give various examples illustrating these developments, and then propose a diagram— as a first step toward developing a semantic map—summarizing and motivating these connections. Finally, I examine the distribution of the relevant uses in Oceanic languages, as well as possible and impossible coexistence of specific meanings in these languages.</note>
         </biblStruct>
         <biblStruct type="thesis" xml:id="mozainy_1981_2947" corresp="http://zotero.org/groups/2165756/items/AALM5AD6" n="Al-Mozainy1981">
           <monogr>
@@ -120822,7 +120974,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <title level="a">Some aspects of Najdi Arabic phonology</title>
             <author>
               <forename>Abdulaziz I</forename>
-              <surname>al-Sweel</surname>
+              <surname>Al Sweel</surname>
             </author>
           </analytic>
           <monogr>
@@ -120843,7 +120995,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <title level="a">Some Aspects of Najdi Arabic Phonology: Part II</title>
             <author>
               <forename>Abdulaziz I</forename>
-              <surname>al-Sweel</surname>
+              <surname>Al Sweel</surname>
             </author>
           </analytic>
           <monogr>
