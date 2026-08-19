@@ -7776,8 +7776,8 @@
                     </location>
                     <idno type="geoNames">173708</idno>
                 </place>
-                <place type="reg" xml:id="gozo">
-                    <placeName type="prefLabel">Gozo</placeName>
+                <place type="reg" xml:id="sannat">
+                    <placeName type="prefLabel">Sannat</placeName>
                     <location>
                         <geo decls="#dms">36°02'58"N 14°15'00"E</geo>
                         <geo decls="#dd">36.049444 14.250000</geo>
