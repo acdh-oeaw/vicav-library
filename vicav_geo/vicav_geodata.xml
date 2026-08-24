@@ -8527,8 +8527,8 @@
                 <place type="reg" xml:id="wadi_khalid">
                     <placeName type="prefLabel">Wadi Khalid</placeName>
                     <location>
-                        <geo decls="#dms">33°35'42"N 35°48'27"E</geo>
-                        <geo decls="#dd">33.595000 35.807500</geo>
+                        <geo decls="#dms">34°37′8.6″N 36°22′42.06″E</geo>
+                        <geo decls="#dd">34.619055 36.378350</geo>
                         <country key="LB">Lebanon</country>
                     </location>
                     <idno type="geoNames">272631</idno>
