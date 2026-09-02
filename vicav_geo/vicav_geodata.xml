@@ -3240,26 +3240,6 @@
                     </location>
                     <idno type="geoNames">141660</idno>
                 </place>
-                <place type="geo" xml:id="arabkhaneh">
-                    <placeName type="prefLabel">Arabkhaneh</placeName>
-                    <placeName xml:lang="ar" type="standard">عربخانه</placeName>
-                    <location>
-                        <geo decls="#dms">32°08′30″N 59°38′02″E</geo>
-                        <geo decls="#dd">32.14164 59.63377</geo>
-                        <country key="IR">Iran</country>
-                    </location>
-                    <idno type="geoNames">7052605</idno>
-                </place>
-                <place type="geo" xml:id="khalaf">
-                    <placeName type="prefLabel">Khalaf</placeName>
-                    <placeName xml:lang="ar" type="standard">خلف</placeName>
-                    <location>
-                        <geo decls="#dms">33°08′34″N 59°52′56″E</geo>
-                        <geo decls="#dd">33.14276 59.88215</geo>
-                        <country key="IR">Iran</country>
-                    </location>
-                    <idno type="geoNames">128105</idno>
-                </place>
                 <place type="geo" xml:id="bani_suwayf">
                     <placeName type="prefLabel">Bani Suwayf</placeName>
                     <placeName type="altLabel">Bani Swayf</placeName>
@@ -4850,7 +4830,7 @@
                         <country key="IR">Iran</country>
                     </location>
                     <idno type="geoNames">128105</idno>
-                    <note>One of the locations for Khorasan Arabic.</note>
+                    <note>One of the locations for Khorasan Arabic</note>
                 </place>
                 <place type="geo" xml:id="khartoum">
                     <placeName type="prefLabel">Khartoum</placeName>
@@ -8069,6 +8049,7 @@
                 </place>
                 <place type="reg" xml:id="arabkhane">
                     <placeName type="prefLabel">Arabkhane</placeName>
+                    <placeName xml:lang="ar" type="standard">عربخانه</placeName>
                     <location>
                         <geo decls="#dms">32°08′30″N 59°38′02″E</geo>
                         <geo decls="#dd">32.14164 59.63377</geo>
