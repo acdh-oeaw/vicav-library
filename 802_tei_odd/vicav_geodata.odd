@@ -76,7 +76,7 @@
                     <tag>placeName xml:lang="ar" type="standard"</tag>                        
                         ) and/or Latin
                         script (
-                    <tag>placeName xml:lang="ar-Ltn" type="standard"</tag>                        
+                    <tag>placeName xml:lang="ar-Latn" type="standard"</tag>                        
                         ) next to the
                         local vernacular names (
                     <att>type</att> with <val>local</val>                        
@@ -158,8 +158,8 @@
             <div>
                 <head>Formal Specification</head>
                 <schemaSpec ident="vicav-geodata" start="TEI">
-                    <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt geoDecl listPrefixDef prefixDef sourceDesc encodingDesc revisionDesc change idno" />
-                    <moduleRef key="core" include="p note title author respStmt resp name desc" />
+                    <moduleRef key="header" include="teiHeader fileDesc titleStmt publicationStmt sourceDesc geoDecl listPrefixDef prefixDef encodingDesc revisionDesc change idno" />
+                    <moduleRef key="core" include="p title note author respStmt resp name" />
                     <moduleRef key="textstructure" include="TEI text body" />
                     <moduleRef key="tei" />
                     <moduleRef key="namesdates" include="listPlace place placeName location country region geo" />
@@ -172,6 +172,15 @@
                                 <elementRef key="note" minOccurs="0" maxOccurs="unbounded" />
                             </sequence>
                         </content>
+                        <constraintSpec ident="place-prefLabel-exactly-one" scheme="schematron">
+                            <constraint>
+                                <sch:rule xmlns:sch="http://purl.oclc.org/dsdl/schematron" xmlns:tei="http://www.tei-c.org/ns/1.0" context="tei:place">
+                                    <sch:assert test="count(tei:placeName[@type='prefLabel']) = 1">                                        
+                                        Each place must contain exactly one placeName type="prefLabel".
+                                    </sch:assert>
+                                </sch:rule>
+                            </constraint>
+                        </constraintSpec>
                         <attList>
                             <attDef ident="type" mode="replace" usage="req">
                                 <valList type="closed">
@@ -204,15 +213,6 @@
                             </attDef>
                         </attList>
                     </elementSpec>
-                    <constraintSpec ident="place-prefLabel-exactly-one" scheme="schematron">
-                        <constraint>
-                            <sch:rule xmlns:sch="http://purl.oclc.org/dsdl/schematron" xmlns:tei="http://www.tei-c.org/ns/1.0" context="tei:place">
-                                <sch:assert test="count(tei:placeName[@type='prefLabel']) = 1">                                        
-                                    Each &lt;place&gt; must contain exactly one &lt;placeName type="prefLabel"&gt;.
-                                </sch:assert>
-                            </sch:rule>
-                        </constraint>
-                    </constraintSpec>
                     <elementSpec ident="location" mode="change">
                         <content>
                             <sequence>
