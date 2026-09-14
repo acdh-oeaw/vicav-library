@@ -16,10 +16,10 @@ jobs:
         with:
           ref: gh_pages
           path: gh_pages
-      - name: Get python 3.13
+      - name: Get python 3.12
         uses: actions/setup-python@v6
         with:
-          python-version: "3.13"
+          python-version: "3.12"
           cache: "pipenv"
       - name: Validate files
         run: |
