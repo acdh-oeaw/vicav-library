@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+jupyterlab = "*"
+nbconvert = "*"
+pandas = "*"
+lxml = "*"
+saxonche = "*"
+
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
