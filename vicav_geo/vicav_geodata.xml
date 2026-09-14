@@ -2193,7 +2193,7 @@
                     <note>District: Viranşehir</note>
                     <note>SHAWI</note>
                 </place>
-                <place type="geo" xml:id="malta">
+                <place type="geo" xml:id="maltaTR">
                     <placeName type="prefLabel">Malta</placeName>
                     <placeName xml:lang="ar-Latn" type="local">Malta</placeName>
                     <location>
