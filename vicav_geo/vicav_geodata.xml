@@ -1724,7 +1724,7 @@
                     <note>District: Harran</note>
                     <note>SHAWI</note>
                 </place>
-                <place type="geo" xml:id="Harran">
+                <place type="geo" xml:id="harran">
                     <placeName type="prefLabel">Harran</placeName>
                     <placeName xml:lang="ar-Latn" type="local">Ḥarrān</placeName>
                     <location>
@@ -4269,6 +4269,8 @@
                     <idno type="geoNames">274471</idno>
                     <note>Location for the Zreyǧāt tribe</note>
                 </place>
+                <!-- 
+                    depreacted in favor of the entry with the same ID  
                 <place type="geo" xml:id="harran">
                     <placeName type="prefLabel">Harran</placeName>
                     <placeName xml:lang="ar" type="standard">حرّان</placeName>
@@ -4278,7 +4280,7 @@
                         <country key="TR">Turkey</country>
                     </location>
                     <idno type="geoNames">439166</idno>
-                </place>
+                </place>-->
                 <place type="geo" xml:id="hasankeyf">
                     <placeName type="prefLabel">Hasankeyf</placeName>
                     <placeName xml:lang="ar" type="standard">حصن كيفا</placeName>
