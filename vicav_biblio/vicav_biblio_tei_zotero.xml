@@ -8,7 +8,7 @@
         <p>unpublished</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-08-25 13:56:53</p>
+        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-09-14 14:02:50</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -629,30 +629,6 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
           <ref target="vt:Maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
-        </biblStruct>
-        <biblStruct type="journalArticle" xml:id="Belnap_2009_8124" corresp="http://zotero.org/groups/2165756/items/XR9N7DUQ" n="Belnap2009">
-          <analytic>
-            <title level="a">A New Perspective on the History of Arabic Variation in Marking Agreement with Plural Heads</title>
-            <author>
-              <forename>R. Kirk</forename>
-              <surname>Belnap</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="j">Folia Linguistica</title>
-            <imprint>
-              <biblScope unit="volume">33</biblScope>
-              <biblScope unit="issue">1-2</biblScope>
-              <biblScope unit="page">169</biblScope>
-              <date>2009</date>
-              <note type="accessed">2018-01-15</note>
-              <note type="url">https://www.degruyter.com/view/j/flin.1999.33.issue-1-2/flin.1999.33.1-2.169/flin.1999.33.1-2.169.xml</note>
-            </imprint>
-          </monogr>
-          <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:Egypt-Sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
-          <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
-          <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
         </biblStruct>
         <biblStruct type="thesis" xml:id="BenAjiba_1990_2432" corresp="http://zotero.org/groups/2165756/items/VR25VM4L" n="Ben_Ajiba1990">
           <monogr>
@@ -1745,7 +1721,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
             </author>
             <imprint>
               <publisher>John Benjamins Publishing Company</publisher>
-              <date>2026</date>
+              <date>2027</date>
             </imprint>
           </monogr>
           <ref target="geo:beirut" type="subject" subtype="geographic">Beirut</ref>
@@ -3706,7 +3682,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="Iriarte_Prochazka_2026_1234" corresp="http://zotero.org/groups/2165756/items/FLXH8W2K" n="Iriarte_Díez2027a">
           <analytic>
-            <title level="a">The raising of non-final short /*a/ to /i/ and /u/: Types, distribution, and implications for the classification of Arabic dialects</title>
+            <title level="a">Raising of non-final short /*a/ in  spoken Arabic dialects: Patterns, histories and classification</title>
             <author>
               <forename>Ana</forename>
               <surname>Iriarte Díez</surname>
@@ -5518,7 +5494,7 @@ variation based on the speaker’s age,gender and origin. Moreover, comparative 
             <title level="j">Journal of Semitic Studies</title>
             <imprint>
               <biblScope unit="volume">71</biblScope>
-              <biblScope unit="chapter">1</biblScope>
+              <biblScope unit="issue">1</biblScope>
               <biblScope unit="page">307-342</biblScope>
               <date>2026</date>
             </imprint>
@@ -8969,6 +8945,28 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="vt:loanwords" type="subject" subtype="concept">loanwords</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
         </biblStruct>
+        <biblStruct type="book" xml:id="abu_haidar_1979_2969" corresp="http://zotero.org/groups/2165756/items/4L7WKRNK" n="Abu-Haidar1979">
+          <monogr>
+            <title level="m">A Study of the Spoken Arabic of Baskinta</title>
+            <author>
+              <forename>Farida</forename>
+              <surname>Abu-Haidar</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leiden</pubPlace>
+              <publisher>Brill</publisher>
+              <date>1979</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:baskinta" type="subject" subtype="geographic">Baskinta</ref>
+          <ref target="geo:lebanon" type="subject" subtype="geographic">Lebanon</ref>
+          <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
+          <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
+          <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="high" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
+          </note>
+        </biblStruct>
         <biblStruct type="journalArticle" xml:id="abu_haidar_1987_0000" corresp="http://zotero.org/groups/2165756/items/TBJ4FQIW" n="Abu-Haidar1987">
           <analytic>
             <title level="a">The treatment of the reflexes of /q/ and /k/ in the Muslim dialect of Baghdad</title>
@@ -9361,6 +9359,63 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:sedentary_dialect" type="subject" subtype="concept">sedentary dialect</ref>
+        </biblStruct>
+        <biblStruct type="encyclopediaArticle" xml:id="abu_haidar_2006_2522" corresp="http://zotero.org/groups/2165756/items/APDWNA4Z" n="Abu-Haidar2006a">
+          <analytic>
+            <title level="a">Bedouinization</title>
+            <author>
+              <forename>Farida</forename>
+              <surname>Abu-Haidar</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Encyclopedia of Arabic Language and Linguistics</title>
+            <editor>
+              <forename>Kees</forename>
+              <surname>Versteegh</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Leiden</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="page">269-274</biblScope>
+              <publisher>Brill</publisher>
+              <date>2006</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
+          <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
+          <ref target="vt:bedouin_dialect" type="subject" subtype="concept">bedouin dialect</ref>
+          <ref target="vt:comparative_studies" type="subject" subtype="concept">comparative studies</ref>
+        </biblStruct>
+        <biblStruct type="encyclopediaArticle" xml:id="abu_haidar_2011_8572" corresp="http://zotero.org/groups/2165756/items/AZIMWCKB" n="Abu-Haidar2006">
+          <analytic>
+            <title level="a">Baghdad Arabic</title>
+            <author>
+              <forename>Farida</forename>
+              <surname>Abu-Haidar</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Encyclopedia of Arabic Language and Linguistics</title>
+            <editor>
+              <forename>Kees</forename>
+              <surname>Versteegh</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Leiden</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="page">222-231</biblScope>
+              <publisher>Brill</publisher>
+              <date>2011</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:baghdad" type="subject" subtype="geographic">Baghdad</ref>
+          <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
+          <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
+          <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
+          <note type="dataCollection">
+            <date type="dataCollection" cert="low" notAfter-iso="1999-12-31">before2000</date>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="abu_haidar_caubet_1994_0000" corresp="http://zotero.org/groups/2165756/items/M8BDDD8S" n="Abu-Haidar1994a">
           <analytic>
@@ -11114,7 +11169,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
         </biblStruct>
         <biblStruct type="book" xml:id="aguade_2005_3291" corresp="http://zotero.org/groups/2165756/items/UQF5FTXG" n="Aguadé2005a">
           <monogr>
-            <title level="m">Diccionario árabe marroquí: Árabe marroquí-Español/ Español-Árabe             marroquí</title>
+            <title level="m">Diccionario árabe marroquí: Árabe marroquí-Español/Español-Árabe marroquí</title>
             <author>
               <forename>Jordi</forename>
               <surname>Aguadé</surname>
@@ -14545,6 +14600,27 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="alrasheedi_2015_2927" corresp="http://zotero.org/groups/2165756/items/NNPXKVJG" n="Alrasheedi2015">
+          <analytic>
+            <title level="a">Affrication in Ha’ili Arabic: A rule-based approach</title>
+            <idno type="DOI">10.5296/ijl.v7i4.8017</idno>
+            <author>
+              <forename>Eisa S.</forename>
+              <surname>Alrasheedi</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">International Journal of Linguistics</title>
+            <imprint>
+              <biblScope unit="volume">7</biblScope>
+              <biblScope unit="issue">4</biblScope>
+              <biblScope unit="page">27-41</biblScope>
+              <date>2015</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
+          <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="alrawi_2022_0000" corresp="http://zotero.org/groups/2165756/items/G4F323XN" n="Alrawi2022">
           <analytic>
@@ -29753,7 +29829,7 @@ North Africa and classify them according to their origin (the denotative meaning
         </biblStruct>
         <biblStruct type="thesis" xml:id="borg_1978_8392" corresp="http://zotero.org/groups/2165756/items/7EJ6EIAB" n="Borg1978">
           <monogr>
-            <title level="m">A historical and comparative phonoloy and morphology of Maltese</title>
+            <title level="m">A historical and comparative phonology and morphology of Maltese</title>
             <author>
               <forename>Alexander</forename>
               <surname>Borg</surname>
@@ -30369,6 +30445,7 @@ North Africa and classify them according to their origin (the denotative meaning
             </author>
             <imprint>
               <pubPlace>Paris</pubPlace>
+              <publisher>Klincksieck</publisher>
               <date>1958</date>
             </imprint>
           </monogr>
@@ -34406,6 +34483,22 @@ North Africa and classify them according to their origin (the denotative meaning
           <ref target="vt:Arab_World_general" type="subject" subtype="concept">Arab World general</ref>
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
+        </biblStruct>
+        <biblStruct type="book" xml:id="cantineau_1960_9227" corresp="http://zotero.org/groups/2165756/items/5B5F8JCW" n="Cantineau1960b">
+          <monogr>
+            <title level="m">Cours de phonétique arabe</title>
+            <author>
+              <forename>Jean</forename>
+              <surname>Cantineau</surname>
+            </author>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Klincksieck</publisher>
+              <date>1960</date>
+            </imprint>
+          </monogr>
+          <ref target="vt:comparative_studies" type="subject" subtype="concept">comparative studies</ref>
+          <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="cantineau_helbaoui_1953_0000" corresp="http://zotero.org/groups/2165756/items/UBW33YBT" n="Cantineau1953">
           <monogr>
@@ -58946,85 +59039,6 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
           <note type="dataCollection">
             <date type="dataCollection" cert="high" notBefore-iso="1960-01-01" notAfter-iso="1969-12-31">1960s</date>
-          </note>
-        </biblStruct>
-        <biblStruct type="book" xml:id="haidar_1979_2969" corresp="http://zotero.org/groups/2165756/items/4L7WKRNK" n="Abu-Haidar1979">
-          <monogr>
-            <title level="m">A Study of the Spoken Arabic of Baskinta</title>
-            <author>
-              <forename>Farida</forename>
-              <surname>Abu-Haidar</surname>
-            </author>
-            <imprint>
-              <pubPlace>Leiden</pubPlace>
-              <publisher>Brill</publisher>
-              <date>1979</date>
-            </imprint>
-          </monogr>
-          <ref target="geo:baskinta" type="subject" subtype="geographic">Baskinta</ref>
-          <ref target="geo:lebanon" type="subject" subtype="geographic">Lebanon</ref>
-          <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
-          <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
-          <ref target="vt:transcribed_texts" type="subject" subtype="concept">transcribed texts</ref>
-          <note type="dataCollection">
-            <date type="dataCollection" cert="high" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
-          </note>
-        </biblStruct>
-        <biblStruct type="encyclopediaArticle" xml:id="haidar_2006_2522" corresp="http://zotero.org/groups/2165756/items/APDWNA4Z" n="Abu-Haidar2006a">
-          <analytic>
-            <title level="a">Bedouinization</title>
-            <author>
-              <forename>Farida</forename>
-              <surname>Abu-Haidar</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">Encyclopedia of Arabic Language and Linguistics</title>
-            <editor>
-              <forename>Kees</forename>
-              <surname>Versteegh</surname>
-            </editor>
-            <imprint>
-              <pubPlace>Leiden</pubPlace>
-              <biblScope unit="volume">1</biblScope>
-              <biblScope unit="page">269-274</biblScope>
-              <publisher>Brill</publisher>
-              <date>2006</date>
-            </imprint>
-          </monogr>
-          <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
-          <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
-          <ref target="vt:bedouin_dialect" type="subject" subtype="concept">bedouin dialect</ref>
-          <ref target="vt:comparative_studies" type="subject" subtype="concept">comparative studies</ref>
-        </biblStruct>
-        <biblStruct type="encyclopediaArticle" xml:id="haidar_2006_8572" corresp="http://zotero.org/groups/2165756/items/AZIMWCKB" n="Abu-Haidar2006">
-          <analytic>
-            <title level="a">Baghdad Arabic</title>
-            <author>
-              <forename>Farida</forename>
-              <surname>Abu-Haidar</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">Encyclopedia of Arabic Language and Linguistics</title>
-            <editor>
-              <forename>Kees</forename>
-              <surname>Versteegh</surname>
-            </editor>
-            <imprint>
-              <pubPlace>Leiden</pubPlace>
-              <biblScope unit="volume">1</biblScope>
-              <biblScope unit="page">222-231</biblScope>
-              <publisher>Brill</publisher>
-              <date>2006</date>
-            </imprint>
-          </monogr>
-          <ref target="geo:baghdad" type="subject" subtype="geographic">Baghdad</ref>
-          <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
-          <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
-          <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
-          <note type="dataCollection">
-            <date type="dataCollection" cert="low" notAfter-iso="1999-12-31">before2000</date>
           </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="haig_2017_4865" corresp="http://zotero.org/groups/2165756/items/8TWUL3LL" n="Haig2017">
@@ -86027,29 +86041,6 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="vt:general_comparative_study" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
         </biblStruct>
-        <biblStruct type="encyclopediaArticle" xml:id="mansour_2006_6353" corresp="http://zotero.org/groups/2165756/items/N8HPUIK9" n="Mansour2006">
-          <analytic>
-            <title level="a">Baghdad Arabic Jewish</title>
-            <author>
-              <forename>Jacob</forename>
-              <surname>Mansour</surname>
-            </author>
-          </analytic>
-          <monogr>
-            <title level="m">Encyclopaedia of Arabic Language and Linguistics</title>
-            <editor>
-              <forename>K.</forename>
-              <surname>Versteegh</surname>
-            </editor>
-            <imprint>
-              <pubPlace>Leiden &amp; Boston</pubPlace>
-              <biblScope unit="volume">I</biblScope>
-              <biblScope unit="page">231-241</biblScope>
-              <publisher>Brill</publisher>
-              <date>2006</date>
-            </imprint>
-          </monogr>
-        </biblStruct>
         <biblStruct type="encyclopediaArticle" xml:id="mansour_2008_2608" corresp="http://zotero.org/groups/2165756/items/YCEU6U9V" n="Abu-Mansour2008">
           <analytic>
             <title level="a">Meccan Arabic</title>
@@ -86073,6 +86064,29 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
           <ref target="vt:description_of_dialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:urban_dialect" type="subject" subtype="concept">urban dialect</ref>
+        </biblStruct>
+        <biblStruct type="encyclopediaArticle" xml:id="mansour_2011_6353" corresp="http://zotero.org/groups/2165756/items/N8HPUIK9" n="Mansour2006">
+          <analytic>
+            <title level="a">Baghdad Arabic Jewish</title>
+            <author>
+              <forename>Jacob</forename>
+              <surname>Mansour</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Encyclopaedia of Arabic Language and Linguistics</title>
+            <editor>
+              <forename>K.</forename>
+              <surname>Versteegh</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Leiden &amp; Boston</pubPlace>
+              <biblScope unit="volume">I</biblScope>
+              <biblScope unit="page">231-241</biblScope>
+              <publisher>Brill</publisher>
+              <date>2011</date>
+            </imprint>
+          </monogr>
         </biblStruct>
         <biblStruct type="encyclopediaArticle" xml:id="mansour_2018_2308" corresp="http://zotero.org/groups/2165756/items/PQAGX5TY" n="Abu-Mansour2018">
           <analytic>
@@ -94754,10 +94768,15 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </analytic>
           <monogr>
             <title level="m">Encyclopedia of Arabic Language and Linguistics</title>
-            <edition>online version</edition>
+            <editor>
+              <forename>Kees</forename>
+              <surname>Versteegh</surname>
+            </editor>
             <imprint>
-              <date>2011</date>
-              <note type="url">http://dx-doi-org.uaccess.univie.ac.at/10.1163/1570-6699_eall_EALL_COM_0039</note>
+              <pubPlace>Leiden</pubPlace>
+              <biblScope unit="page">274-286</biblScope>
+              <publisher>Brill</publisher>
+              <date>2006</date>
             </imprint>
           </monogr>
           <note type="dataCollection">
@@ -119240,7 +119259,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <biblScope unit="volume">69</biblScope>
               <biblScope unit="issue">1</biblScope>
               <biblScope unit="page">485-520</biblScope>
-              <date>2023</date>
+              <date>2024</date>
             </imprint>
           </monogr>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
@@ -124729,6 +124748,19 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <note type="tags">
             <note type="tag">out:WIBARAB</note>
           </note>
+        </biblStruct>
+        <biblStruct type="thesis" xml:id="torzullo_2026_2927" corresp="http://zotero.org/groups/2165756/items/54PKB8Q8" n="Torzullo2026">
+          <monogr>
+            <title level="m">The dialect of the Bani Ṣaxar in Jordan. PhD thesis</title>
+            <author>
+              <forename>Antonella</forename>
+              <surname>Torzullo</surname>
+            </author>
+            <imprint>
+              <pubPlace>Vienna</pubPlace>
+              <date>2026</date>
+            </imprint>
+          </monogr>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="tosco_1984_0000" corresp="http://zotero.org/groups/2165756/items/XS5SKR6D" n="Tosco1984">
           <analytic>
@@ -136534,6 +136566,40 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <biblScope unit="page">457-474</biblScope>
               <publisher>Prensas de la Universidad de Zaragoza</publisher>
               <date>2024</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="ziamari_2026_3447" corresp="http://zotero.org/groups/2165756/items/NNC7DUAK" n="Ziamari2026">
+          <analytic>
+            <title level="a">Affrication of /t/ in Moroccan Arabic through the lens of indexicality: From regional marking to social construction</title>
+            <author>
+              <forename>Karima</forename>
+              <surname>Ziamari</surname>
+            </author>
+            <author>
+              <forename>Alexandrine</forename>
+              <surname>Barontini</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Rooted in the Mediterranean: Studies in Arabic dialectology - AIDA Malta 2024</title>
+            <editor>
+              <forename>Ray</forename>
+              <surname>Fabri</surname>
+            </editor>
+            <editor>
+              <forename>Kurstin</forename>
+              <surname>Gatt</surname>
+            </editor>
+            <editor>
+              <forename>Michael</forename>
+              <surname>Spagnol</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Msida</pubPlace>
+              <biblScope unit="page">363-377</biblScope>
+              <publisher>Malta University Press</publisher>
+              <date>2026</date>
             </imprint>
           </monogr>
         </biblStruct>
