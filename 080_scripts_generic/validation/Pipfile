@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 requests = "*"
-jupyterlab = "*"
 nbconvert = "*"
 pandas = "*"
 lxml = "*"
@@ -13,6 +12,7 @@ saxonche = "*"
 
 
 [dev-packages]
+jupyterlab = "*"
 
 [requires]
 python_version = "3.12"
