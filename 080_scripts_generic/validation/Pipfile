@@ -8,7 +8,7 @@ requests = "*"
 nbconvert = "*"
 pandas = "*"
 lxml = "*"
-saxonche = "*"
+saxonche = "12.9.*"
 
 
 [dev-packages]
