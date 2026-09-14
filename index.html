@@ -1,0 +1,652 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>WIBARAB validation report</title>
+    <style>
+    body { font-family: Arial, sans-serif; font-size: 13px; margin: 20px; }
+    table { font-family: Arial, sans-serif; font-size: 13px; border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ccc; padding: 6px; text-align: left; min-width: 50px; max-width: 300px; overflow-wrap: break-word; word-break: break-word; }
+    thead { background: #eee; }
+    #tableFilter { margin-bottom: 12px; }
+    details.file-group { margin-bottom: 8px; border: 1px solid #ccc; border-radius: 4px; }
+    details.file-group summary { background: #eee; padding: 8px 12px; cursor: pointer; font-weight: bold; list-style: none; user-select: none; }
+    details.file-group summary::-webkit-details-marker { display: none; }
+    details.file-group summary::before { content: "▶  "; font-size: 10px; }
+    details.file-group[open] summary::before { content: "▼  "; }
+    .file-errors { padding: 8px; }
+    .error-count { font-weight: normal; color: #c00; margin-left: 8px; }
+    .file-path { font-weight: normal; color: #666; margin-left: 8px; font-size: 11px; }
+    #resultSummary { margin-left: 12px; color: #555; font-size: 12px; }
+    </style>
+</head>
+<body>
+<h1>WIBARAB validation report</h1>
+<p style="color:#888;font-size:12px;">Generated: 2026-09-14 15:44:27 CEST</p>
+<label for="tableFilter">Filter rows:</label>
+<input id="tableFilter" type="text" placeholder="Type to filter rows or ids" onkeyup="filterValidationTable()" style="margin-left:8px;width:320px" />
+<button onclick="document.querySelectorAll('details.file-group').forEach(d=>d.open=true)" style="margin-left:8px">Expand all</button>
+<button onclick="document.querySelectorAll('details.file-group').forEach(d=>d.open=false)" style="margin-left:4px">Collapse all</button>
+<span id="resultSummary"></span>
+<div style="margin-bottom:12px"></div>
+<details class="file-group">
+<summary>Geolist<span class="error-count">(55 errors)</span><span class="file-path">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</span></summary>
+<div class="file-errors">
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>entry_id</th>
+      <th>message</th>
+      <th>stage</th>
+      <th>location</th>
+      <th>line</th>
+      <th>link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>akko</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>2500</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L2500" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>al_baraddun</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>2523</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L2523" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>al_baraddun</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>2523</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L2523" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>al_sukhna</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[7]</td>
+      <td>2945</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L2945" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>al_sukhna</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[7]</td>
+      <td>2945</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L2945" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>bishmizzine</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>3451</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L3451" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>bishmizzine</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>3451</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L3451" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>danagoezue</td>
+      <td>Expecting an element , got nothing</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>3703</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L3703" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>deir_ez_zor</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[5]</td>
+      <td>3754</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L3754" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>deir_ez_zor</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[5]</td>
+      <td>3754</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L3754" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>derek</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>3776</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L3776" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>derek</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>3776</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L3776" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>el_jadida</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>3875</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L3875" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>el_jadida</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>3875</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L3875" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>el_balyana</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>3887</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L3887" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>el_balyana</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>3887</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L3887" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>el_hamma</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>3899</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L3899" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>el_hamma</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>3899</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L3899" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>ilbashandi</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>4466</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L4466" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>ilbashandi</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>4466</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L4466" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>ilbashandi</td>
+      <td>Expecting an element , got nothing</td>
+      <td>relaxng</td>
+      <td>/*/*[4]</td>
+      <td>4467</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L4467" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>kwayrish</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[4]</td>
+      <td>4970</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L4970" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>kwayrish</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[4]</td>
+      <td>4970</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L4970" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>m_hamid</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>5374</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L5374" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>m_hamid</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>5374</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L5374" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>outat_el_haj</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>5791</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L5791" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>outat_el_haj</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>5791</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L5791" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>port_said</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>n/a</td>
+      <td>5832</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L5832" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>rhafsay</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>6129</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L6129" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>rhafsay</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>6129</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L6129" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>safut</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>n/a</td>
+      <td>6262</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L6262" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>taiz</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>6725</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L6725" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>taiz</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>6725</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L6725" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>tripoli_lebanon</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[5]</td>
+      <td>7018</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7018" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>tripoli_lebanon</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[5]</td>
+      <td>7018</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7018" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>tripoli_libya</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>7029</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7029" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>tripoli_libya</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>7029</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7029" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>zakariiya</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>n/a</td>
+      <td>7316</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7316" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>andalusia</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>7464</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7464" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>andalusia</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>7464</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7464" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>atlas_mountains</td>
+      <td>Expecting an element , got nothing</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>7474</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7474" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>arabian_peninsula</td>
+      <td>Expecting an element , got nothing</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>7482</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7482" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>egypt_sudan</td>
+      <td>Expecting an element , got nothing</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>7726</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7726" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>faiyum</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>7743</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7743" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>faiyum</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>7743</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7743" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>hail_reg</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>7802</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7802" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>hail_reg</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>7802</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7802" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>el_haouz</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>7848</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7848" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>el_haouz</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>7848</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7848" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>hauran</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>7859</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7859" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>hauran</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>7859</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L7859" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>maghreb</td>
+      <td>Expecting an element , got nothing</td>
+      <td>relaxng</td>
+      <td>/*/*[3]</td>
+      <td>8108</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L8108" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>mesopotamia</td>
+      <td>Expecting an element , got nothing</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>8133</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L8133" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>sharqiyya</td>
+      <td>Element placeName failed to validate attributes</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>8309</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L8309" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+    <tr>
+      <td>sharqiyya</td>
+      <td>Invalid attribute lang for element placeName</td>
+      <td>relaxng</td>
+      <td>/*/*[2]</td>
+      <td>8309</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_geo/vicav_geodata.xml#L8309" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_geo/vicav_geodata.xml</a></td>
+    </tr>
+  </tbody>
+</table>
+</div></details>
+<details class="file-group">
+<summary>Bibliography<span class="error-count">(12 errors)</span><span class="file-path">/home/runner/work/vicav-library/vicav-library/main/vicav_biblio/vicav_biblio_tei_zotero.xml</span></summary>
+<div class="file-errors">
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>entry_id</th>
+      <th>message</th>
+      <th>stage</th>
+      <th>location</th>
+      <th>line</th>
+      <th>link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Manfredi_2025_9283</td>
+      <td>Invalid attribute type for element biblStruct</td>
+      <td>relaxng</td>
+      <td>/*</td>
+      <td>4393</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_biblio/vicav_biblio_tei_zotero.xml#L4393" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_biblio/vicav_biblio_tei_zotero.xml</a></td>
+    </tr>
+    <tr>
+      <td>Marçais_4200</td>
+      <td>Element note has extra content: p</td>
+      <td>relaxng</td>
+      <td>/*/*[3]/*[1]</td>
+      <td>4471</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_biblio/vicav_biblio_tei_zotero.xml#L4471" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_biblio/vicav_biblio_tei_zotero.xml</a></td>
+    </tr>
+    <tr>
+      <td>Prochazka_2025_1234</td>
+      <td>Invalid attribute type for element biblStruct</td>
+      <td>relaxng</td>
+      <td>/*</td>
+      <td>5430</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_biblio/vicav_biblio_tei_zotero.xml#L5430" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_biblio/vicav_biblio_tei_zotero.xml</a></td>
+    </tr>
+    <tr>
+      <td>StatisticalCenterofIran_2016_9552</td>
+      <td>Invalid attribute type for element biblStruct</td>
+      <td>relaxng</td>
+      <td>/*</td>
+      <td>6580</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_biblio/vicav_biblio_tei_zotero.xml#L6580" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_biblio/vicav_biblio_tei_zotero.xml</a></td>
+    </tr>
+    <tr>
+      <td>bettega_2022_2847</td>
+      <td>Element note has extra content: hi</td>
+      <td>relaxng</td>
+      <td>/*/*[3]/tei:hi</td>
+      <td>27513</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_biblio/vicav_biblio_tei_zotero.xml#L27513" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_biblio/vicav_biblio_tei_zotero.xml</a></td>
+    </tr>
+    <tr>
+      <td>comrie_2016_2647</td>
+      <td>Element note has extra content: hi</td>
+      <td>relaxng</td>
+      <td>/*/*[3]/tei:hi</td>
+      <td>40965</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_biblio/vicav_biblio_tei_zotero.xml#L40965" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_biblio/vicav_biblio_tei_zotero.xml</a></td>
+    </tr>
+    <tr>
+      <td>galley_1994_3768</td>
+      <td>Element note has extra content: p</td>
+      <td>relaxng</td>
+      <td>/*/*[2]/*</td>
+      <td>53274</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_biblio/vicav_biblio_tei_zotero.xml#L53274" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_biblio/vicav_biblio_tei_zotero.xml</a></td>
+    </tr>
+    <tr>
+      <td>guidotti_2019_7773</td>
+      <td>Element note has extra content: hi</td>
+      <td>relaxng</td>
+      <td>/*/*[3]/tei:hi[1]</td>
+      <td>57416</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_biblio/vicav_biblio_tei_zotero.xml#L57416" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_biblio/vicav_biblio_tei_zotero.xml</a></td>
+    </tr>
+    <tr>
+      <td>hassan_2020_3030</td>
+      <td>Element note has extra content: hi</td>
+      <td>relaxng</td>
+      <td>/*/*[3]/tei:hi[1]</td>
+      <td>61414</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_biblio/vicav_biblio_tei_zotero.xml#L61414" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_biblio/vicav_biblio_tei_zotero.xml</a></td>
+    </tr>
+    <tr>
+      <td>hassan_2021_6338</td>
+      <td>Element note has extra content: hi</td>
+      <td>relaxng</td>
+      <td>/*/*[3]/tei:hi</td>
+      <td>61473</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_biblio/vicav_biblio_tei_zotero.xml#L61473" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_biblio/vicav_biblio_tei_zotero.xml</a></td>
+    </tr>
+    <tr>
+      <td>mion_2014_6669</td>
+      <td>Invalid attribute type for element biblStruct</td>
+      <td>relaxng</td>
+      <td>/*</td>
+      <td>91323</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_biblio/vicav_biblio_tei_zotero.xml#L91323" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_biblio/vicav_biblio_tei_zotero.xml</a></td>
+    </tr>
+    <tr>
+      <td>souag_2016_0369</td>
+      <td>Invalid attribute type for element biblStruct</td>
+      <td>relaxng</td>
+      <td>/*</td>
+      <td>119159</td>
+      <td><a href="https://github.com/acdh-oeaw/vicav-library/blob/main/vicav_biblio/vicav_biblio_tei_zotero.xml#L119159" target="_blank">/home/runner/work/vicav-library/vicav-library/main/vicav_biblio/vicav_biblio_tei_zotero.xml</a></td>
+    </tr>
+  </tbody>
+</table>
+</div></details><script>
+function updateSummary(visibleRows, totalRows, visibleFiles, totalFiles) {
+    const el = document.getElementById("resultSummary");
+    if (!el) return;
+    if (visibleRows === totalRows) {
+        el.textContent = totalRows + " error" + (totalRows !== 1 ? "s" : "") + " in " + totalFiles + " file" + (totalFiles !== 1 ? "s" : "");
+    } else {
+        el.textContent = visibleRows + " of " + totalRows + " error" + (totalRows !== 1 ? "s" : "") + " in " + visibleFiles + " of " + totalFiles + " section" + (totalFiles !== 1 ? "s" : "");
+    }
+}
+
+function filterValidationTable() {
+    const input = document.getElementById("tableFilter");
+    const filter = input.value.toLowerCase();
+    const groups = document.querySelectorAll("details.file-group");
+    let totalRows = 0, visibleRows = 0, totalFiles = groups.length, visibleFiles = 0;
+
+    groups.forEach(function(group) {
+        const summaryTxt = group.querySelector("summary").textContent.toLowerCase();
+        const rows = group.querySelectorAll("tbody tr");
+        let anyRowVisible = false;
+        totalRows += rows.length;
+
+        rows.forEach(function(row) {
+            const txt = row.textContent || row.innerText;
+            const visible = !filter || txt.toLowerCase().indexOf(filter) > -1;
+            row.style.display = visible ? "" : "none";
+            if (visible) { anyRowVisible = true; visibleRows++; }
+        });
+
+        if (filter && summaryTxt.indexOf(filter) > -1) {
+            rows.forEach(function(row) {
+                if (row.style.display === "none") { row.style.display = ""; visibleRows++; }
+            });
+            anyRowVisible = true;
+        }
+
+        group.style.display = (!filter || anyRowVisible) ? "" : "none";
+        if (anyRowVisible) visibleFiles++;
+        if (filter && anyRowVisible) group.open = true;
+    });
+
+    updateSummary(visibleRows, totalRows, visibleFiles, totalFiles);
+}
+
+window.addEventListener("DOMContentLoaded", function() {
+    filterValidationTable();
+});
+</script>
+</body></html>
