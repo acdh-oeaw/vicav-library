@@ -1,4 +1,4 @@
-name: Validate corpus files
+name: Validate VICAV bibliography and geolist
 on:
   workflow_dispatch: {}
 jobs:
