@@ -34,119 +34,119 @@
         <body>
             <div>
                 <head>Documentation</head>
-                <p>                    
+                <p>
                     This document describes the schema of the VICAV geolocations list, which serves
                     as the central gazetteer of all datasets included in VICAV and is referenced
                     from other data types (e.g. profiles or corpus documents).
                 </p>
                 <div>
                     <head>Types of entries</head>
-                    <p>                        
+                    <p>
                         Each entry in the gazetteer represents either a specific location – e.g.
                         city, village, settlement etc. (encoded as
-                    <tag>place type="geo"</tag>                        
+                    <tag>place type="geo"</tag>
                         ) or a
                         broader region – e.g. a valley or district (encoded as
-                    <tag>                        
+                    <tag>
                         place
                         type="reg"
                     </tag>). A third category called "dialect group area" ...</p>
                 </div>
                 <div>
                     <head>Names</head>
-                    <p>Each entry MUST have exactly one "prefered label" encoded as <tag>                        
+                    <p>Each entry MUST have exactly one "prefered label" encoded as <tag>
                         placeName
                         type="prefLabel"
-                    </tag>                        
+                    </tag>
                         which is usually (however not always) an English
                         name for the place. As there can be exceptions to this rule of thumb, we do
                         not claim that this label is in a specific language and thus do not enforce
                         the presence of
-                    <att>xml:lang</att>                        
+                    <att>xml:lang</att>
                         . Usuall name is usually drawn from the
                         English version of Wikipedia.
                     </p>
-                    <p>                        
+                    <p>
                         Next to this, an entry can have one or more "alternative labels" where the
                         same logical applies.
                     </p>
-                    <p>                        
+                    <p>
                         In most cases, the gazetteer also provides place names in MSA in Arbaic
                         script (
-                    <tag>placeName xml:lang="ar" type="standard"</tag>                        
+                    <tag>placeName xml:lang="ar" type="standard"</tag>
                         ) and/or Latin
                         script (
-                    <tag>placeName xml:lang="ar-Latn" type="standard"</tag>                        
+                    <tag>placeName xml:lang="ar-Latn" type="standard"</tag>
                         ) next to the
                         local vernacular names (
-                    <att>type</att> with <val>local</val>                        
+                    <att>type</att> with <val>local</val>
                         ), also in
                         Latin or Arabic script.
                     </p>
                 </div>
                 <div>
                     <head>Geographic Hierarchy</head>
-                    <p>                        
+                    <p>
                         Both the geographic superordinate units as well as the geocoordinates of an
                         entry are encoded within a
-                    <gi>location</gi>                        
+                    <gi>location</gi>
                         element which is a direct child
                         of
                     <gi>place</gi>.</p>
-                    <p>Where needed, entries may contain exactly one <gi>region</gi>                        
+                    <p>Where needed, entries may contain exactly one <gi>region</gi>
                         element within
-                    <gi>location</gi>                        
+                    <gi>location</gi>
                         which represents any kind of a higher-level geographic
                         unit named in English. Usually, these regions are larger administrative
                         units (e.g. governorates), but since the gazetteer has to cover a wide range
                         of diverse countries and their specific administrative sub-structures, there
                         is no claim which kind of unit this should be. If needed, an optional
-                    <att>type</att>                        
+                    <att>type</att>
                         attribute with a suitable value can be used to make this
                         explicit, however this is neither enforced nor used. These regions are used
                         to structure place lists in the VICAV application, where needed. In case
                         this region is also represented by a "region entry" in the gazetteer, this
                         relation can be expressed using the
-                    <att>ref</att>                        
+                    <att>ref</att>
                         attribute pointing to the
                         respective entry via its
-                    <att>xml:id</att>. (NB: Both <att>type</att>                        
+                    <att>xml:id</att>. (NB: Both <att>type</att>
                         nor
                     <att>ref</att> are exploited by the VICAV application.)</p>
-                    <p>Each place entry must feature one <gi>country</gi>                        
+                    <p>Each place entry must feature one <gi>country</gi>
                         element within
-                    <gi>location</gi>                        
+                    <gi>location</gi>
                         which contains the English name of the sovereign state
                         the place is part of. The mandatory
-                    <att>key</att>                        
+                    <att>key</att>
                         attribute must provide a
                         two-letter code from
-                    <ref target="https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2">ISO 3166</ref>                        
+                    <ref target="https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2">ISO 3166</ref>
                         ("Codes for the representation of names of countries and their
                         subdivisions").
                     </p>
-                    <p>                        
+                    <p>
                         Two geo elements must provide geographical points both in decimal notation
                         (
-                    <tag>geo decls="#dd"</tag>) and degrees/minutes/seconds (<tag>                        
+                    <tag>geo decls="#dd"</tag>) and degrees/minutes/seconds (<tag>
                         geo
                         decls="#dms"
                     </tag>).</p>
                 </div>
                 <div>
                     <head>Location</head>
-                    <p>                        
+                    <p>
                         We try to provide coordinates for all places in the gazetteer. Due the
                         absence of data which would allow to draw clear isoglosses we also represent
                         regions as points which are chosen by the editors. Provided the different
-                    <att>type</att>                        
+                    <att>type</att>
                         attribute, such locations can be rendered differently on
                         a map, even if there are no shapes available.
                     </p>
                 </div>
                 <div>
                     <head>External Identifiers</head>
-                    <p>                        
+                    <p>
                         Currently, the VICAV gazetteer only provides identifiers from the "geonames"
                         database (
                     <tag>idno type="geoNames"</tag>).</p>
@@ -175,7 +175,7 @@
                         <constraintSpec ident="place-prefLabel-exactly-one" scheme="schematron">
                             <constraint>
                                 <sch:rule xmlns:sch="http://purl.oclc.org/dsdl/schematron" xmlns:tei="http://www.tei-c.org/ns/1.0" context="tei:place">
-                                    <sch:assert test="count(tei:placeName[@type='prefLabel']) = 1">                                        
+                                    <sch:assert test="count(tei:placeName[@type='prefLabel']) = 1">
                                         Each place must contain exactly one placeName type="prefLabel".
                                     </sch:assert>
                                 </sch:rule>
@@ -223,6 +223,21 @@
                         </content>
                     </elementSpec>
                     <elementSpec ident="geo" mode="change">
+                        <constraintSpec ident="geo-dd-format" scheme="schematron">
+                            <constraint>
+                                <sch:rule xmlns:sch="http://purl.oclc.org/dsdl/schematron" xmlns:tei="http://www.tei-c.org/ns/1.0" context="tei:geo[@decls='#dd']">
+                                    <sch:assert test="matches(., '^-?[0-9]+(\.[0-9]+)? -?[0-9]+(\.[0-9]+)?$')">
+                                        The value of geo[@decls='#dd'] must be two decimal numbers (latitude and longitude) separated by a single space, with no leading or trailing whitespace.
+                                    </sch:assert>
+                                    <sch:assert test="not(matches(., '^-?[0-9]+(\.[0-9]+)? -?[0-9]+(\.[0-9]+)?$')) or (number(tokenize(., ' ')[1]) &gt;= -90 and number(tokenize(., ' ')[1]) &lt;= 90)">
+                                        The latitude (first value) must be between -90 and 90.
+                                    </sch:assert>
+                                    <sch:assert test="not(matches(., '^-?[0-9]+(\.[0-9]+)? -?[0-9]+(\.[0-9]+)?$')) or (number(tokenize(., ' ')[2]) &gt;= -180 and number(tokenize(., ' ')[2]) &lt;= 180)">
+                                        The longitude (second value) must be between -180 and 180.
+                                    </sch:assert>
+                                </sch:rule>
+                            </constraint>
+                        </constraintSpec>
                         <attList>
                             <attDef ident="decls" mode="replace" usage="req">
                                 <valList type="closed">
