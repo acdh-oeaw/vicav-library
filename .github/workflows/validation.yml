@@ -1,5 +1,6 @@
 name: Validate VICAV bibliography and geolist
 on:
+  push: {}
   workflow_dispatch: {}
 jobs:
   build:
