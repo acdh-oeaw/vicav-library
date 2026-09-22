@@ -16,7 +16,7 @@
                 </author>
             </titleStmt>
             <publicationStmt>
-                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <publisher>Austrian Centre for Digital Humanities</publisher>
                 <date>2025</date>
                 <availability>
                     <licence>CC BY 4.0</licence>
@@ -34,10 +34,10 @@
         <body>
             <div>
                 <head>Documentation</head>
-                <p>                    
+                <p>
                     This document describes the schema of the VICAV bibliography.
                 </p>
-                </div>
+            </div>
             <div>
                 <head>Formal Specification</head>
                 <schemaSpec ident="vicav-bibliography" start="TEI">
@@ -45,21 +45,20 @@
                     <moduleRef key="core" include="p note title author respStmt resp name desc editor date biblStruct listBibl monogr imprint analytic ref series publisher pubPlace biblScope meeting" />
                     <moduleRef key="textstructure" include="TEI text body" />
                     <moduleRef key="tei" />
-                    <moduleRef key="namesdates" include="persName forename surname placeName"></moduleRef>    
-                    <classRef key="att.global.linking"/>
-                    
+                    <moduleRef key="namesdates" include="persName forename surname placeName" />
+                    <classRef key="att.global.linking" />
                     <elementSpec ident="biblStruct" mode="change">
                         <attList>
                             <attDef ident="type" mode="change" usage="opt">
                                 <valList type="closed" mode="replace">
-                                    <valItem ident="journalArticle"></valItem>
-                                    <valItem ident="encyclopediaArticle"></valItem>
-                                    <valItem ident="book"></valItem>
-                                    <valItem ident="bookSection"></valItem>
-                                    <valItem ident="thesis"></valItem>
-                                    <valItem ident="conferencePaper"></valItem>
-                                    <valItem ident="presentation"></valItem>
-                                    <valItem ident="manuscript"></valItem>
+                                    <valItem ident="journalArticle" />
+                                    <valItem ident="encyclopediaArticle" />
+                                    <valItem ident="book" />
+                                    <valItem ident="bookSection" />
+                                    <valItem ident="thesis" />
+                                    <valItem ident="conferencePaper" />
+                                    <valItem ident="presentation" />
+                                    <valItem ident="manuscript" />
                                 </valList>
                             </attDef>
                         </attList>
