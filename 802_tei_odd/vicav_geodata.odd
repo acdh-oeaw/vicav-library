@@ -218,7 +218,8 @@
                             <sequence>
                                 <elementRef key="geo" minOccurs="2" maxOccurs="2" />
                                 <elementRef key="region" minOccurs="0" maxOccurs="unbounded" />
-                                <elementRef key="country" minOccurs="1" maxOccurs="1" />
+                                <!-- WATCHME country optional (for now) because of regions -->
+                                <elementRef key="country" minOccurs="0" maxOccurs="1" />
                             </sequence>
                         </content>
                     </elementSpec>
