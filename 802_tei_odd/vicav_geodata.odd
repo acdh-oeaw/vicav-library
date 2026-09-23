@@ -113,11 +113,11 @@
                     <att>xml:id</att>. (NB: Both <att>type</att>
                         nor
                     <att>ref</att> are exploited by the VICAV application.)</p>
-                    <p>Each place entry must feature one <gi>country</gi>
+                    <p>Each place entry can feature one <gi>country</gi>
                         element within
                     <gi>location</gi>
                         which contains the English name of the sovereign state
-                        the place is part of. The mandatory
+                        the place is part of. If present, the mandatory
                     <att>key</att>
                         attribute must provide a
                         two-letter code from
@@ -218,7 +218,7 @@
                             <sequence>
                                 <elementRef key="geo" minOccurs="2" maxOccurs="2" />
                                 <elementRef key="region" minOccurs="0" maxOccurs="unbounded" />
-                                <!-- WATCHME country optional (for now) because of regions -->
+                                <!-- WATCHME made country optional (for now) because of regions -->
                                 <elementRef key="country" minOccurs="0" maxOccurs="1" />
                             </sequence>
                         </content>
