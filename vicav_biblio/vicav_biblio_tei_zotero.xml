@@ -8,7 +8,7 @@
         <p>unpublished</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-09-23 09:59:12</p>
+        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-09-23 10:28:55</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -494,7 +494,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:broadcasting" type="subject" subtype="concept">broadcasting</ref>
           <ref target="vt:genderaspects" type="subject" subtype="concept">gender aspects</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
@@ -1621,7 +1621,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:faiyum" type="subject" subtype="geographic">Faiyum</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
@@ -1645,7 +1645,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:faiyum" type="subject" subtype="geographic">Faiyum</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
@@ -1672,7 +1672,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:sinai" type="subject" subtype="geographic">Sinai</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:languageofatribe" type="subject" subtype="concept">language of a tribe</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -2082,7 +2082,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:semantics" type="subject" subtype="concept">semantics</ref>
@@ -2366,7 +2366,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
             </imprint>
           </monogr>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:jewishdialects" type="subject" subtype="concept">Jewish dialects</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -5029,7 +5029,7 @@ variation based on the speaker’s age,gender and origin. Moreover, comparative 
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -6547,7 +6547,7 @@ Keywords: Dialect levelling, Tunisian Arabic dialects, Bedouin-type dialects</no
           </monogr>
           <ref target="geo:siwa" type="subject" subtype="geographic">Siwa</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
@@ -9118,7 +9118,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </monogr>
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:anthropology" type="subject" subtype="concept">anthropology</ref>
@@ -9166,7 +9166,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </monogr>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:frenchlanguage" type="subject" subtype="concept">french language</ref>
@@ -9195,7 +9195,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </monogr>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="abu_haidar_1995_0000" corresp="http://zotero.org/groups/2165756/items/VEPLT7J5" n="Abu-Haidar1995b">
@@ -9770,7 +9770,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </note>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
@@ -11864,7 +11864,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -13660,7 +13660,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2006</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -13733,7 +13733,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <note>
             <p>Introduction -- Arabic varieties and diglossia -- Methodological considerations -- Language attitudes -- Social identity -- Language variation and change -- Codeswitching -- Digital media and language use -- Heritage Arabic speakers: a different paradigm -- General conclusion</p>
           </note>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -13754,7 +13754,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2011</date>
             </imprint>
           </monogr>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
           <note type="dataCollection">
@@ -13783,7 +13783,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="alcala_1928_3309" corresp="http://zotero.org/groups/2165756/items/ZHVHBESR" n="Alcalá1928b">
@@ -15444,7 +15444,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:sicily" type="subject" subtype="geographic">Sicily</ref>
-          <ref target="vt:graeco-arabic" type="subject" subtype="concept">graeco-arabic</ref>
+          <ref target="vt:graeco_arabic" type="subject" subtype="concept">graeco-arabic</ref>
           <ref target="vt:historicaldialectology" type="subject" subtype="concept">historical dialectology</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="ambros_1970-1971_3006" corresp="http://zotero.org/groups/2165756/items/B8E9WWHP" n="Ambros1970">
@@ -16187,7 +16187,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2018</date>
             </imprint>
           </monogr>
-          <ref target="vt:non-arabic" type="subject" subtype="concept">non-Arabic</ref>
+          <ref target="vt:non_arabic" type="subject" subtype="concept">non-Arabic</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="anonby_2018_6281" corresp="http://zotero.org/groups/2165756/items/MJUDSNZ7" n="Anonby2018b">
           <monogr>
@@ -16214,7 +16214,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             <p>non-Semitic language</p>
           </note>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
-          <ref target="vt:non-arabic" type="subject" subtype="concept">non-Arabic</ref>
+          <ref target="vt:non_arabic" type="subject" subtype="concept">non-Arabic</ref>
           <ref target="vt:orthography" type="subject" subtype="concept">orthography</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="anonby_2022_3876" corresp="http://zotero.org/groups/2165756/items/C4LY6PBY" n="Anonby2022">
@@ -17939,7 +17939,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:non-arabic" type="subject" subtype="concept">non-Arabic</ref>
+          <ref target="vt:non_arabic" type="subject" subtype="concept">non-Arabic</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="asiri_2008_1223" corresp="http://zotero.org/groups/2165756/items/LWW92GB6" n="Asiri2008">
           <analytic>
@@ -18081,7 +18081,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </editor>
           </series>
           <ref target="vt:bilingualism" type="subject" subtype="concept">bilingualism</ref>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="attia_1969_7499" corresp="http://zotero.org/groups/2165756/items/5STLPHCU" n="Attia1969">
@@ -18363,7 +18363,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </series>
           <ref target="geo:chad" type="subject" subtype="geographic">Chad</ref>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
@@ -19173,7 +19173,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -19382,7 +19382,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
@@ -20314,7 +20314,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -20379,7 +20379,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="barontini_ziamari_2016_0000" corresp="http://zotero.org/groups/2165756/items/9EEXUUTX" n="Barontini2016">
@@ -20666,7 +20666,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="bassiouney_2018_5948" corresp="http://zotero.org/groups/2165756/items/4J5JDUZN" n="Bassiouney2018d">
@@ -20716,7 +20716,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:ethnography" type="subject" subtype="concept">ethnography</ref>
           <ref target="vt:poetry" type="subject" subtype="concept">poetry</ref>
         </biblStruct>
@@ -21382,7 +21382,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="behnstedt_1979_2897" corresp="http://zotero.org/groups/2165756/items/LXZJDEMC" n="Behnstedt1979">
@@ -21404,7 +21404,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="behnstedt_1980_0000" corresp="http://zotero.org/groups/2165756/items/TJ6S6VCQ" n="Behnstedt1980">
@@ -22704,7 +22704,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="behnstedt_2011-2014_3010" corresp="http://zotero.org/groups/2165756/items/CG324JCW" n="Behnstedt2011a">
@@ -24532,7 +24532,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -25564,7 +25564,7 @@ KEYWORDS: Tunisian ArabicArabic dialectologyhistory of linguisticshistorical sou
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
@@ -26765,7 +26765,7 @@ KEYWORDS: Tunisian ArabicArabic dialectologyhistory of linguisticshistorical sou
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:folklore" type="subject" subtype="concept">folklore</ref>
@@ -28178,7 +28178,7 @@ Kervan. International Journal of African and Asian Studies, V. 26 N. 1 (2022): K
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -28200,7 +28200,7 @@ Kervan. International Journal of African and Asian Studies, V. 26 N. 1 (2022): K
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
@@ -28890,7 +28890,7 @@ North Africa and classify them according to their origin (the denotative meaning
           </monogr>
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
@@ -29271,7 +29271,7 @@ North Africa and classify them according to their origin (the denotative meaning
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="vt:christiandialects" type="subject" subtype="concept">Christian dialects</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
@@ -31442,7 +31442,7 @@ North Africa and classify them according to their origin (the denotative meaning
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -31480,7 +31480,7 @@ North Africa and classify them according to their origin (the denotative meaning
           </note>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -31510,7 +31510,7 @@ North Africa and classify them according to their origin (the denotative meaning
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -31546,7 +31546,7 @@ North Africa and classify them according to their origin (the denotative meaning
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -31592,7 +31592,7 @@ North Africa and classify them according to their origin (the denotative meaning
             <p>UBW AR V 35/4</p>
           </note>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -33966,7 +33966,7 @@ North Africa and classify them according to their origin (the denotative meaning
           <ref target="geo:casablanca" type="subject" subtype="geographic">Casablanca</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:bilingualism" type="subject" subtype="concept">bilingualism</ref>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -34067,7 +34067,7 @@ North Africa and classify them according to their origin (the denotative meaning
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:upper_egypt" type="subject" subtype="geographic">Upper Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:ethnography" type="subject" subtype="concept">ethnography</ref>
           <ref target="vt:jargon" type="subject" subtype="concept">jargon</ref>
           <ref target="vt:music" type="subject" subtype="concept">music</ref>
@@ -35722,7 +35722,7 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>2001</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -35871,7 +35871,7 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>2003</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -38747,7 +38747,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
@@ -39789,7 +39789,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -42680,7 +42680,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             </imprint>
           </monogr>
           <ref target="geo:sicily" type="subject" subtype="geographic">Sicily</ref>
-          <ref target="vt:graeco-arabic" type="subject" subtype="concept">graeco-arabic</ref>
+          <ref target="vt:graeco_arabic" type="subject" subtype="concept">graeco-arabic</ref>
           <ref target="vt:historicaldialectology" type="subject" subtype="concept">historical dialectology</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="cutayar_2001_2220" corresp="http://zotero.org/groups/2165756/items/87657NHB" n="Cutayar2001">
@@ -43781,7 +43781,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>2013</date>
             </imprint>
           </monogr>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="davies_2018_8766" corresp="http://zotero.org/groups/2165756/items/2N26JLH6" n="Davies2018">
@@ -44289,7 +44289,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:sinai" type="subject" subtype="geographic">Sinai</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -45164,7 +45164,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <ref target="geo:khartoum" type="subject" subtype="geographic">Khartoum</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -45264,7 +45264,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             </imprint>
           </monogr>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="dickins_2011_9396" corresp="http://zotero.org/groups/2165756/items/BQ3CB9K6" n="Dickins2011b">
@@ -45319,7 +45319,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <ref target="geo:khartoum" type="subject" subtype="geographic">Khartoum</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
@@ -45876,7 +45876,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:manuscripts" type="subject" subtype="concept">manuscripts</ref>
@@ -46222,7 +46222,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="vt:arabworldgeneral" type="subject" subtype="concept">Arab World general</ref>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
           <ref target="vt:eastafrica" type="subject" subtype="concept">East Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
         </biblStruct>
@@ -47404,7 +47404,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:sedentarydialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:urbandialect" type="subject" subtype="concept">urban dialect</ref>
@@ -47428,7 +47428,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:sedentarydialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:semantics" type="subject" subtype="concept">semantics</ref>
@@ -47453,7 +47453,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:sedentarydialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
@@ -47513,7 +47513,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:ethnography" type="subject" subtype="concept">ethnography</ref>
           <ref target="vt:phraseology" type="subject" subtype="concept">phraseology</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
@@ -48165,7 +48165,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -48257,7 +48257,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:teachingmaterials" type="subject" subtype="concept">teaching materials</ref>
           <ref target="vt:textbook" type="subject" subtype="concept">textbook</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -48282,7 +48282,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:urbandialect" type="subject" subtype="concept">urban dialect</ref>
         </biblStruct>
@@ -49889,7 +49889,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </series>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="farwaneh_2009_9796" corresp="http://zotero.org/groups/2165756/items/BJS6ZZ4R" n="Farwaneh2009">
@@ -51128,7 +51128,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -52841,7 +52841,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:textbook" type="subject" subtype="concept">textbook</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="furman_2016_2784" corresp="http://zotero.org/groups/2165756/items/E2DWW3WP" n="Furman2016">
@@ -54138,7 +54138,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <ref target="geo:lebanon" type="subject" subtype="geographic">Lebanon</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="germanos_2019_8419" corresp="http://zotero.org/groups/2165756/items/M2Z8DDF7" n="Germanos2019">
@@ -55929,7 +55929,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:khartoum" type="subject" subtype="geographic">Khartoum</ref>
           <ref target="geo:jabal_awliya" type="subject" subtype="geographic">Jabal Awliya</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:jargon" type="subject" subtype="concept">jargon</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
         </biblStruct>
@@ -55953,7 +55953,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:khartoum" type="subject" subtype="geographic">Khartoum</ref>
           <ref target="geo:jabal_awliya" type="subject" subtype="geographic">Jabal Awliya</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:etymology" type="subject" subtype="concept">etymology</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:jargon" type="subject" subtype="concept">jargon</ref>
@@ -57134,7 +57134,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="geo:tunisia" type="subject" subtype="geographic">Tunisia</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:ethnography" type="subject" subtype="concept">ethnography</ref>
           <ref target="vt:music" type="subject" subtype="concept">music</ref>
@@ -58900,7 +58900,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:genderaspects" type="subject" subtype="concept">gender aspects</ref>
           <ref target="vt:sedentarydialect" type="subject" subtype="concept">sedentary dialect</ref>
@@ -59951,7 +59951,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             </imprint>
           </monogr>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -61026,7 +61026,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </series>
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="haslé_2020_2000" corresp="http://zotero.org/groups/2165756/items/7BU9GRUD" n="Haslé2020">
@@ -61134,7 +61134,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -63545,7 +63545,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:butana" type="subject" subtype="geographic">Butana</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:ethnography" type="subject" subtype="concept">ethnography</ref>
@@ -63569,7 +63569,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           </monogr>
           <ref target="geo:khartoum" type="subject" subtype="geographic">Khartoum</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="hillelson_2011_2659" corresp="http://zotero.org/groups/2165756/items/LXJVLQUI" n="Hillelson2011">
@@ -63587,7 +63587,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           </monogr>
           <ref target="geo:khartoum" type="subject" subtype="geographic">Khartoum</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:glossary" type="subject" subtype="concept">glossary</ref>
           <ref target="vt:oralnarratives" type="subject" subtype="concept">oral narratives</ref>
@@ -66117,7 +66117,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           </monogr>
           <ref target="geo:butana" type="subject" subtype="geographic">Butana</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:sudan" type="subject" subtype="concept">Sudan</ref>
           <ref target="vt:oralliterature" type="subject" subtype="concept">oral literature</ref>
           <ref target="vt:oralnarratives" type="subject" subtype="concept">oral narratives</ref>
@@ -66141,7 +66141,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           </monogr>
           <ref target="geo:butana" type="subject" subtype="geographic">Butana</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:ethnography" type="subject" subtype="concept">ethnography</ref>
           <ref target="vt:oralnarratives" type="subject" subtype="concept">oral narratives</ref>
           <ref target="vt:oralpoetry" type="subject" subtype="concept">oral poetry</ref>
@@ -66167,7 +66167,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           </monogr>
           <ref target="geo:butana" type="subject" subtype="geographic">Butana</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:ethnography" type="subject" subtype="concept">ethnography</ref>
           <ref target="vt:folklore" type="subject" subtype="concept">folklore</ref>
           <ref target="vt:oralliterature" type="subject" subtype="concept">oral literature</ref>
@@ -73928,7 +73928,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           </monogr>
           <ref target="geo:lebanon" type="subject" subtype="geographic">Lebanon</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
@@ -74065,7 +74065,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:chad" type="subject" subtype="geographic">Chad</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:sudan" type="subject" subtype="concept">Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -76740,7 +76740,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
             </imprint>
           </monogr>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
@@ -77567,7 +77567,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>1997</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -77912,7 +77912,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>1996</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -78588,7 +78588,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
             <title level="s">Livres de l’IREMAM</title>
           </series>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -82446,7 +82446,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
           <ref target="vt:phraseology" type="subject" subtype="concept">phraseology</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -82627,7 +82627,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:customs_etiquette" type="subject" subtype="concept">customs &amp; etiquette</ref>
           <ref target="vt:ethnographicrecord" type="subject" subtype="concept">ethnographic record</ref>
           <ref target="vt:folklore" type="subject" subtype="concept">folklore</ref>
@@ -82649,7 +82649,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:ethnographicrecord" type="subject" subtype="concept">ethnographic record</ref>
           <ref target="vt:folklore" type="subject" subtype="concept">folklore</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -82704,7 +82704,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>1984</date>
             </imprint>
           </monogr>
-          <ref target="vt:__djibouti_kenia..." type="subject" subtype="concept">//Djibouti, Kenia ...</ref>
+          <ref target="vt:__djibouti_kenia___" type="subject" subtype="concept">//Djibouti, Kenia ...</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:eastafrica" type="subject" subtype="concept">East Africa</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -82727,7 +82727,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>1994</date>
             </imprint>
           </monogr>
-          <ref target="vt:__djibouti_kenia..." type="subject" subtype="concept">//Djibouti, Kenia ...</ref>
+          <ref target="vt:__djibouti_kenia___" type="subject" subtype="concept">//Djibouti, Kenia ...</ref>
           <ref target="vt:eastafrica" type="subject" subtype="concept">East Africa</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -83521,7 +83521,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           </monogr>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
           <ref target="vt:eastafrica" type="subject" subtype="concept">East Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
@@ -83641,7 +83641,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           </monogr>
           <ref target="geo:chad" type="subject" subtype="geographic">Chad</ref>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="luffin_2013_3195" corresp="http://zotero.org/groups/2165756/items/ESAFBMK2" n="Luffin2013a">
@@ -85250,7 +85250,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           </monogr>
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -85366,7 +85366,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           </monogr>
           <ref target="geo:chad" type="subject" subtype="geographic">Chad</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
@@ -85402,7 +85402,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           </monogr>
           <ref target="geo:kadugli" type="subject" subtype="geographic">Kaduqli</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:urbandialect" type="subject" subtype="concept">urban dialect</ref>
           <note type="dataCollection">
@@ -85592,7 +85592,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
             </imprint>
           </monogr>
           <ref target="geo:south_sudan" type="subject" subtype="geographic">South Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:ethnography" type="subject" subtype="concept">ethnography</ref>
@@ -85947,7 +85947,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
@@ -86354,7 +86354,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
             </imprint>
           </monogr>
           <ref target="vt:arabworldgeneral" type="subject" subtype="concept">Arab World general</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <note type="tags">
@@ -87126,7 +87126,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="geo:tunisia" type="subject" subtype="geographic">Tunisia</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -87155,7 +87155,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="geo:tunisia" type="subject" subtype="geographic">Tunisia</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -88073,7 +88073,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           </monogr>
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
         </biblStruct>
@@ -88276,7 +88276,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -88880,7 +88880,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>1991</date>
             </imprint>
           </monogr>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
         </biblStruct>
         <biblStruct type="thesis" xml:id="melhim_1992_3218" corresp="http://zotero.org/groups/2165756/items/EIZMDQR9" n="Abu-Melhim1992">
@@ -88894,7 +88894,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>1992</date>
             </imprint>
           </monogr>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
         </biblStruct>
@@ -88958,7 +88958,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>1996</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:anthropology" type="subject" subtype="concept">anthropology</ref>
@@ -90307,7 +90307,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
           <ref target="geo:south_sudan" type="subject" subtype="geographic">South Sudan</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -90641,7 +90641,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           </monogr>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
           <ref target="vt:eastafrica" type="subject" subtype="concept">East Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
@@ -91767,7 +91767,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="mitchell_1973_0000" corresp="http://zotero.org/groups/2165756/items/3TV4S292" n="Mitchell1973">
@@ -91809,7 +91809,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
@@ -92429,7 +92429,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           </monogr>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -94289,7 +94289,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
             </imprint>
           </monogr>
           <ref target="geo:chad" type="subject" subtype="geographic">Chad</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
@@ -94403,7 +94403,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
             </imprint>
           </monogr>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
@@ -94546,7 +94546,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
             <biblScope unit="volume">57</biblScope>
           </series>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:newspaper_journalism" type="subject" subtype="concept">newspaper &amp; journalism</ref>
@@ -95227,7 +95227,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="geo:juba" type="subject" subtype="geographic">Juba</ref>
           <ref target="geo:south_sudan" type="subject" subtype="geographic">South Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:sudan" type="subject" subtype="concept">Sudan</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
@@ -95592,7 +95592,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="geo:chad" type="subject" subtype="geographic">Chad</ref>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
@@ -95725,7 +95725,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="naïm_2003_1439" corresp="http://zotero.org/groups/2165756/items/94YGTTUX" n="Naïm2003">
@@ -96103,7 +96103,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             </imprint>
           </monogr>
           <ref target="geo:south_sudan" type="subject" subtype="geographic">South Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -96551,7 +96551,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>1991</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -96581,7 +96581,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
@@ -97077,7 +97077,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="ossama_2015_4977" corresp="http://zotero.org/groups/2165756/items/IAXJKEQD" n="Ossama2015">
@@ -98563,7 +98563,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
           <ref target="vt:eastafrica" type="subject" subtype="concept">East Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
         </biblStruct>
@@ -98633,7 +98633,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
           <ref target="vt:eastafrica" type="subject" subtype="concept">East Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
         </biblStruct>
@@ -98654,7 +98654,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             </imprint>
           </monogr>
           <ref target="vt:eastafrica" type="subject" subtype="concept">East Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -98713,7 +98713,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             </imprint>
           </monogr>
           <ref target="vt:eastafrica" type="subject" subtype="concept">East Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
         </biblStruct>
@@ -98781,7 +98781,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="geo:nigeria" type="subject" subtype="geographic">Nigeria</ref>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
         </biblStruct>
@@ -98803,7 +98803,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             </imprint>
           </monogr>
           <ref target="geo:nigeria" type="subject" subtype="geographic">Nigeria</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:languageofatribe" type="subject" subtype="concept">language of a tribe</ref>
         </biblStruct>
@@ -98849,7 +98849,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:maiduguri" type="subject" subtype="geographic">Maiduguri</ref>
           <ref target="geo:nigeria" type="subject" subtype="geographic">Nigeria</ref>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
@@ -98912,7 +98912,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="geo:nigeria" type="subject" subtype="geographic">Nigeria</ref>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
           <ref target="vt:loanwords" type="subject" subtype="concept">loanwords</ref>
@@ -98936,7 +98936,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="vt:arabworldgeneral" type="subject" subtype="concept">Arab World general</ref>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
           <ref target="vt:eastafrica" type="subject" subtype="concept">East Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
@@ -99081,7 +99081,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="geo:chad" type="subject" subtype="geographic">Chad</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <note type="dataCollection">
@@ -99141,7 +99141,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <series>
             <title level="s">Routledge Arabic Linguistics Series</title>
           </series>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -101524,7 +101524,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="geo:khartoum" type="subject" subtype="geographic">Khartoum</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:teachingmaterials" type="subject" subtype="concept">teaching materials</ref>
           <ref target="vt:textbook" type="subject" subtype="concept">textbook</ref>
         </biblStruct>
@@ -105076,7 +105076,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="geo:khartoum" type="subject" subtype="geographic">Khartoum</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="qasimi_1960_6266" corresp="http://zotero.org/groups/2165756/items/23FAAMJD" n="Qasimi1960">
@@ -107702,7 +107702,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:phraseology" type="subject" subtype="concept">phraseology</ref>
           <ref target="vt:proverbs" type="subject" subtype="concept">proverbs</ref>
         </biblStruct>
@@ -107747,7 +107747,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <title level="s">Livres de l’IREMAM</title>
           </series>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:genderaspects" type="subject" subtype="concept">gender aspects</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
@@ -107862,7 +107862,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
         </biblStruct>
@@ -107965,7 +107965,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="rosenbaum_2002_5499" corresp="http://zotero.org/groups/2165756/items/GZ3YZQZT" n="Rosenbaum2002b">
@@ -108051,7 +108051,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:ethnography" type="subject" subtype="concept">ethnography</ref>
           <ref target="vt:phraseology" type="subject" subtype="concept">phraseology</ref>
@@ -109941,7 +109941,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:chad" type="subject" subtype="geographic">Chad</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
@@ -110439,7 +110439,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>1980</date>
             </imprint>
           </monogr>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -110588,7 +110588,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -110663,7 +110663,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>2002</date>
             </imprint>
           </monogr>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -110924,7 +110924,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -110947,7 +110947,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
@@ -111031,7 +111031,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -111253,7 +111253,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
         </biblStruct>
         <biblStruct type="conferencePaper" xml:id="ruiter_2009_5343" corresp="http://zotero.org/groups/2165756/items/B5XP66C2" n="Ruiter2009a">
@@ -111281,7 +111281,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <p>UBW AR V 799.2</p>
           </note>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
         </biblStruct>
@@ -112453,7 +112453,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -113779,7 +113779,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <title level="s">Livres de l’IREMAM</title>
           </series>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:proverbs" type="subject" subtype="concept">proverbs</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
@@ -114488,7 +114488,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:teachingmaterials" type="subject" subtype="concept">teaching materials</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="schulthies_2017_8442" corresp="http://zotero.org/groups/2165756/items/4IPWNSKG" n="Schulthies2017">
@@ -115274,7 +115274,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:siwa" type="subject" subtype="geographic">Siwa</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:berberlanguages" type="subject" subtype="concept">berber languages</ref>
           <ref target="vt:ethnicminorities" type="subject" subtype="concept">ethnic minorities</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
@@ -115320,7 +115320,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <title level="s">Livres de l’IREMAM</title>
           </series>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:berberlanguages" type="subject" subtype="concept">berber languages</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
@@ -117282,7 +117282,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:djibouti" type="subject" subtype="geographic">Djibouti</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="vt:__djibouti_kenia..." type="subject" subtype="concept">//Djibouti, Kenia ...</ref>
+          <ref target="vt:__djibouti_kenia___" type="subject" subtype="concept">//Djibouti, Kenia ...</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <note type="dataCollection">
             <date type="dataCollection" cert="low" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
@@ -119083,7 +119083,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
         </biblStruct>
@@ -123315,7 +123315,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>1984</date>
             </imprint>
           </monogr>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -123570,7 +123570,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:khartoum" type="subject" subtype="geographic">Khartoum</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="tamm_1997_3710" corresp="http://zotero.org/groups/2165756/items/4BECWJM9" n="Koptjevskaja-Tamm1997">
@@ -123759,7 +123759,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="taylan_2017_6569" corresp="http://zotero.org/groups/2165756/items/T6DFZ7TK" n="Taylan2017">
@@ -125756,7 +125756,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <title level="s">Livres de l’IREMAM</title>
           </series>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -126763,7 +126763,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </series>
           <ref target="vt:centralafrica" type="subject" subtype="concept">Central Africa</ref>
           <ref target="vt:eastafrica" type="subject" subtype="concept">East Africa</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:creole" type="subject" subtype="concept">creole</ref>
         </biblStruct>
@@ -127234,7 +127234,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <note>
             <p>UBW AR Z 315/4</p>
           </note>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabworldgeneral" type="subject" subtype="concept">Arab World general</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
@@ -127589,7 +127589,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -127652,7 +127652,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:ceuta" type="subject" subtype="geographic">Ceuta</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
@@ -128608,7 +128608,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <p>UBW: AR Z 73/55</p>
           </note>
           <ref target="geo:senegal" type="subject" subtype="geographic">Senegal</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -130304,7 +130304,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:eritrea" type="subject" subtype="geographic">Eritrea</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="weninger_2011_3109" corresp="http://zotero.org/groups/2165756/items/GLSKPI6M" n="Weninger2011b">
           <monogr>
@@ -130845,7 +130845,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="westermarck_1907_4140" corresp="http://zotero.org/groups/2165756/items/A7VYXERN" n="Westermarck1907">
@@ -131330,7 +131330,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:andalusia" type="subject" subtype="geographic">Andalusia</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
@@ -131731,7 +131731,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="woidich_1974_0000" corresp="http://zotero.org/groups/2165756/items/D8IKUPPC" n="Woidich1974">
@@ -131797,7 +131797,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="woidich_1979_0000" corresp="http://zotero.org/groups/2165756/items/FTI6A9GV" n="Woidich1979">
           <analytic>
@@ -131885,7 +131885,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="woidich_1980_2892" corresp="http://zotero.org/groups/2165756/items/ZR6HIC63" n="Woidich1980f">
           <analytic>
@@ -131907,7 +131907,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:sharqiyya" type="subject" subtype="geographic">Šarqiyya</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:glossary" type="subject" subtype="concept">glossary</ref>
@@ -132137,7 +132137,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:sedentarydialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
           <ref target="vt:urbandialect" type="subject" subtype="concept">urban dialect</ref>
@@ -132520,7 +132520,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </series>
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:grammar" type="subject" subtype="concept">grammar</ref>
           <ref target="vt:sedentarydialect" type="subject" subtype="concept">sedentary dialect</ref>
@@ -133019,7 +133019,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:omdurman" type="subject" subtype="geographic">Omdurman</ref>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:folklore" type="subject" subtype="concept">folklore</ref>
           <ref target="vt:oralnarratives" type="subject" subtype="concept">oral narratives</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -133805,7 +133805,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
           <ref target="vt:sedentarydialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:urbandialect" type="subject" subtype="concept">urban dialect</ref>
@@ -134046,7 +134046,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </note>
           <ref target="geo:fez" type="subject" subtype="geographic">Fez</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:sedentarydialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:semantics" type="subject" subtype="concept">semantics</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -135739,7 +135739,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>1966</date>
             </imprint>
           </monogr>
-          <ref target="vt:egypt-sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
+          <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -136378,7 +136378,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <p>Kat.Nr.: 81 Betreuer: Miloud Taifi</p>
           </note>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -136407,7 +136407,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <p>??????</p>
           </note>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e.g.europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
+          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -136538,7 +136538,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </series>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -136834,7 +136834,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:amman" type="subject" subtype="geographic">Amman</ref>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
-          <ref target="vt:code-switching" type="subject" subtype="concept">code-switching</ref>
+          <ref target="vt:code_switching" type="subject" subtype="concept">code-switching</ref>
           <ref target="vt:jargon" type="subject" subtype="concept">jargon</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
           <note type="abstract">This study aims to examine the use of English loanwords inflected with Arabic morphemes by young people in Amman, Jordan. It adopts a quantitative corpus-based approach supported by qualitative data. We collected data from young Facebook male and female users who come from families with different socio-economic status, and we conducted semi-structured interviews with 60 students at the University of Jordan to get more insight into the attitudes of young individuals in Jordan who use these English loanwords, and to account for the reasons that drive these individuals to use them. Data analysis shows that the participants’ gender and socioeconomic status are major factors that affect the use of these loanwords. Data analysis also reveals that these English loanwords could be used as a form of slang by a certain group of young individuals in Amman to claim a specific social identity and an in-group membership that distinguishes them from another group of young individuals who do not use these words. We argued that a number of symbolic values could be attached to the use of English loanwords inflected with Arabic morphemes by that group and analysed the reasons behind such linguistic behaviour.</note>
