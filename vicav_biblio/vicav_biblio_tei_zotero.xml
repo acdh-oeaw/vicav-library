@@ -8,7 +8,7 @@
         <p>unpublished</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-09-23 10:28:55</p>
+        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-09-24 15:00:04</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -519,7 +519,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="geo:faiyum" type="subject" subtype="geographic">Faiyum</ref>
+          <ref target="geo:faiyum" type="subject" subtype="geographic">Fayyum</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
@@ -542,7 +542,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="geo:faiyum" type="subject" subtype="geographic">Faiyum</ref>
+          <ref target="geo:faiyum" type="subject" subtype="geographic">Fayyum</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
@@ -560,7 +560,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
               <date>1994</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_sukhna" type="subject" subtype="geographic">Al-Sukhna</ref>
+          <ref target="geo:al_sukhna" type="subject" subtype="geographic">as-Sukhna</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <note type="dataCollection">
@@ -1620,7 +1620,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="geo:faiyum" type="subject" subtype="geographic">Faiyum</ref>
+          <ref target="geo:faiyum" type="subject" subtype="geographic">Fayyum</ref>
           <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -1644,7 +1644,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="geo:faiyum" type="subject" subtype="geographic">Faiyum</ref>
+          <ref target="geo:faiyum" type="subject" subtype="geographic">Fayyum</ref>
           <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -5084,7 +5084,7 @@ variation based on the speaker’s age,gender and origin. Moreover, comparative 
               <date>2024</date>
             </imprint>
           </monogr>
-          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa</ref>
+          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa Region</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
         </biblStruct>
@@ -9616,7 +9616,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="geo:sharqiyya" type="subject" subtype="geographic">Šarqiyya</ref>
+          <ref target="geo:sharqiyya" type="subject" subtype="geographic">Sharqiyya</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:ethnographicrecord" type="subject" subtype="concept">ethnographic record</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
@@ -10787,7 +10787,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>1998</date>
             </imprint>
           </monogr>
-          <ref target="geo:m_hamid" type="subject" subtype="geographic">M'hamid</ref>
+          <ref target="geo:m_hamid" type="subject" subtype="geographic">Mhamid</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="geo:oued_draa" type="subject" subtype="geographic">Oued Drâa</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -15080,8 +15080,8 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <note type="thesisType">MA thesis</note>
             </imprint>
           </monogr>
-          <ref target="geo:asir" type="subject" subtype="geographic">'Asir</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
+          <ref target="geo:asir" type="subject" subtype="geographic">Asir</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
           <note type="dataCollection">
@@ -15101,8 +15101,8 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <note type="thesisType">PhD thesis</note>
             </imprint>
           </monogr>
-          <ref target="geo:asir" type="subject" subtype="geographic">'Asir</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
+          <ref target="geo:asir" type="subject" subtype="geographic">Asir</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <note type="dataCollection">
@@ -16868,7 +16868,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2006</date>
             </imprint>
           </monogr>
-          <ref target="geo:ksar_el_kebir" type="subject" subtype="geographic">Ksar el-Kebir</ref>
+          <ref target="geo:ksar_el_kebir" type="subject" subtype="geographic">Qsar al-Kebir</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
@@ -16964,7 +16964,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             <biblScope unit="volume">19</biblScope>
           </series>
           <ref target="geo:antakya" type="subject" subtype="geographic">Antakya</ref>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <note type="dataCollection">
@@ -16995,7 +16995,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2000</date>
             </imprint>
           </monogr>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:qalamun" type="subject" subtype="geographic">Qalamun</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
@@ -17057,7 +17057,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:antakya" type="subject" subtype="geographic">Antakya</ref>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
@@ -17112,7 +17112,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2005</date>
             </imprint>
           </monogr>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -17164,7 +17164,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:iskenderun" type="subject" subtype="geographic">Iskenderun</ref>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -17190,7 +17190,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2006</date>
             </imprint>
           </monogr>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
         </biblStruct>
@@ -17246,7 +17246,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:antakya" type="subject" subtype="geographic">Antakya</ref>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -17346,7 +17346,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             <title level="s">Türk Dilleri Araştırmaları 49</title>
           </series>
           <ref target="geo:iskenderun" type="subject" subtype="geographic">Iskenderun</ref>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:jewishdialects" type="subject" subtype="concept">Jewish dialects</ref>
           <ref target="vt:ethnographicrecord" type="subject" subtype="concept">ethnographic record</ref>
@@ -17378,7 +17378,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:antakya" type="subject" subtype="geographic">Antakya</ref>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
@@ -17404,7 +17404,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2011</date>
             </imprint>
           </monogr>
-          <ref target="geo:zakariiya" type="subject" subtype="geographic">Zakarīya</ref>
+          <ref target="geo:zakariiya" type="subject" subtype="geographic">Zakariyya</ref>
           <ref target="geo:israel" type="subject" subtype="geographic">Israel</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="vt:oralnarratives" type="subject" subtype="concept">oral narratives</ref>
@@ -17452,7 +17452,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2012</date>
             </imprint>
           </monogr>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:oralnarratives" type="subject" subtype="concept">oral narratives</ref>
@@ -17532,7 +17532,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:antakya" type="subject" subtype="geographic">Antakya</ref>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
@@ -17632,7 +17632,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>1996</date>
             </imprint>
           </monogr>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
@@ -17730,7 +17730,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:antakya" type="subject" subtype="geographic">Antakya</ref>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
         </biblStruct>
@@ -17958,8 +17958,8 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:rijal_alma" type="subject" subtype="geographic">Rijal Alma'</ref>
-          <ref target="geo:asir" type="subject" subtype="geographic">'Asir</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
+          <ref target="geo:asir" type="subject" subtype="geographic">Asir</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
           <note type="dataCollection">
@@ -17983,8 +17983,8 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:rijal_alma" type="subject" subtype="geographic">Rijal Alma'</ref>
-          <ref target="geo:asir" type="subject" subtype="geographic">'Asir</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
+          <ref target="geo:asir" type="subject" subtype="geographic">Asir</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <note type="dataCollection">
@@ -18721,8 +18721,8 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2010</date>
             </imprint>
           </monogr>
-          <ref target="geo:asir" type="subject" subtype="geographic">'Asir</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
+          <ref target="geo:asir" type="subject" subtype="geographic">Asir</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
         </biblStruct>
@@ -21300,7 +21300,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2006</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:tunis" type="subject" subtype="geographic">Tunis</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
@@ -21808,7 +21808,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </monogr>
           <ref target="geo:sa_dah" type="subject" subtype="geographic">Sa'dah</ref>
           <ref target="geo:sanaa" type="subject" subtype="geographic">Sanaa</ref>
-          <ref target="geo:taiz" type="subject" subtype="geographic">Taiz</ref>
+          <ref target="geo:taiz" type="subject" subtype="geographic">Taizz</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:tihama" type="subject" subtype="geographic">Tihama</ref>
           <ref target="geo:yemen" type="subject" subtype="geographic">Yemen</ref>
@@ -21873,7 +21873,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>1994</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_sukhna" type="subject" subtype="geographic">Al-Sukhna</ref>
+          <ref target="geo:al_sukhna" type="subject" subtype="geographic">as-Sukhna</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <note type="dataCollection">
@@ -21903,7 +21903,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </series>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="geo:faiyum" type="subject" subtype="geographic">Faiyum</ref>
+          <ref target="geo:faiyum" type="subject" subtype="geographic">Fayyum</ref>
           <ref target="vt:glossary" type="subject" subtype="concept">glossary</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
         </biblStruct>
@@ -22179,7 +22179,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:samandag" type="subject" subtype="geographic">Samandağ</ref>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -22205,7 +22205,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="geo:faiyum" type="subject" subtype="geographic">Faiyum</ref>
+          <ref target="geo:faiyum" type="subject" subtype="geographic">Fayyum</ref>
           <ref target="vt:glossary" type="subject" subtype="concept">glossary</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="behnstedt_2000_0001" corresp="http://zotero.org/groups/2165756/items/6E64PF2M" n="Behnstedt2000">
@@ -22221,9 +22221,9 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2000</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_sukhna" type="subject" subtype="geographic">Al-Sukhna</ref>
           <ref target="geo:aleppo" type="subject" subtype="geographic">Aleppo</ref>
           <ref target="geo:palmyra" type="subject" subtype="geographic">Palmyra</ref>
+          <ref target="geo:al_sukhna" type="subject" subtype="geographic">as-Sukhna</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:ethnographicrecord" type="subject" subtype="concept">ethnographic record</ref>
@@ -22906,7 +22906,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             <p>Accession Number: ICHM992917. Behnstedt, Peter; Goldbloom, Gwendolin (translator). Publication Date: 20160101. Note: Handbuch der Orientalistik / Handbook of Oriental Studies, 1: Der Nahe und Mittlere Osten / The Near and Middle East. Number of Pages: 484. Document Type: Book. Language: English.</p>
           </note>
           <ref target="geo:sanaa" type="subject" subtype="geographic">Sanaa</ref>
-          <ref target="geo:taiz" type="subject" subtype="geographic">Taiz</ref>
+          <ref target="geo:taiz" type="subject" subtype="geographic">Taizz</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:tihama" type="subject" subtype="geographic">Tihama</ref>
           <ref target="geo:yemen" type="subject" subtype="geographic">Yemen</ref>
@@ -23208,7 +23208,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:alexandria" type="subject" subtype="geographic">Alexandria</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="geo:faiyum" type="subject" subtype="geographic">Faiyum</ref>
+          <ref target="geo:faiyum" type="subject" subtype="geographic">Fayyum</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <note type="dataCollection">
             <date type="dataCollection" cert="high" notBefore-iso="1970-01-01" notAfter-iso="1979-12-31">1970s</date>
@@ -23237,7 +23237,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:alexandria" type="subject" subtype="geographic">Alexandria</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="geo:faiyum" type="subject" subtype="geographic">Faiyum</ref>
+          <ref target="geo:faiyum" type="subject" subtype="geographic">Fayyum</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
         </biblStruct>
@@ -23260,7 +23260,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="geo:faiyum" type="subject" subtype="geographic">Faiyum</ref>
+          <ref target="geo:faiyum" type="subject" subtype="geographic">Fayyum</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
@@ -23465,7 +23465,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <note>
             <p>Malika Echadli</p>
           </note>
-          <ref target="geo:el_jadida" type="subject" subtype="geographic">El Jadida</ref>
+          <ref target="geo:el_jadida" type="subject" subtype="geographic">al-Jadida</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
@@ -23606,7 +23606,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>1850</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -24054,7 +24054,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2001</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
@@ -24364,7 +24364,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>1942</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -24391,7 +24391,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>1943</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
@@ -24413,7 +24413,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>1944</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:arabworldgeneral" type="subject" subtype="concept">Arab World general</ref>
@@ -25169,7 +25169,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:douz" type="subject" subtype="geographic">Douz</ref>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:tunis" type="subject" subtype="geographic">Tunis</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <note type="dataCollection">
@@ -25866,7 +25866,7 @@ KEYWORDS: Tunisian ArabicArabic dialectologyhistory of linguisticshistorical sou
           <series>
             <title level="s">Livres de l’IREMAM</title>
           </series>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
@@ -25901,7 +25901,7 @@ KEYWORDS: Tunisian ArabicArabic dialectologyhistory of linguisticshistorical sou
               <date>2016</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
         </biblStruct>
@@ -26231,7 +26231,7 @@ KEYWORDS: Tunisian ArabicArabic dialectologyhistory of linguisticshistorical sou
               <date>2016</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
         </biblStruct>
@@ -26923,8 +26923,7 @@ KEYWORDS: Tunisian ArabicArabic dialectologyhistory of linguisticshistorical sou
           <note>
             <p>UBW AR Z 315/2</p>
           </note>
-          <ref target="geo:el_jadida" type="subject" subtype="geographic">El Jadida</ref>
-          <ref target="geo:el_jadida" type="subject" subtype="geographic">El Jadida</ref>
+          <ref target="geo:el_jadida" type="subject" subtype="geographic">al-Jadida</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -27758,7 +27757,6 @@ Kervan. International Journal of African and Asian Studies, V. 26 N. 1 (2022): K
               <date>1985</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_baraddun" type="subject" subtype="geographic">Al Baraddun</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="bettini_1986_0000" corresp="http://zotero.org/groups/2165756/items/ZVVW53MF" n="Bettini1986">
@@ -27777,7 +27775,6 @@ Kervan. International Journal of African and Asian Studies, V. 26 N. 1 (2022): K
               <date>1986</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_baraddun" type="subject" subtype="geographic">Al Baraddun</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:yemen" type="subject" subtype="geographic">Yemen</ref>
           <ref target="vt:oman_yemen" type="subject" subtype="concept">Oman/Yemen</ref>
@@ -30570,7 +30567,7 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>1985</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <note type="dataCollection">
@@ -30659,7 +30656,7 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>1995</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
@@ -30697,7 +30694,7 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>2002</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
@@ -30726,7 +30723,7 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>2005</date>
             </imprint><extent>5</extent>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -30935,7 +30932,7 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>2014</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
@@ -31022,7 +31019,7 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>2000</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
@@ -32270,8 +32267,8 @@ North Africa and classify them according to their origin (the denotative meaning
             </imprint>
           </monogr>
           <ref target="geo:fez" type="subject" subtype="geographic">Fez</ref>
+          <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="geo:maghreb" type="subject" subtype="geographic">magh</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="brincat_1995_4559" corresp="http://zotero.org/groups/2165756/items/FJTZ3ERD" n="Brincat1995">
           <monogr>
@@ -34297,7 +34294,7 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>1940</date>
             </imprint>
           </monogr>
-          <ref target="geo:hauran" type="subject" subtype="geographic">Hauran</ref>
+          <ref target="geo:hauran" type="subject" subtype="geographic">Hawran Region</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -34339,7 +34336,7 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>1946</date>
             </imprint>
           </monogr>
-          <ref target="geo:hauran" type="subject" subtype="geographic">Hauran</ref>
+          <ref target="geo:hauran" type="subject" subtype="geographic">Hawran Region</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -34412,9 +34409,9 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>1956</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_qaryatayn" type="subject" subtype="geographic">Al-Qaryatayn</ref>
-          <ref target="geo:al_sukhna" type="subject" subtype="geographic">Al-Sukhna</ref>
           <ref target="geo:palmyra" type="subject" subtype="geographic">Palmyra</ref>
+          <ref target="geo:al_qaryatayn" type="subject" subtype="geographic">al-Qaryatayn</ref>
+          <ref target="geo:al_sukhna" type="subject" subtype="geographic">as-Sukhna</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -34460,7 +34457,7 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>1956</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_mashrafah" type="subject" subtype="geographic">Al Mashrafah</ref>
+          <ref target="geo:al_mashrafah" type="subject" subtype="geographic">al-Mashrafah</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
@@ -36256,7 +36253,7 @@ North Africa and classify them according to their origin (the denotative meaning
             <title level="s">Studies in Arabic Linguistics</title>
             <biblScope unit="volume">6</biblScope>
           </series>
-          <ref target="geo:al_hoceima" type="subject" subtype="geographic">Al Hoceima</ref>
+          <ref target="geo:al_hoceima" type="subject" subtype="geographic">al-Hoceima</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:berberlanguages" type="subject" subtype="concept">berber languages</ref>
@@ -36519,7 +36516,7 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>2016</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_hoceima" type="subject" subtype="geographic">Al Hoceima</ref>
+          <ref target="geo:al_hoceima" type="subject" subtype="geographic">al-Hoceima</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -36905,7 +36902,7 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>1939</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -39173,7 +39170,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>1912</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:jewishdialects" type="subject" subtype="concept">Jewish dialects</ref>
@@ -39904,7 +39901,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>1985</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -43597,7 +43594,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>1963</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -44656,7 +44653,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>1839</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
         </biblStruct>
@@ -44705,7 +44702,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>1980</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_khafsah" type="subject" subtype="geographic">Al-Khafsah</ref>
+          <ref target="geo:al_khafsah" type="subject" subtype="geographic">al-Khafsah</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
@@ -44809,7 +44806,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>1971</date>
             </imprint>
           </monogr>
-          <ref target="geo:kwayrish" type="subject" subtype="geographic">Kueiris</ref>
+          <ref target="geo:kwayrish" type="subject" subtype="geographic">Kwayrish</ref>
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="vt:mesopotamia" type="subject" subtype="concept">Mesopotamia</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
@@ -45400,7 +45397,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>1973</date>
             </imprint>
           </monogr>
-          <ref target="geo:taiz" type="subject" subtype="geographic">Taiz</ref>
+          <ref target="geo:taiz" type="subject" subtype="geographic">Taizz</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:tihama" type="subject" subtype="geographic">Tihama</ref>
           <ref target="geo:yemen" type="subject" subtype="geographic">Yemen</ref>
@@ -46013,8 +46010,8 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>1983</date>
             </imprint>
           </monogr>
-          <ref target="geo:asir" type="subject" subtype="geographic">'Asir</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
+          <ref target="geo:asir" type="subject" subtype="geographic">Asir</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:ethnography" type="subject" subtype="concept">ethnography</ref>
@@ -48120,7 +48117,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>1954</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_lebanon" type="subject" subtype="geographic">Tripoli (Lebanon)</ref>
+          <ref target="geo:tripoli_lebanon" type="subject" subtype="geographic">Tripoli</ref>
           <ref target="geo:lebanon" type="subject" subtype="geographic">Lebanon</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -48663,7 +48660,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>2007</date>
             </imprint>
           </monogr>
-          <ref target="geo:ksar_el_kebir" type="subject" subtype="geographic">Ksar el-Kebir</ref>
+          <ref target="geo:ksar_el_kebir" type="subject" subtype="geographic">Qsar al-Kebir</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
@@ -48714,7 +48711,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>2008</date>
             </imprint>
           </monogr>
-          <ref target="geo:ksar_el_kebir" type="subject" subtype="geographic">Ksar el-Kebir</ref>
+          <ref target="geo:ksar_el_kebir" type="subject" subtype="geographic">Qsar al-Kebir</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:genderaspects" type="subject" subtype="concept">gender aspects</ref>
@@ -48782,7 +48779,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>2014</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
@@ -53321,8 +53318,8 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>1954</date>
             </imprint>
           </monogr>
-          <ref target="geo:el_haouz" type="subject" subtype="geographic">El Haouz</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
+          <ref target="geo:el_haouz" type="subject" subtype="geographic">al-Haouz Region</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:anthropology" type="subject" subtype="concept">anthropology</ref>
           <ref target="vt:berberlanguages" type="subject" subtype="concept">berber languages</ref>
@@ -54638,7 +54635,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <note type="thesisType">Ph.D.</note>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <note type="dataCollection">
             <date type="dataCollection" cert="low" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
@@ -55712,7 +55709,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>1985</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -56859,7 +56856,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <note type="url">http://www.jstor.org/stable/43513453</note>
             </imprint>
           </monogr>
-          <ref target="geo:bishmizzine" type="subject" subtype="geographic">Bishmizzine</ref>
+          <ref target="geo:bishmizzine" type="subject" subtype="geographic">Bechmezzine</ref>
           <ref target="geo:lebanon" type="subject" subtype="geographic">Lebanon</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="vt:ethnographicrecord" type="subject" subtype="concept">ethnographic record</ref>
@@ -59158,7 +59155,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             </imprint>
           </monogr>
           <ref target="geo:eastern_anatolia_region" type="subject" subtype="geographic">Eastern Anatolia Region</ref>
-          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa</ref>
+          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa Region</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:minorities" type="subject" subtype="concept">minorities</ref>
@@ -59849,7 +59846,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>2006</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -59998,7 +59995,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <note>
             <p>Abderrafi Benhallam</p>
           </note>
-          <ref target="geo:rhafsay" type="subject" subtype="geographic">Rhafsay</ref>
+          <ref target="geo:rhafsay" type="subject" subtype="geographic">Ghafsay</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
@@ -60363,7 +60360,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <date>1993</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_jabal_al_gharbi" type="subject" subtype="geographic">Al-Jabal al-gharbi</ref>
+          <ref target="geo:al_jabal_al_gharbi" type="subject" subtype="geographic">al-Jabal al-gharbi</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <note type="dataCollection">
@@ -60407,7 +60404,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
               <note type="url">https://hal.archives-ouvertes.fr/hal-01297415</note>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <note type="dataCollection">
             <date type="dataCollection" cert="high" notBefore-iso="1980-01-01" notAfter-iso="1989-12-31">1980s</date>
@@ -63024,7 +63021,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>2005</date>
             </imprint>
           </monogr>
-          <ref target="geo:deir_ez_zor" type="subject" subtype="geographic">Deir ez-Zor</ref>
+          <ref target="geo:deir_ez_zor" type="subject" subtype="geographic">Dayr az-Zor</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -63074,7 +63071,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <note type="thesisType">PhD Thesis</note>
             </imprint>
           </monogr>
-          <ref target="geo:al_salt" type="subject" subtype="geographic">Al-Salt</ref>
+          <ref target="geo:al_salt" type="subject" subtype="geographic">as-Salt</ref>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -63108,7 +63105,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>2011</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_salt" type="subject" subtype="geographic">Al-Salt</ref>
+          <ref target="geo:al_salt" type="subject" subtype="geographic">as-Salt</ref>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -63130,7 +63127,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>2013</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_salt" type="subject" subtype="geographic">Al-Salt</ref>
+          <ref target="geo:al_salt" type="subject" subtype="geographic">as-Salt</ref>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
@@ -63427,7 +63424,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>2017</date>
             </imprint>
           </monogr>
-          <ref target="geo:deir_ez_zor" type="subject" subtype="geographic">Deir ez-Zor</ref>
+          <ref target="geo:deir_ez_zor" type="subject" subtype="geographic">Dayr az-Zor</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
@@ -64145,7 +64142,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
             </imprint>
           </monogr>
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
-          <ref target="geo:asir" type="subject" subtype="geographic">'Asir</ref>
+          <ref target="geo:asir" type="subject" subtype="geographic">Asir</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
           <ref target="vt:literature" type="subject" subtype="concept">literature</ref>
@@ -69642,7 +69639,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
             </imprint>
           </monogr>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
-          <ref target="geo:hail_reg" type="subject" subtype="geographic">Hail</ref>
+          <ref target="geo:hail_reg" type="subject" subtype="geographic">Ha'il Region</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
         </biblStruct>
@@ -69928,7 +69925,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <series>
             <title level="s">Abhandlungen für die Kunde des Morgenlandes</title>
           </series>
-          <ref target="geo:deir_ez_zor" type="subject" subtype="geographic">Deir ez-Zor</ref>
+          <ref target="geo:deir_ez_zor" type="subject" subtype="geographic">Dayr az-Zor</ref>
           <ref target="geo:hasankeyf" type="subject" subtype="geographic">Hasankeyf</ref>
           <ref target="geo:mardin" type="subject" subtype="geographic">Mardin</ref>
           <ref target="geo:eastern_anatolia_region" type="subject" subtype="geographic">Eastern Anatolia Region</ref>
@@ -69956,7 +69953,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>1981</date>
             </imprint>
           </monogr>
-          <ref target="geo:deir_ez_zor" type="subject" subtype="geographic">Deir ez-Zor</ref>
+          <ref target="geo:deir_ez_zor" type="subject" subtype="geographic">Dayr az-Zor</ref>
           <ref target="geo:mardin" type="subject" subtype="geographic">Mardin</ref>
           <ref target="geo:eastern_anatolia_region" type="subject" subtype="geographic">Eastern Anatolia Region</ref>
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
@@ -70065,7 +70062,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>1980</date>
             </imprint>
           </monogr>
-          <ref target="geo:deir_ez_zor" type="subject" subtype="geographic">Deir ez-Zor</ref>
+          <ref target="geo:deir_ez_zor" type="subject" subtype="geographic">Dayr az-Zor</ref>
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -71190,7 +71187,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           </monogr>
           <ref target="geo:cilicia" type="subject" subtype="geographic">Cilicia</ref>
           <ref target="geo:eastern_anatolia_region" type="subject" subtype="geographic">Eastern Anatolia Region</ref>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="jastrow_2011_3068" corresp="http://zotero.org/groups/2165756/items/WBKXJQKI" n="Jastrow2011b">
@@ -71622,7 +71619,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>1964</date>
             </imprint>
           </monogr>
-          <ref target="geo:bishmizzine" type="subject" subtype="geographic">Bishmizzine</ref>
+          <ref target="geo:bishmizzine" type="subject" subtype="geographic">Bechmezzine</ref>
           <ref target="geo:lebanon" type="subject" subtype="geographic">Lebanon</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -73948,7 +73945,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <note>
             <p>Kat.Nr.: 63 Betreuer: Miloud Taifi</p>
           </note>
-          <ref target="geo:outat_el_haj" type="subject" subtype="geographic">Outat El Haj</ref>
+          <ref target="geo:outat_el_haj" type="subject" subtype="geographic">Outat al-Haj</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
@@ -74762,7 +74759,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <series>
             <title level="s">Livres de l’IREMAM</title>
           </series>
-          <ref target="geo:zeitoun_keserwan" type="subject" subtype="geographic">Zeitoun, Keserwan</ref>
+          <ref target="geo:zeitoun_keserwan" type="subject" subtype="geographic">Zeitoun</ref>
           <ref target="geo:lebanon" type="subject" subtype="geographic">Lebanon</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
@@ -78291,7 +78288,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>2010</date>
             </imprint>
           </monogr>
-          <ref target="geo:derek" type="subject" subtype="geographic">Derek</ref>
+          <ref target="geo:derek" type="subject" subtype="geographic">Derik</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
@@ -85021,7 +85018,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>1981</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -86480,7 +86477,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>1931</date>
             </imprint>
           </monogr>
-          <ref target="geo:el_hamma" type="subject" subtype="geographic">El-Hamma</ref>
+          <ref target="geo:el_hamma" type="subject" subtype="geographic">al-Hamma</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:tunisia" type="subject" subtype="geographic">Tunisia</ref>
           <ref target="vt:ethnographicrecord" type="subject" subtype="concept">ethnographic record</ref>
@@ -89164,7 +89161,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>2003</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -90671,7 +90668,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>2003</date>
             </imprint>
           </monogr>
-          <ref target="geo:el_balyana" type="subject" subtype="geographic">El-Balyana</ref>
+          <ref target="geo:el_balyana" type="subject" subtype="geographic">al-Balyana</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
           <ref target="geo:upper_egypt" type="subject" subtype="geographic">Upper Egypt</ref>
@@ -91617,7 +91614,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>1973</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
@@ -91636,7 +91633,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>1982</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -100102,7 +100099,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             <title level="s">Studies in Semitic Languages and Linguistic</title>
             <biblScope unit="volume">38</biblScope>
           </series>
-          <ref target="geo:al_salt" type="subject" subtype="geographic">Al-Salt</ref>
+          <ref target="geo:al_salt" type="subject" subtype="geographic">as-Salt</ref>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
@@ -100206,7 +100203,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>2007</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_salt" type="subject" subtype="geographic">Al-Salt</ref>
+          <ref target="geo:al_salt" type="subject" subtype="geographic">as-Salt</ref>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -100228,7 +100225,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             </imprint>
           </monogr>
           <ref target="geo:al_karak" type="subject" subtype="geographic">Al-Karak</ref>
-          <ref target="geo:al_salt" type="subject" subtype="geographic">Al-Salt</ref>
+          <ref target="geo:al_salt" type="subject" subtype="geographic">as-Salt</ref>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
@@ -100296,7 +100293,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>1994</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_salt" type="subject" subtype="geographic">Al-Salt</ref>
+          <ref target="geo:al_salt" type="subject" subtype="geographic">as-Salt</ref>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
@@ -101173,7 +101170,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>2003</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -101191,8 +101188,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>2010</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -101376,7 +101372,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>2003</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
@@ -101407,7 +101403,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>2008</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
@@ -101434,7 +101430,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>2006</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -102901,7 +102897,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>1974</date>
             </imprint>
           </monogr>
-          <ref target="geo:taiz" type="subject" subtype="geographic">Taiz</ref>
+          <ref target="geo:taiz" type="subject" subtype="geographic">Taizz</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:yemen" type="subject" subtype="geographic">Yemen</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
@@ -102922,8 +102918,8 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>1981</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_ristaq" type="subject" subtype="geographic">Al-Ristaq</ref>
           <ref target="geo:muharraq" type="subject" subtype="geographic">Muharraq</ref>
+          <ref target="geo:al_ristaq" type="subject" subtype="geographic">al-Ristaq</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <note type="dataCollection">
@@ -103033,7 +103029,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>1990</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_qatif" type="subject" subtype="geographic">Al-Qatif</ref>
+          <ref target="geo:al_qatif" type="subject" subtype="geographic">al-Qatif</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
@@ -103288,7 +103284,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:harran" type="subject" subtype="geographic">Harran</ref>
           <ref target="geo:shanliurfa" type="subject" subtype="geographic">Şanlıurfa</ref>
           <ref target="geo:cilicia" type="subject" subtype="geographic">Cilicia</ref>
-          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa</ref>
+          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa Region</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="geo:cukurova" type="subject" subtype="geographic">Çukurova</ref>
@@ -103379,7 +103375,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="geo:harran" type="subject" subtype="geographic">Harran</ref>
           <ref target="geo:shanliurfa" type="subject" subtype="geographic">Şanlıurfa</ref>
-          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa</ref>
+          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa Region</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -103538,7 +103534,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             </imprint>
           </monogr>
           <ref target="geo:cilicia" type="subject" subtype="geographic">Cilicia</ref>
-          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa</ref>
+          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa Region</ref>
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:mesopotamia" type="subject" subtype="concept">Mesopotamia</ref>
@@ -103711,7 +103707,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             </imprint>
           </monogr>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
-          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa</ref>
+          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa Region</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="prochazka_batan_2016_0000" corresp="http://zotero.org/groups/2165756/items/QFQTJIVE" n="Procházka2016b">
@@ -103744,7 +103740,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>2016</date>
             </imprint>
           </monogr>
-          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa</ref>
+          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa Region</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
@@ -103850,7 +103846,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="geo:harran" type="subject" subtype="geographic">Harran</ref>
           <ref target="geo:shanliurfa" type="subject" subtype="geographic">Şanlıurfa</ref>
-          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa</ref>
+          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa Region</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
@@ -103885,7 +103881,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             </imprint>
           </monogr>
           <ref target="geo:shanliurfa" type="subject" subtype="geographic">Şanlıurfa</ref>
-          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa</ref>
+          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa Region</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -103953,7 +103949,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="geo:harran" type="subject" subtype="geographic">Harran</ref>
           <ref target="geo:shanliurfa" type="subject" subtype="geographic">Şanlıurfa</ref>
-          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa</ref>
+          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa Region</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -104419,7 +104415,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <series>
             <title level="s">Contact and Multilingualism 1</title>
           </series>
-          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa</ref>
+          <ref target="geo:harran_urfa" type="subject" subtype="geographic">Harran-Urfa Region</ref>
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
@@ -105116,7 +105112,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <note type="url">https://www.qatifoasis.com/?act=artc&amp;id=234</note>
             </imprint>
           </monogr>
-          <ref target="geo:al_qatif" type="subject" subtype="geographic">Al-Qatif</ref>
+          <ref target="geo:al_qatif" type="subject" subtype="geographic">al-Qatif</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
@@ -106070,7 +106066,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>1894</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_ristaq" type="subject" subtype="geographic">Al-Ristaq</ref>
+          <ref target="geo:al_ristaq" type="subject" subtype="geographic">al-Ristaq</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:oman" type="subject" subtype="geographic">Oman</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -110613,8 +110609,8 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:ajloun" type="subject" subtype="geographic">Ajloun</ref>
-          <ref target="geo:al_salt" type="subject" subtype="geographic">Al-Salt</ref>
           <ref target="geo:amman" type="subject" subtype="geographic">Amman</ref>
+          <ref target="geo:al_salt" type="subject" subtype="geographic">as-Salt</ref>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
@@ -113067,7 +113063,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>1980</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_shirqat" type="subject" subtype="geographic">Al-Shirqat</ref>
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -118241,7 +118236,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:afghanistan" type="subject" subtype="geographic">Afghanistan</ref>
-          <ref target="geo:balkh_region" type="subject" subtype="geographic">Balkh region</ref>
+          <ref target="geo:balkh_region" type="subject" subtype="geographic">Balkh Region</ref>
           <ref target="geo:central_asia" type="subject" subtype="geographic">Central Asia</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
         </biblStruct>
@@ -118534,9 +118529,9 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>1973</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_hasa" type="subject" subtype="geographic">Al-Hasa</ref>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
+          <ref target="geo:al_hasa" type="subject" subtype="geographic">al-Hasa</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:jargon" type="subject" subtype="concept">jargon</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
@@ -119329,7 +119324,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <note>
             <p>Accession Number: ICHA964352. Souag, Lameen. Publication Date: 20160101. Number of Pages: 9. Document Type: Book Chapter. Language: English.</p>
           </note>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -120745,7 +120740,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:antakya" type="subject" subtype="geographic">Antakya</ref>
-          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch</ref>
+          <ref target="geo:hatay_antioch" type="subject" subtype="geographic">Hatay-Antioch Region</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
         </biblStruct>
@@ -120867,7 +120862,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>1898</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:oralnarratives" type="subject" subtype="concept">oral narratives</ref>
@@ -121214,7 +121209,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <note type="url">https://www.jstor.org/stable/43195489</note>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
         </biblStruct>
@@ -121462,7 +121457,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:afghanistan" type="subject" subtype="geographic">Afghanistan</ref>
-          <ref target="geo:balkh_region" type="subject" subtype="geographic">Balkh region</ref>
+          <ref target="geo:balkh_region" type="subject" subtype="geographic">Balkh Region</ref>
           <ref target="geo:central_asia" type="subject" subtype="geographic">Central Asia</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
@@ -122658,7 +122653,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <biblScope unit="volume">21</biblScope>
           </series>
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
-          <ref target="geo:khawetna" type="subject" subtype="geographic">Khawetna</ref>
+          <ref target="geo:khawetna" type="subject" subtype="geographic">Khatuniya</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -122709,7 +122704,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <biblScope unit="volume">21</biblScope>
           </series>
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
-          <ref target="geo:khawetna" type="subject" subtype="geographic">Khawetna</ref>
+          <ref target="geo:khawetna" type="subject" subtype="geographic">Khatuniya</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="vt:glossary" type="subject" subtype="concept">glossary</ref>
@@ -123607,7 +123602,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>1978</date>
             </imprint>
           </monogr>
-          <ref target="geo:algier" type="subject" subtype="geographic">Algier</ref>
+          <ref target="geo:algier" type="subject" subtype="geographic">Algiers</ref>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:textbook" type="subject" subtype="concept">textbook</ref>
@@ -130566,7 +130561,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <surname>Rubin</surname>
             </editor>
           </series>
-          <ref target="geo:al_salt" type="subject" subtype="geographic">Al-Salt</ref>
+          <ref target="geo:al_salt" type="subject" subtype="geographic">as-Salt</ref>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
@@ -130647,7 +130642,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>2015</date>
             </imprint>
           </monogr>
-          <ref target="geo:al_salt" type="subject" subtype="geographic">Al-Salt</ref>
+          <ref target="geo:al_salt" type="subject" subtype="geographic">as-Salt</ref>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="vt:christiandialects" type="subject" subtype="concept">Christian dialects</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
@@ -131652,7 +131647,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>2001</date>
             </imprint>
           </monogr>
-          <ref target="geo:idil_aazex" type="subject" subtype="geographic">İdil (Āzex)</ref>
+          <ref target="geo:idil_aazex" type="subject" subtype="geographic">İdil</ref>
           <ref target="geo:eastern_anatolia_region" type="subject" subtype="geographic">Eastern Anatolia Region</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
@@ -131686,7 +131681,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>2002</date>
             </imprint>
           </monogr>
-          <ref target="geo:idil_aazex" type="subject" subtype="geographic">İdil (Āzex)</ref>
+          <ref target="geo:idil_aazex" type="subject" subtype="geographic">İdil</ref>
           <ref target="geo:eastern_anatolia_region" type="subject" subtype="geographic">Eastern Anatolia Region</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="vt:mesopotamia" type="subject" subtype="concept">Mesopotamia</ref>
@@ -131818,7 +131813,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="geo:sharqiyya" type="subject" subtype="geographic">Šarqiyya</ref>
+          <ref target="geo:sharqiyya" type="subject" subtype="geographic">Sharqiyya</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="woidich_1980_0000" corresp="http://zotero.org/groups/2165756/items/KWEJ45MA" n="Woidich1980d">
@@ -131906,7 +131901,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="geo:sharqiyya" type="subject" subtype="geographic">Šarqiyya</ref>
+          <ref target="geo:sharqiyya" type="subject" subtype="geographic">Sharqiyya</ref>
           <ref target="vt:egypt_sudan" type="subject" subtype="concept">Egypt-Sudan</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -132477,7 +132472,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:dakhla" type="subject" subtype="geographic">Dakhla</ref>
-          <ref target="geo:ilbashandi" type="subject" subtype="geographic">ilBashandi</ref>
+          <ref target="geo:ilbashandi" type="subject" subtype="geographic">al-Bashandi</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="woidich_2005_0000" corresp="http://zotero.org/groups/2165756/items/BKTLGTGY" n="Woidich2005">
           <analytic>
@@ -132817,7 +132812,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:dakhla" type="subject" subtype="geographic">Dakhla</ref>
-          <ref target="geo:ilbashandi" type="subject" subtype="geographic">ilBashandi</ref>
+          <ref target="geo:ilbashandi" type="subject" subtype="geographic">al-Bashandi</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
           <ref target="vt:babytalk" type="subject" subtype="concept">Baby talk</ref>
@@ -132869,7 +132864,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:dakhla" type="subject" subtype="geographic">Dakhla</ref>
-          <ref target="geo:ilbashandi" type="subject" subtype="geographic">ilBashandi</ref>
+          <ref target="geo:ilbashandi" type="subject" subtype="geographic">al-Bashandi</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
@@ -133290,7 +133285,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>2005</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <note type="dataCollection">
             <date type="dataCollection" cert="low" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
@@ -136450,7 +136445,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>2007</date>
             </imprint>
           </monogr>
-          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripoli (Libya)</ref>
+          <ref target="geo:tripoli_libya" type="subject" subtype="geographic">Tripolis</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
