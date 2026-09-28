@@ -2495,7 +2495,7 @@
                 </place>
                 <place type="geo" xml:id="akko">
                     <placeName type="prefLabel">Akko</placeName>
-                    <placeName xml:lang="en" type="standard">Acre</placeName>
+                    <placeName type="altLabel">Acre</placeName>
                     <placeName xml:lang="ar" type="standard">عكّا</placeName>
                     <location>
                         <geo decls="#dms">32°55'41"N 35°04'35"E</geo>
@@ -3969,7 +3969,7 @@
                     <placeName xml:lang="ar" type="local">فينان</placeName>
                     <location>
                         <geo decls="#dms">30°42′44"N 35°19′19"E</geo>
-                        <geo decls="#dd">30.71214  35.32183</geo>
+                        <geo decls="#dd">30.71214 35.32183</geo>
                         <country key="JO">Jordan</country>
                     </location>
                     <idno type="geoNames">7015785</idno>
