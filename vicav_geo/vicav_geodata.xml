@@ -2437,7 +2437,7 @@
                     <placeName xml:lang="ar" type="standard">الدليلة</placeName>
                     <location>
                         <geo decls="#dms">31°20′46″N 36°04′28″E</geo>
-                        <geo decls="#dd">31.63959, 35.83048</geo>
+                        <geo decls="#dd">31.63959 35.83048</geo>
                         <country key="JO">Jordan</country>
                     </location>
                     <idno type="geoNames">249588</idno>
@@ -2642,7 +2642,7 @@
                     <placeName type="prefLabel">ʕArab ar-Rašāyda Tribal Area</placeName>
                     <location>
                         <geo decls="#dms">31°29′00"N  35°20′00"E</geo>
-                        <geo decls="#dd">31.48333, 35.33333</geo>
+                        <geo decls="#dd">31.48333 35.33333</geo>
                         <country key="PS">Palestine</country>
                     </location>
                     <idno type="geoNames">284915</idno>
@@ -7367,7 +7367,7 @@
                     <placeName type="prefLabel">al-Qasim</placeName>
                     <location>
                         <geo decls="#dms">27°05′00"N 43°28′00"E</geo>
-                        <geo decls="#dd">27.08333, 43.46667</geo>
+                        <geo decls="#dd">27.08333 43.46667</geo>
                         <country key="SA">Saudi Arabia</country>
                     </location>
                     <idno type="geoNames">108933</idno>
@@ -7950,7 +7950,7 @@
                     <placeName type="prefLabel">Khaybar</placeName>
                     <location>
                         <geo decls="#dms">25°50′00"N 39°20′00"E</geo>
-                        <geo decls="#dd">25.83333, 39.33333</geo>
+                        <geo decls="#dd">25.83333 39.33333</geo>
                         <country key="SA">Saudi Arabia</country>
                     </location>
                     <idno type="geoNames">10972297</idno>
