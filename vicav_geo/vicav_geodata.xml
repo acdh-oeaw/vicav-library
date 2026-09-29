@@ -7432,8 +7432,6 @@
                 <place type="reg" xml:id="balkh_region">
                     <placeName type="prefLabel">Balkh Region</placeName>
                     <placeName xml:lang="ar" type="standard">بلخ</placeName>
-                    <!-- Remove after standardization -->
-                    <placeName type="altLabel">Balkh region</placeName>
                     <location>
                         <geo decls="#dms">36°45'00"N 67°00'00"E</geo>
                         <geo decls="#dd">36.750000 67.000000</geo>
@@ -7736,8 +7734,6 @@
                 </place>
                 <place type="reg" xml:id="hail_reg">
                     <placeName type="prefLabel">Ha'il Region</placeName>
-                    <!-- Remove after standardization -->
-                    <placeName xml:lang="en">Hail</placeName>
                     <placeName xml:lang="ar" type="standard">منطقة حائل</placeName>
                     <location>
                         <geo decls="#dms">27°24'00"N 41°27'00"E</geo>
@@ -7761,8 +7757,6 @@
                 </place>
                 <place type="reg" xml:id="harran_urfa">
                     <placeName type="prefLabel">Harran-Urfa Region</placeName>
-                    <!-- Remove after standardization -->
-                    <placeName type="altLabel">Harran-Urfa</placeName>
                     <placeName xml:lang="ar" type="standard">أورفة-حَرَّان</placeName>
                     <location>
                         <geo decls="#dms">36°51'36"N 39°01'53"E</geo>
@@ -7773,8 +7767,6 @@
                 </place>
                 <place type="reg" xml:id="hatay_antioch">
                     <placeName type="prefLabel">Hatay-Antioch Region</placeName>
-                    <!-- Remove after standardization -->
-                    <placeName type="altLabel">Hatay-Antioch</placeName>
                     <placeName xml:lang="ar" type="standard">أنطاكية-هاتاي</placeName>
                     <location>
                         <geo decls="#dms">36°12'24"N 36°09'26"E</geo>
@@ -7785,8 +7777,6 @@
                 </place>
                 <place type="reg" xml:id="el_haouz">
                     <placeName type="prefLabel">al-Haouz Region</placeName>
-                    <!-- Remove after standardization -->
-                    <placeName xml:lang="en">El Haouz</placeName>
                     <placeName xml:lang="ar" type="standard">إقليم الحوز</placeName>
                     <location>
                         <geo decls="#dms">35°41'19"N 05°26'39"W</geo>
@@ -7797,8 +7787,6 @@
                 </place>
                 <place type="reg" xml:id="hauran">
                     <placeName type="prefLabel">Hawran Region</placeName>
-                    <!-- Remove after standardization -->
-                    <placeName xml:lang="de">Hauran</placeName>
                     <placeName xml:lang="ar" type="standard">حوران</placeName>
                     <location>
                         <geo decls="#dms">32°43'48"N 36°22'05"E</geo>
@@ -8862,7 +8850,7 @@
                 <place type="geo" xml:id="Lela">
                     <placeName type="prefLabel">Lela</placeName>
                     <placeName xml:lang="ar-Latn" type="local">Lǟla</placeName>
-                    <placeName xml:lang="ar" type="standard"></placeName>
+                    <placeName xml:lang="ar" type="standard" />
                     <location>
                         <geo decls="#dms">34°22′51"N 8°51′28"E</geo>
                         <geo decls="#dd">34.380810 8.857790</geo>
