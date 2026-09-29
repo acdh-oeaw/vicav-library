@@ -7421,6 +7421,7 @@
                 </place>
                 <place type="reg" xml:id="bahrain">
                     <placeName type="prefLabel">Bahrain</placeName>
+                    <placeName xml:lang="ar" type="standard">البحرين</placeName>
                     <location>
                         <geo decls="#dms">26°01'60"N 50°33'00"E</geo>
                         <geo decls="#dd">26.033333 50.550000</geo>
@@ -7499,6 +7500,7 @@
                 </place>
                 <place type="reg" xml:id="cameroon_north_region">
                     <placeName type="prefLabel">Cameroon (North Region)</placeName>
+                    <placeName xml:lang="ar" type="standard">الكاميرون</placeName>
                     <location>
                         <geo decls="#dms">09°18'05"N 13°23'52"E</geo>
                         <geo decls="#dd">9.301389 13.397778</geo>
@@ -7761,7 +7763,7 @@
                     <placeName type="prefLabel">Harran-Urfa Region</placeName>
                     <!-- Remove after standardization -->
                     <placeName type="altLabel">Harran-Urfa</placeName>
-                    <placeName xml:lang="ar" type="standard">حَرَّان</placeName>
+                    <placeName xml:lang="ar" type="standard">أورفة-حَرَّان</placeName>
                     <location>
                         <geo decls="#dms">36°51'36"N 39°01'53"E</geo>
                         <geo decls="#dd">36.860000 39.031389</geo>
@@ -7818,6 +7820,7 @@
                 </place>
                 <place type="reg" xml:id="hejaz">
                     <placeName type="prefLabel">Hejaz</placeName>
+                    <placeName xml:lang="ar" type="standard">الحجاز</placeName>
                     <location>
                         <geo decls="#dms">24°29'52"N 38°30'24"E</geo>
                         <geo decls="#dd">24.49764 38.50654</geo>
@@ -8701,7 +8704,7 @@
                 <place type="geo" xml:id="Shlihat">
                     <placeName type="prefLabel">Shlihat</placeName>
                     <placeName xml:lang="ar-Latn" type="local">iš-Šlīḥāt</placeName>
-                    <placeName xml:lang="ar" type="standard"></placeName>
+                    <placeName xml:lang="ar" type="standard">الشّليحات</placeName>
                     <location>
                         <geo decls="#dms">36°05′24"N 8°35′24"E</geo>
                         <geo decls="#dd">36.090000 8.590000</geo>
@@ -8712,6 +8715,7 @@
                 <place type="geo" xml:id="Gboullat">
                     <placeName type="prefLabel">Gboullat</placeName>
                     <placeName xml:lang="ar-Latn" type="local">Gbuḷḷāṭ</placeName>
+                    <placeName xml:lang="ar" type="standard">قبلاط</placeName>
                     <location>
                         <geo decls="#dms">36°32′29"N 9°39′42"E</geo>
                         <geo decls="#dd">36.541433 9.661724</geo>
@@ -8722,6 +8726,7 @@
                 <place type="geo" xml:id="OuledAli">
                     <placeName type="prefLabel">Ouled Ali</placeName>
                     <placeName xml:lang="ar-Latn" type="local">Ūlǟd Aʕlī</placeName>
+                    <placeName xml:lang="ar" type="standard">أولاد علي</placeName>
                     <location>
                         <geo decls="#dms">35°10′48"N 8°53′24"E</geo>
                         <geo decls="#dd">35.180000 8.890000</geo>
@@ -8732,6 +8737,7 @@
                 <place type="geo" xml:id="Beja">
                     <placeName type="prefLabel">Beja</placeName>
                     <placeName xml:lang="ar-Latn" type="local">Bǟža</placeName>
+                    <placeName xml:lang="ar" type="standard">باجة</placeName>
                     <location>
                         <geo decls="#dms">36°44′24"N 9°10′48"E</geo>
                         <geo decls="#dd">36.740000 9.180000</geo>
@@ -8743,6 +8749,7 @@
                 <place type="geo" xml:id="Skhirat">
                     <placeName type="prefLabel">Skhirat</placeName>
                     <placeName xml:lang="ar-Latn" type="local">iṣ-Ṣxīṛāt</placeName>
+                    <placeName xml:lang="ar" type="standard">الصخيرات</placeName>
                     <location>
                         <geo decls="#dms">34°46′37"N 8°18′15"E</geo>
                         <geo decls="#dd">34.777080 8.304090</geo>
@@ -8753,6 +8760,7 @@
                 <place type="geo" xml:id="Gargara">
                     <placeName type="prefLabel">Gargara</placeName>
                     <placeName xml:lang="ar-Latn" type="local">il-Gaṛgāṛa</placeName>
+                    <placeName xml:lang="ar" type="standard">الغرغارة</placeName>
                     <location>
                         <geo decls="#dms">35°33′06"N 8°33′09"E</geo>
                         <geo decls="#dd">35.551802 8.552572</geo>
@@ -8763,6 +8771,7 @@
                 <place type="geo" xml:id="Dougga">
                     <placeName type="prefLabel">Dougga</placeName>
                     <placeName xml:lang="ar-Latn" type="local">Dugga</placeName>
+                    <placeName xml:lang="ar" type="standard">دقة</placeName>
                     <location>
                         <geo decls="#dms">36°25′06"N 9°13′00"E</geo>
                         <geo decls="#dd">36.418471 9.216621</geo>
@@ -8774,6 +8783,7 @@
                 <place type="geo" xml:id="Gafsa">
                     <placeName type="prefLabel">Gafsa</placeName>
                     <placeName xml:lang="ar-Latn" type="local">Gafṣa</placeName>
+                    <placeName xml:lang="ar" type="standard">قفصة</placeName>
                     <location>
                         <geo decls="#dms">34°25′30"N 8°47′03"E</geo>
                         <geo decls="#dd">34.425000 8.784170</geo>
@@ -8785,6 +8795,7 @@
                 <place type="geo" xml:id="SidiHmada">
                     <placeName type="prefLabel">Sidi Hmada</placeName>
                     <placeName xml:lang="ar-Latn" type="local">Sīdi Ḥmǟda</placeName>
+                    <placeName xml:lang="ar" type="standard">سيدي حمادة</placeName>
                     <location>
                         <geo decls="#dms">35°57′36"N 9°32′24"E</geo>
                         <geo decls="#dd">35.960000 9.540000</geo>
@@ -8795,6 +8806,7 @@
                 <place type="geo" xml:id="Feriana">
                     <placeName type="prefLabel">Feriana</placeName>
                     <placeName xml:lang="ar-Latn" type="local">Firyǟna</placeName>
+                    <placeName xml:lang="ar" type="standard">فريانة</placeName>
                     <location>
                         <geo decls="#dms">34°56′28"N 8°33′58"E</geo>
                         <geo decls="#dd">34.940987 8.566100</geo>
@@ -8806,6 +8818,7 @@
                 <place type="geo" xml:id="Jabbes">
                     <placeName type="prefLabel">Jabbes</placeName>
                     <placeName xml:lang="ar-Latn" type="local">iž-Žabbǟs</placeName>
+                    <placeName xml:lang="ar" type="standard">الجباس</placeName>
                     <location>
                         <geo decls="#dms">35°29′33"N 9°12′00"E</geo>
                         <geo decls="#dd">35.492425 9.200000</geo>
@@ -8816,6 +8829,7 @@
                 <place type="geo" xml:id="HassiFrid">
                     <placeName type="prefLabel">Hassi Frid</placeName>
                     <placeName xml:lang="ar-Latn" type="local">Ḥǟsi l-Frīd</placeName>
+                    <placeName xml:lang="ar" type="standard">حاسي الفريد</placeName>
                     <location>
                         <geo decls="#dms">34°58′48"N 8°57′00"E</geo>
                         <geo decls="#dd">34.980000 8.950000</geo>
@@ -8826,6 +8840,7 @@
                 <place type="geo" xml:id="Kef">
                     <placeName type="prefLabel">Kef</placeName>
                     <placeName xml:lang="ar-Latn" type="local">il-Kǟf</placeName>
+                    <placeName xml:lang="ar" type="standard">الکاف</placeName>
                     <location>
                         <geo decls="#dms">36°10′27"N 8°42′17"E</geo>
                         <geo decls="#dd">36.174240 8.704860</geo>
@@ -8836,6 +8851,7 @@
                 <place type="geo" xml:id="Lakhouet">
                     <placeName type="prefLabel">Lakhouet</placeName>
                     <placeName xml:lang="ar-Latn" type="local">l-Axwǟt</placeName>
+                    <placeName xml:lang="ar" type="standard">الأخوات</placeName>
                     <location>
                         <geo decls="#dms">36°18′36"N 9°14′24"E</geo>
                         <geo decls="#dd">36.310000 9.240000</geo>
@@ -8846,6 +8862,7 @@
                 <place type="geo" xml:id="Lela">
                     <placeName type="prefLabel">Lela</placeName>
                     <placeName xml:lang="ar-Latn" type="local">Lǟla</placeName>
+                    <placeName xml:lang="ar" type="standard"></placeName>
                     <location>
                         <geo decls="#dms">34°22′51"N 8°51′28"E</geo>
                         <geo decls="#dd">34.380810 8.857790</geo>
