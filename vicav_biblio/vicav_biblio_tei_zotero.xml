@@ -8,7 +8,7 @@
         <p>unpublished</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-09-24 15:00:04</p>
+        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-09-30 15:02:45</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -86110,10 +86110,10 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
             </editor>
             <imprint>
               <pubPlace>Leiden &amp; Boston</pubPlace>
-              <biblScope unit="volume">I</biblScope>
+              <biblScope unit="volume">1</biblScope>
               <biblScope unit="page">231-241</biblScope>
               <publisher>Brill</publisher>
-              <date>2011</date>
+              <date>2006</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -96037,6 +96037,41 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:ethnicminorities" type="subject" subtype="concept">ethnic minorities</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="nevo_2001_4457" corresp="http://zotero.org/groups/2165756/items/QB5CLHJH" n="Nevo2001">
+          <analytic>
+            <title level="a">Texts in the Judeo-Arabic dialect of Siverek</title>
+            <author>
+              <forename>Moshe</forename>
+              <surname>Nevo</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Linguistic and cultural studies on Arabic and Hebrew. Essays presented to Professor Moshe Piamenta for his eightieth birthday</title>
+            <editor>
+              <forename>Judith</forename>
+              <surname>Rosenhouse</surname>
+            </editor>
+            <editor>
+              <forename>Ami</forename>
+              <surname>Elad-Bouskila</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Wiesbaden</pubPlace>
+              <biblScope unit="page">71-90</biblScope>
+              <publisher>Harrassowitz</publisher>
+              <date>2001</date>
+            </imprint>
+          </monogr>
+          <ref target="geo:siverek" type="subject" subtype="geographic">Siverek</ref>
+          <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
+          <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
+          <ref target="vt:jewishdialects" type="subject" subtype="concept">Jewish dialects</ref>
+          <ref target="vt:ethnographicrecord" type="subject" subtype="concept">ethnographic record</ref>
+          <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
+          <ref target="vt:oralnarratives" type="subject" subtype="concept">oral narratives</ref>
+          <ref target="vt:sedentarydialect" type="subject" subtype="concept">sedentary dialect</ref>
+          <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="nevo_2006_0000" corresp="http://zotero.org/groups/2165756/items/3EPF3B6L" n="Nevo2006">
           <analytic>
@@ -136998,16 +137033,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
-        </biblStruct>
-        <biblStruct type="bookSection" xml:id="zoteroItem_44QJJJT9" corresp="http://zotero.org/groups/2165756/items/44QJJJT9" n="zoteroItem_44QJJJT9">
-          <analytic>
-            <title level="a"/>
-          </analytic>
-          <monogr>
-            <imprint>
-              <date/>
-            </imprint>
-          </monogr>
         </biblStruct>
         <biblStruct type="book" xml:id="zoubid_2011_0000" corresp="http://zotero.org/groups/2165756/items/NUV5E9A4" n="Zoubid2011">
           <monogr>
