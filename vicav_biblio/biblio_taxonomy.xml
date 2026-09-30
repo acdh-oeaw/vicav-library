@@ -2728,5 +2728,25 @@
                 <skos:prefLabel xml:lang="en">non-classical: Colloquial Arabic dialects North Africa &amp; Spain</skos:prefLabel>
             </skos:Concept>
         </skos:narrower>
+        <skos:narrower>
+            <skos:Concept rdf:about="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/historicaldialectology">
+                <skos:prefLabel xml:lang="en">Historical Dialectology</skos:prefLabel>
+            </skos:Concept>
+        </skos:narrower>
+        <skos:narrower>
+            <skos:Concept rdf:about="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/non_arabic">
+                <skos:prefLabel xml:lang="en">Non-Arabic</skos:prefLabel>
+            </skos:Concept>
+        </skos:narrower>
+        <skos:narrower>
+            <skos:Concept rdf:about="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/bilingualism">
+                <skos:prefLabel xml:lang="en">Bilingualism</skos:prefLabel>
+            </skos:Concept>
+        </skos:narrower>
+        <skos:narrower>
+            <skos:Concept rdf:about="https://vocabs.acdh.oeaw.ac.at/vicav/bibliography/typology">
+                <skos:prefLabel xml:lang="en">Typology</skos:prefLabel>
+            </skos:Concept>
+        </skos:narrower>
     </skos:Concept>
 </rdf:RDF>
