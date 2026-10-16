@@ -2719,7 +2719,7 @@
                 <place type="geo" xml:id="al_jasaa">
                     <placeName type="prefLabel">al-Jas'a</placeName>
                     <location>
-                        <geo decls="#dms" />
+                        <geo decls="#dms">36°41'14"N 41°1'56"E</geo>
                         <!-- a point near Tell Brak, placeholder -->
                         <geo decls="#dd">36.687332 41.032306</geo>
                         <country key="SY">Syria</country>
@@ -4901,7 +4901,7 @@
                 </place>
                 <place type="geo" xml:id="kormakitis">
                     <placeName type="prefLabel">Kormakitis</placeName>
-                    <placeName type="local">Koruçam</placeName>
+                    <placeName type="local" xml:lang="tr">Koruçam</placeName>
                     <placeName xml:lang="ar" type="standard">كورماكيتيس</placeName>
                     <location>
                         <geo decls="#dms">35°20'33"N 32°58'43"E</geo>
@@ -5379,7 +5379,7 @@
                 </place>
                 <place type="geo" xml:id="mocha">
                     <placeName type="prefLabel">Mocha</placeName>
-                    <placeName type="local">al-Muxā</placeName>
+                    <placeName type="local" xml:lang="ar-Latn">al-Muxā</placeName>
                     <placeName xml:lang="ar" type="standard">المخا</placeName>
                     <location>
                         <geo decls="#dms">13°19′05″N 43°15′00″E</geo>
@@ -8197,7 +8197,6 @@
                 </place>
                 <place type="reg" xml:id="qahaba">
                     <placeName type="prefLabel">al-Qahaba</placeName>
-                    <placeName xml:lang="ar" type="standard"></placeName>
                     <location>
                         <geo decls="#dms">17°25′00″N 43°09′00″E</geo>
                         <geo decls="#dd">17.41667 43.15</geo>
