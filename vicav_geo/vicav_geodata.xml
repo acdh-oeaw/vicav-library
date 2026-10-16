@@ -2720,7 +2720,8 @@
                     <placeName type="prefLabel">al-Jas'a</placeName>
                     <location>
                         <geo decls="#dms" />
-                        <geo decls="#dd" />
+                        <!-- a point near Tell Brak, placeholder -->
+                        <geo decls="#dd">36.687332 41.032306</geo>
                         <country key="SY">Syria</country>
                     </location>
                     <note>Village in al-Hasakah Governorate, associated with the Tell Brak countryside / Bir al-Helou al-Wardiya area. No secure GeoNames match identified yet.</note>
@@ -4900,7 +4901,7 @@
                 </place>
                 <place type="geo" xml:id="kormakitis">
                     <placeName type="prefLabel">Kormakitis</placeName>
-                    <placeName type="prefLabel">Koruçam</placeName>
+                    <placeName type="local">Koruçam</placeName>
                     <placeName xml:lang="ar" type="standard">كورماكيتيس</placeName>
                     <location>
                         <geo decls="#dms">35°20'33"N 32°58'43"E</geo>
@@ -5378,7 +5379,7 @@
                 </place>
                 <place type="geo" xml:id="mocha">
                     <placeName type="prefLabel">Mocha</placeName>
-                    <placeName type="prefLabel">al-Muxā</placeName>
+                    <placeName type="local">al-Muxā</placeName>
                     <placeName xml:lang="ar" type="standard">المخا</placeName>
                     <location>
                         <geo decls="#dms">13°19′05″N 43°15′00″E</geo>
