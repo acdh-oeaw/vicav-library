@@ -8,7 +8,7 @@
         <p>unpublished</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-09-30 15:02:45</p>
+        <p>Generated from Zotero database by fetch_generated_tei_and_process.ipynb on 2026-10-27 10:13:36</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -1356,7 +1356,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
           <ref target="geo:libya" type="subject" subtype="geographic">Libya</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:loanwords" type="subject" subtype="concept">loanwords</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="DAnna_2019715_4868" corresp="http://zotero.org/groups/2165756/items/G5HMUCTE" n="Khalfaoui2019g">
@@ -3682,7 +3682,7 @@ Two major theoretical issues are also addressed: the notion of "abstractness," a
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="Iriarte_Prochazka_2026_1234" corresp="http://zotero.org/groups/2165756/items/FLXH8W2K" n="Iriarte_Díez2027a">
           <analytic>
-            <title level="a">Raising of non-final short /*a/ in  spoken Arabic dialects: Patterns, histories and classification</title>
+            <title level="a">Raising of non-final short /*a/ in spoken Arabic dialects: Patterns, histories and classification</title>
             <author>
               <forename>Ana</forename>
               <surname>Iriarte Díez</surname>
@@ -5029,7 +5029,6 @@ variation based on the speaker’s age,gender and origin. Moreover, comparative 
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -5499,6 +5498,9 @@ variation based on the speaker’s age,gender and origin. Moreover, comparative 
               <date>2026</date>
             </imprint>
           </monogr>
+          <note type="tags">
+            <note type="tag">out:WIBARAB</note>
+          </note>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="Prochazka_2026_3847" corresp="http://zotero.org/groups/2165756/items/BSB8YGNA" n="Procházka2026a">
           <analytic>
@@ -7375,7 +7377,7 @@ Keywords: Dialect levelling, Tunisian Arabic dialects, Bedouin-type dialects</no
           <ref target="geo:israel" type="subject" subtype="geographic">Israel</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:palestine" type="subject" subtype="geographic">Palestine</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="_1982_3479" corresp="http://zotero.org/groups/2165756/items/TIB6ISBB" n="Ayyūb_Ḥ.1982">
           <monogr>
@@ -7393,7 +7395,6 @@ Keywords: Dialect levelling, Tunisian Arabic dialects, Bedouin-type dialects</no
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
@@ -8915,7 +8916,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:amman" type="subject" subtype="geographic">Amman</ref>
           <ref target="geo:jordan" type="subject" subtype="geographic">Jordan</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:loanwords" type="subject" subtype="concept">loanwords</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
         </biblStruct>
@@ -9118,7 +9119,6 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </monogr>
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:anthropology" type="subject" subtype="concept">anthropology</ref>
@@ -9166,7 +9166,6 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </monogr>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:frenchlanguage" type="subject" subtype="concept">french language</ref>
@@ -9195,7 +9194,6 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </monogr>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="abu_haidar_1995_0000" corresp="http://zotero.org/groups/2165756/items/VEPLT7J5" n="Abu-Haidar1995b">
@@ -12237,7 +12235,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           </series>
           <ref target="geo:eastern_anatolia_region" type="subject" subtype="geographic">Eastern Anatolia Region</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="akkus_grigore_2016_0000" corresp="http://zotero.org/groups/2165756/items/2MS54KAD" n="Akkuş2016b">
           <analytic>
@@ -13493,7 +13491,6 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -13660,7 +13657,6 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
               <date>2006</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -19173,7 +19169,6 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -20314,7 +20309,6 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -20379,7 +20373,6 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="barontini_ziamari_2016_0000" corresp="http://zotero.org/groups/2165756/items/9EEXUUTX" n="Barontini2016">
@@ -24532,7 +24525,6 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -25144,7 +25136,7 @@ Keywords: dialect levelling; gender and dialect; language attitudes; Tunisian Ar
             <title level="s">Contact and Multilingualism 1</title>
           </series>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="benkato_2021_3179" corresp="http://zotero.org/groups/2165756/items/RD9G436Q" n="Benkato2021">
           <analytic>
@@ -31439,7 +31431,6 @@ North Africa and classify them according to their origin (the denotative meaning
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -31477,7 +31468,6 @@ North Africa and classify them according to their origin (the denotative meaning
           </note>
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -31507,7 +31497,6 @@ North Africa and classify them according to their origin (the denotative meaning
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -31543,7 +31532,6 @@ North Africa and classify them according to their origin (the denotative meaning
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -31589,7 +31577,6 @@ North Africa and classify them according to their origin (the denotative meaning
             <p>UBW AR V 35/4</p>
           </note>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -35719,7 +35706,6 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>2001</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -35868,7 +35854,6 @@ North Africa and classify them according to their origin (the denotative meaning
               <date>2003</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -44440,7 +44425,6 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
@@ -47006,7 +46990,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
             <title level="s">Handbücher zur Sprach- und Kommunikationswissenschaft</title>
             <biblScope unit="volume">36</biblScope>
           </series>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="eid_1988_0000" corresp="http://zotero.org/groups/2165756/items/XLLRNKUU" n="Eid1988">
@@ -47193,7 +47177,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="vt:comparativestudies" type="subject" subtype="concept">comparative studies</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="eid_1995_2119" corresp="http://zotero.org/groups/2165756/items/E4JN2NVH" n="Eid1995c">
@@ -49110,7 +49094,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:berberlanguages" type="subject" subtype="concept">berber languages</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="ennaji_2008_3613" corresp="http://zotero.org/groups/2165756/items/9PKRHSIX" n="Ennaji2008">
@@ -50261,6 +50245,23 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:diglossia" type="subject" subtype="concept">diglossia</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="ferguson_1959_2837" corresp="http://zotero.org/groups/2165756/items/HQXT9NIR" n="Ferguson1959b">
+          <analytic>
+            <title level="a">Diglossia</title>
+            <author>
+              <forename>Charles A.</forename>
+              <surname>Ferguson</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Word</title>
+            <imprint>
+              <biblScope unit="volume">15</biblScope>
+              <biblScope unit="page">325-340</biblScope>
+              <date>1959</date>
+            </imprint>
+          </monogr>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="ferguson_1969_0000" corresp="http://zotero.org/groups/2165756/items/4CFL5AWU" n="Ferguson1969">
           <analytic>
@@ -52995,7 +52996,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <note>
             <p>Accession Number: ICHA1000661. Gaash, Amir. Issue Info: 44. Publication Date: 20170101. Number of Pages: 18. Document Type: Article. Language: English.</p>
           </note>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <note type="tags">
             <note type="tag">Arabic language: colloquial</note>
             <note type="tag">Colloquial Arabic dialects Shami</note>
@@ -54894,7 +54895,6 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
@@ -57066,7 +57066,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           </monogr>
           <note>Collection of texts published previously Text partly in English and partly in French</note>
           <ref target="vt:anthology" type="subject" subtype="concept">anthology</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
           <note type="tags">
@@ -61347,7 +61347,7 @@ This book is a useful reference for students of Gulf Arabic and/or Modern Standa
           <ref target="geo:cairo" type="subject" subtype="geographic">Cairo</ref>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:loanwords" type="subject" subtype="concept">loanwords</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="hassan_2019_4696" corresp="http://zotero.org/groups/2165756/items/42DPMBBV" n="Hassan2019a">
@@ -61810,7 +61810,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:israel" type="subject" subtype="geographic">Israel</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:palestine" type="subject" subtype="geographic">Palestine</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="hawker_2019_9017" corresp="http://zotero.org/groups/2165756/items/WBGTB9YZ" n="Hawker2019">
@@ -64709,7 +64709,6 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           </monogr>
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:oman" type="subject" subtype="geographic">Oman</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="holes_1999_2016" corresp="http://zotero.org/groups/2165756/items/KMTSCPUG" n="Holes1999">
@@ -65784,7 +65783,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:israel" type="subject" subtype="geographic">Israel</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:palestine" type="subject" subtype="geographic">Palestine</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="horesh_grigore_2016_0000" corresp="http://zotero.org/groups/2165756/items/DSBD3LSV" n="Horesh2016">
           <analytic>
@@ -68273,6 +68272,22 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
+        </biblStruct>
+        <biblStruct type="journalArticle" xml:id="iriarte_2023_4476" corresp="http://zotero.org/groups/2165756/items/FM9LM8ZL" n="Ana_Iriarte_Díez2023">
+          <analytic>
+            <title level="a">Topics and Topicalization in Highly Affective Communicative Contexts in Lebanese Arabic: A closer look on Participant Relevance Topics and their role in discourse</title>
+            <author>
+              <name>Ana Iriarte Díez</name>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">International Journal of Arabic Linguistics</title>
+            <imprint>
+              <biblScope unit="volume">9</biblScope>
+              <biblScope unit="page">91-110</biblScope>
+              <date>2023</date>
+            </imprint>
+          </monogr>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="iriarte_2025_1887" corresp="http://zotero.org/groups/2165756/items/WSZQTNZH" n="Iriarte_Díez2025c">
           <analytic>
@@ -71809,7 +71824,6 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
           <ref target="vt:sedentarydialect" type="subject" subtype="concept">sedentary dialect</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
@@ -71864,7 +71878,6 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:qatar" type="subject" subtype="geographic">Qatar</ref>
           <ref target="geo:saudi_arabia" type="subject" subtype="geographic">Saudi Arabia</ref>
           <ref target="geo:united_arab_emirates" type="subject" subtype="geographic">United Arab Emirates</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:linguistics_dialectology" type="subject" subtype="concept">linguistics/dialectology</ref>
           <note type="dataCollection">
             <date type="dataCollection" cert="high" notBefore-iso="1950-01-01" notAfter-iso="1959-12-31">1950s</date>
@@ -73925,7 +73938,6 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           </monogr>
           <ref target="geo:lebanon" type="subject" subtype="geographic">Lebanon</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
@@ -74781,7 +74793,6 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
         </biblStruct>
@@ -74801,7 +74812,6 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
         </biblStruct>
@@ -77564,7 +77574,6 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>1997</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -77824,7 +77833,6 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <ref target="vt:handbook" type="subject" subtype="concept">handbook</ref>
           <ref target="vt:teachingmaterials" type="subject" subtype="concept">teaching materials</ref>
@@ -77909,7 +77917,6 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
               <date>1996</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -78617,7 +78624,7 @@ Kervan. International Journal of African and Asian Studies, V. 25 N. 2 (2021): K
           <series>
             <title level="s">Contact and Multilingualism 1</title>
           </series>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:historicaldialectology" type="subject" subtype="concept">historical dialectology</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="lalami_1996_7759" corresp="http://zotero.org/groups/2165756/items/BK52BMJY" n="Lalami1996">
@@ -80233,7 +80240,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:iran" type="subject" subtype="geographic">Iran</ref>
           <ref target="geo:khuzestan" type="subject" subtype="geographic">Khuzestan</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <note type="dataCollection">
             <date type="dataCollection" cert="high" notBefore-iso="2010-01-01" notAfter-iso="2019-12-31">2010s</date>
           </note>
@@ -82701,7 +82708,6 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>1984</date>
             </imprint>
           </monogr>
-          <ref target="vt:__djibouti_kenia___" type="subject" subtype="concept">//Djibouti, Kenia ...</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:eastafrica" type="subject" subtype="concept">East Africa</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -82724,7 +82730,6 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>1994</date>
             </imprint>
           </monogr>
-          <ref target="vt:__djibouti_kenia___" type="subject" subtype="concept">//Djibouti, Kenia ...</ref>
           <ref target="vt:eastafrica" type="subject" subtype="concept">East Africa</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -83283,7 +83288,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
             </imprint>
           </monogr>
           <ref target="geo:egypt" type="subject" subtype="geographic">Egypt</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="lucas_2010_5219" corresp="http://zotero.org/groups/2165756/items/73ST97DA" n="Lucas2010">
@@ -83412,7 +83417,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:mauritania" type="subject" subtype="geographic">Mauritania</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="lucas_2020_9163" corresp="http://zotero.org/groups/2165756/items/RLWHIEMA" n="Lucas2020n">
           <analytic>
@@ -84651,7 +84656,6 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
           <ref target="vt:ethnographicrecord" type="subject" subtype="concept">ethnographic record</ref>
@@ -87328,7 +87332,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:israel" type="subject" subtype="geographic">Israel</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:palestine" type="subject" subtype="geographic">Palestine</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:pragmatics" type="subject" subtype="concept">pragmatics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -87777,7 +87781,6 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>2002</date>
             </imprint>
           </monogr>
-          <ref target="vt:___afghanistan_uzbekistan_" type="subject" subtype="concept">// (Afghanistan, Uzbekistan)</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="mazraani_1995_2858" corresp="http://zotero.org/groups/2165756/items/JXG9ALJK" n="Mazraani1995b">
@@ -88273,7 +88276,6 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:algeria" type="subject" subtype="geographic">Algeria</ref>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -88955,7 +88957,6 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
               <date>1996</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:anthropology" type="subject" subtype="concept">anthropology</ref>
@@ -90840,11 +90841,23 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
         </biblStruct>
         <biblStruct type="book" xml:id="miller_2007_0002" corresp="http://zotero.org/groups/2165756/items/MZ53FL7L" n="Miller2007c">
           <monogr>
-            <title level="m">Arabic in the city: issues in dialect contact and language variation. Ed. Catherine Miller, Enam al-Wer, Dominique Caubet and Janet C.E.Watson</title>
-            <author>
+            <title level="m">Arabic in the city: issues in dialect contact and language variation</title>
+            <editor>
               <forename>Catherine</forename>
               <surname>Miller</surname>
-            </author>
+            </editor>
+            <editor>
+              <forename>Enam</forename>
+              <surname>Al-Wer</surname>
+            </editor>
+            <editor>
+              <forename>Dominique</forename>
+              <surname>Caubet</surname>
+            </editor>
+            <editor>
+              <forename>Janet</forename>
+              <surname>Watson</surname>
+            </editor>
             <imprint>
               <pubPlace>London</pubPlace>
               <publisher>Routledge</publisher>
@@ -90882,7 +90895,7 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <analytic>
             <title level="a">Arabic Urban Vernaculars</title>
             <author>
-              <forename>Cahterine</forename>
+              <forename>Catherine</forename>
               <surname>Miller</surname>
             </author>
           </analytic>
@@ -92426,7 +92439,6 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           </monogr>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -94452,7 +94464,6 @@ Chapter Three is devoted to the syntactic study of the main types of sentences w
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
           <ref target="vt:loanwords" type="subject" subtype="concept">loanwords</ref>
@@ -95049,7 +95060,6 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
           <ref target="vt:morphology" type="subject" subtype="concept">morphology</ref>
           <ref target="vt:syntax" type="subject" subtype="concept">syntax</ref>
@@ -96583,7 +96593,6 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
               <date>1991</date>
             </imprint>
           </monogr>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -96613,7 +96622,6 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           </monogr>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
@@ -96926,7 +96934,6 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
         </biblStruct>
@@ -99500,7 +99507,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
             <title level="s">Contact and Multilingualism 1</title>
           </series>
           <ref target="geo:nigeria" type="subject" subtype="geographic">Nigeria</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="owens_2023_3928" corresp="http://zotero.org/groups/2165756/items/W53B3GZT" n="Owens2023">
           <monogr>
@@ -104456,7 +104463,7 @@ Keywords: Tunisian Arabic, Bedouin Arabic, linguistic Variation, pronominal Suff
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:syria" type="subject" subtype="geographic">Syria</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="procházka_2020_9182" corresp="http://zotero.org/groups/2165756/items/JLH7WA7R" n="Procházka2020b">
           <analytic>
@@ -110500,7 +110507,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
               <date>2002</date>
             </imprint>
           </monogr>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="rouchdy_2002_9872" corresp="http://zotero.org/groups/2165756/items/HYBSLHJM" n="Rouchdy2002a">
@@ -110955,7 +110962,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -110978,7 +110984,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
@@ -111062,7 +111067,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
@@ -111284,7 +111288,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
         </biblStruct>
         <biblStruct type="conferencePaper" xml:id="ruiter_2009_5343" corresp="http://zotero.org/groups/2165756/items/B5XP66C2" n="Ruiter2009a">
@@ -111312,7 +111315,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <p>UBW AR V 799.2</p>
           </note>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
         </biblStruct>
@@ -111475,7 +111477,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="rūmī_1980_3581" corresp="http://zotero.org/groups/2165756/items/2Z42U599" n="Al-Rūmī1980">
@@ -111498,7 +111499,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="rūmī_1982_0906" corresp="http://zotero.org/groups/2165756/items/CHLS48EJ" n="Al-Rūmī1982">
@@ -111521,7 +111521,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="rūmī_1984_2965" corresp="http://zotero.org/groups/2165756/items/7KSQMTVS" n="Al-Rūmī1984">
@@ -111544,7 +111543,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="rūmī_2005_8316" corresp="http://zotero.org/groups/2165756/items/8K5EHM27" n="Al-Rūmī2005">
@@ -111563,7 +111561,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
@@ -112129,7 +112126,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:diachronicperspective" type="subject" subtype="concept">diachronic perspective</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
@@ -112150,7 +112146,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:bedouindialect" type="subject" subtype="concept">bedouin dialect</ref>
           <ref target="vt:dictionary" type="subject" subtype="concept">dictionary</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
@@ -112365,7 +112360,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </series>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:genderaspects" type="subject" subtype="concept">gender aspects</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -112484,7 +112479,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -113946,7 +113940,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
           <ref target="geo:tunisia" type="subject" subtype="geographic">Tunisia</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:frenchlanguage" type="subject" subtype="concept">french language</ref>
           <ref target="vt:spanish" type="subject" subtype="concept">spanish</ref>
           <note type="tags">
@@ -114011,7 +114005,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </note>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="geo:tunisia" type="subject" subtype="geographic">Tunisia</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <note type="tags">
             <note type="tag">Arabic language: colloquial</note>
             <note type="tag">Colloquial Arabic dialects Maghribi</note>
@@ -114979,7 +114973,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:iraq" type="subject" subtype="geographic">Iraq</ref>
           <ref target="geo:mesopotamia" type="subject" subtype="geographic">Mesopotamia</ref>
-          <ref target="vt:___afghanistan_uzbekistan_" type="subject" subtype="concept">// (Afghanistan, Uzbekistan)</ref>
           <ref target="vt:transcribedtexts" type="subject" subtype="concept">transcribed texts</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="seghayar_2006_0000" corresp="http://zotero.org/groups/2165756/items/24BGSTCR" n="Seghayar2006">
@@ -117312,7 +117305,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:djibouti" type="subject" subtype="geographic">Djibouti</ref>
           <ref target="geo:egypt_sudan" type="subject" subtype="geographic">Egypt-Sudan</ref>
-          <ref target="vt:__djibouti_kenia___" type="subject" subtype="concept">//Djibouti, Kenia ...</ref>
           <ref target="vt:descriptionofdialect" type="subject" subtype="concept">description of dialect</ref>
           <note type="dataCollection">
             <date type="dataCollection" cert="low" notBefore-iso="1990-01-01" notAfter-iso="1999-12-31">1990s</date>
@@ -118681,7 +118673,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <title level="s">Contact and Multilingualism 1</title>
           </series>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
         </biblStruct>
         <biblStruct type="book" xml:id="sobelmann_s_harrell_1963_0000" corresp="http://zotero.org/groups/2165756/items/Q4IWLUTU" n="Sobelmann1963">
           <monogr>
@@ -118896,7 +118888,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:cilicia" type="subject" subtype="geographic">Cilicia</ref>
           <ref target="geo:turkey" type="subject" subtype="geographic">Turkey</ref>
           <ref target="geo:cukurova" type="subject" subtype="geographic">Çukurova</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:phonology" type="subject" subtype="concept">phonology</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="sokhey_2021_1670" corresp="http://zotero.org/groups/2165756/items/I6Z63IXN" n="Sokhey2021">
@@ -119303,7 +119295,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </series>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
           <ref target="vt:berberlanguages" type="subject" subtype="concept">berber languages</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="souag_2023_2911" corresp="http://zotero.org/groups/2165756/items/5U3YWIMG" n="Souag2023b">
           <analytic>
@@ -121121,7 +121113,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:israel" type="subject" subtype="geographic">Israel</ref>
           <ref target="geo:levant" type="subject" subtype="geographic">Levant</ref>
           <ref target="geo:palestine" type="subject" subtype="geographic">Palestine</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
           <note type="abstract">Yasir Suleiman's 2004 book considers national identity in relation to language, the way in which language can be manipulated to signal political, cultural or even historical difference. As a language with a long-recorded heritage and one spoken by the majority of those in the Middle East in a variety of dialects, Arabic is a particularly appropriate vehicle for such an investigation. It is also a penetrating device for exploring the conflicts of the Middle East, the diversity of its peoples and the diversity of their viewpoints. Suleiman's book offers a wealth of empirical material, and intriguing, often poignant illustrations of antagonisms articulated through pun or double entendre.</note>
         </biblStruct>
@@ -124405,7 +124397,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <biblScope unit="volume">36</biblScope>
           </series>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:minorities" type="subject" subtype="concept">minorities</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
@@ -125310,7 +125302,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           </monogr>
           <ref target="geo:central_asia" type="subject" subtype="geographic">Central Asia</ref>
           <ref target="geo:uzbekistan" type="subject" subtype="geographic">Uzbekistan</ref>
-          <ref target="vt:___afghanistan_uzbekistan_" type="subject" subtype="concept">// (Afghanistan, Uzbekistan)</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:ethnicminorities" type="subject" subtype="concept">ethnic minorities</ref>
           <ref target="vt:general_comparativestudy" type="subject" subtype="concept">general/comparative study</ref>
@@ -126463,7 +126454,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <title level="s">Contact and Multilingualism 1</title>
           </series>
           <ref target="geo:sudan" type="subject" subtype="geographic">Sudan</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="vanhove_cremona_1995_0000" corresp="http://zotero.org/groups/2165756/items/GQ7SFJ6Z" n="Vanhove1995a">
           <analytic>
@@ -127264,7 +127255,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <note>
             <p>UBW AR Z 315/4</p>
           </note>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabworldgeneral" type="subject" subtype="concept">Arab World general</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
@@ -127619,7 +127609,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -127682,7 +127671,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:ceuta" type="subject" subtype="geographic">Ceuta</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
           <ref target="vt:conversation_dialogue" type="subject" subtype="concept">conversation/dialogue</ref>
@@ -127957,7 +127945,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <title level="s">Contact and Multilingualism 1</title>
           </series>
           <ref target="geo:andalusia" type="subject" subtype="geographic">Andalusia</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="vicente_2021_4837" corresp="http://zotero.org/groups/2165756/items/GZ48P8HZ" n="Vicente_Ángeles2021">
           <analytic>
@@ -129057,7 +129045,7 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <title level="s">Contact and Multilingualism 1</title>
           </series>
           <ref target="geo:cyprus" type="subject" subtype="geographic">Cyprus</ref>
-          <ref target="vt:contactlinguistic" type="subject" subtype="concept">contact linguistic</ref>
+          <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="walter_2021_2893" corresp="http://zotero.org/groups/2165756/items/AMSM72N3" n="Walter2021">
           <analytic>
@@ -130875,7 +130863,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             </imprint>
           </monogr>
           <ref target="geo:maghreb" type="subject" subtype="geographic">Maghreb</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:sociolinguistics" type="subject" subtype="concept">sociolinguistics</ref>
         </biblStruct>
         <biblStruct type="bookSection" xml:id="westermarck_1907_4140" corresp="http://zotero.org/groups/2165756/items/A7VYXERN" n="Westermarck1907">
@@ -133151,7 +133138,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
           <ref target="geo:arabian_peninsula" type="subject" subtype="geographic">Arabian Peninsula</ref>
           <ref target="geo:gulf_reg" type="subject" subtype="geographic">Gulf</ref>
           <ref target="geo:kuwait" type="subject" subtype="geographic">Kuwait</ref>
-          <ref target="vt:___kuwayt_bahrain_qatar_uae_" type="subject" subtype="concept">// (Kuwayt, Bahrain, Qatar, UAE)</ref>
           <ref target="vt:lexicon" type="subject" subtype="concept">lexicon</ref>
         </biblStruct>
         <biblStruct type="journalArticle" xml:id="yassin_1977_7706" corresp="http://zotero.org/groups/2165756/items/K5MA67UZ" n="Yassin1977b">
@@ -136408,7 +136394,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <p>Kat.Nr.: 81 Betreuer: Miloud Taifi</p>
           </note>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:maghreb" type="subject" subtype="concept">Maghreb</ref>
@@ -136437,7 +136422,6 @@ Keywords:diminutives, hypocoristics, morphological richness, pet-centered speech
             <p>??????</p>
           </note>
           <ref target="geo:morocco" type="subject" subtype="geographic">Morocco</ref>
-          <ref target="vt:__e_g_europe_americas" type="subject" subtype="concept">//e.g. Europe, Americas</ref>
           <ref target="vt:arabicasaminoritylanguage" type="subject" subtype="concept">Arabic as a minority language</ref>
           <ref target="vt:diaspora" type="subject" subtype="concept">Diaspora</ref>
           <ref target="vt:contactlinguistics" type="subject" subtype="concept">contact linguistics</ref>
