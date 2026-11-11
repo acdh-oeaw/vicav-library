@@ -20,6 +20,7 @@
         <p>Converted from SKOS at https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex. This vocabulary provides a list of semantic items used in various VICAV resources.</p>
       </sourceDesc>
     </fileDesc>
+    
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="domains">
@@ -134,6 +135,7 @@
             </catDesc>
           </category>
         </taxonomy>
+        
         <taxonomy xml:id="semCats">
           <category xml:id="semCats.academicDiscipline">
             <catDesc xml:lang="en">
