@@ -77,7 +77,7 @@
             </div>
             <div>
                 <head>Formal Specification</head>
-                <schemaSpec ident="vicav_corpus" start="TEI teiCorpus">
+                <schemaSpec ident="vicav_corpus" start="TEI">
                     <moduleRef key="header" include="availability catRef keywords change distributor encodingDesc fileDesc funder idno licence listPrefixDef notesStmt prefixDef profileDesc publicationStmt rendition revisionDesc sourceDesc tagsDecl teiHeader textClass titleStmt" />
                     <moduleRef key="core" include="address addrLine author bibl biblStruct cit corr date desc editor gap graphic head hi imprint media milestone monogr name note p publisher pubPlace quote ref respStmt resp rs series title term" />
                     <moduleRef key="tei" />
